@@ -1,0 +1,1326 @@
+Order_ID,Product,Category,Region,Quantity,Unit_Price,Total_Price,Discount_Pct,Payment_Method,Order_Status,Customer_Age,Order_Date,Rating
+ORD00001,Phone,Electronics,South,9,663.78,5974.02,0.0,Bank Transfer,Delivered,20.0,2023-01-01,4.0
+ORD00002,Monitor,Accessories,Central,14,1206.8,16895.2,20.0,Cash,Cancelled,19.0,2023-01-01,2.4
+ORD00003,Speaker,Audio,West,1,466.92,466.92,10.0,Cash,Delivered,43.0,2023-01-01,3.8
+ORD00004,Charger,Accessories,East,13,1490.46,19375.98,10.0,PayPal,Delivered,40.0,2023-01-01,3.6
+ORD00005,Speaker,Audio,Central,4,41.73,166.92,10.0,Bank Transfer,Cancelled,25.0,2023-01-02,2.4
+ORD00006,Charger,Accessories,South,5,250.32,1251.6,0.0,PayPal,Delivered,54.0,2023-01-02,3.3
+ORD00007,Tablet,Electronics,North,6,265.26,1591.56,0.0,PayPal,Pending,67.0,2023-01-02,4.4
+ORD00008,Keyboard,Accessories,South,10,41.7,417.0,5.0,Bank Transfer,Delivered,37.0,2023-01-02,4.9
+ORD00009,Mouse,Accessories,North,10,355.72,,15.0,Bank Transfer,Delivered,45.0,2023-01-03,4.2
+ORD00010,Keyboard,Accessories,South,13,860.47,11186.11,0.0,Bank Transfer,Pending,66.0,2023-01-03,4.4
+ORD00011,Phone,Electronics,Central,12,99999.0,3816.84,,Bank Transfer,Delivered,56.0,2023-01-03,1.0
+ORD00012,Webcam,Accessories,East,5,653.58,3267.9,20.0,Credit Card,Cancelled,,2023-01-03,3.8
+ORD00013,Monitor,Accessories,West,8,776.67,6213.36,5.0,Cash,Pending,50.0,2023-01-04,3.6
+ORD00014,Webcam,Accessories,North,8,705.47,5643.76,10.0,Credit Card,Delivered,27.0,2023-01-04,1.5
+ORD00015,Phone,Electronics,South,2,1482.97,2965.94,10.0,PayPal,Cancelled,55.0,2023-01-04,2.6
+ORD00016,Phone,Electronics,East,12,70.26,843.12,10.0,Bank Transfer,Delivered,31.0,2023-01-04,5.0
+ORD00017,Laptop,Electronics,East,3,867.84,2603.52,15.0,,Delivered,,2023-01-05,2.6
+ORD00018,Headphones,Audio,East,18,224.98,4049.64,5.0,Cash,Delivered,30.0,2023-01-05,3.9
+ORD00019,Keyboard,Accessories,West,2,424.38,848.76,10.0,Bank Transfer,Pending,46.0,2023-01-05,1.6
+ORD00020,Webcam,Accessories,West,13,787.45,10236.85,5.0,Cash,Delivered,48.0,2023-01-05,2.4
+ORD00021,Tablet,Electronics,West,16,130.68,2090.88,10.0,PayPal,Cancelled,61.0,2023-01-06,1.7
+ORD00022,Laptop,Electronics,Central,14,660.75,9250.5,10.0,Credit Card,Delivered,29.0,2023-01-06,3.2
+ORD00023,Charger,Accessories,Central,8,1496.22,11969.76,20.0,Cash,Delivered,69.0,2023-01-06,3.5
+ORD00024,Charger,Accessories,North,2,533.48,1066.96,10.0,PayPal,Pending,66.0,2023-01-06,3.0
+ORD00025,Keyboard,Accessories,East,18,391.52,7047.36,10.0,,Delivered,39.0,2023-01-07,4.7
+ORD00026,Speaker,Audio,Central,12,770.73,9248.76,10.0,Bank Transfer,Delivered,67.0,2023-01-07,2.2
+ORD00027,Webcam,Accessories,Central,3,1279.95,,0.0,Credit Card,Pending,,2023-01-07,2.1
+ORD00028,Mouse,Accessories,West,11,1078.25,11860.75,10.0,Credit Card,Delivered,63.0,2023-01-07,3.3
+ORD00029,Keyboard,Accessories,East,12,679.37,8152.44,15.0,Credit Card,Pending,32.0,2023-01-08,4.2
+ORD00030,Speaker,Audio,West,11,150.79,1658.69,15.0,Credit Card,Delivered,62.0,2023-01-08,4.9
+ORD00031,Phone,Electronics,North,1,783.49,783.49,5.0,Cash,Delivered,19.0,2023-01-08,3.9
+ORD00032,Speaker,Audio,Central,19,237.11,4505.09,10.0,Cash,Cancelled,68.0,2023-01-08,1.8
+ORD00033,Laptop,Electronics,North,13,1354.36,17606.68,15.0,Cash,Pending,69.0,2023-01-09,3.3
+ORD00034,Mouse,Accessories,East,15,1401.27,21019.05,20.0,Credit Card,Delivered,58.0,2023-01-09,2.7
+ORD00035,Speaker,Audio,North,14,435.47,6096.58,15.0,Bank Transfer,Delivered,58.0,2023-01-09,3.4
+ORD00036,Monitor,Accessories,Central,10,1435.52,14355.2,15.0,PayPal,Delivered,20.0,2023-01-09,4.6
+ORD00037,Monitor,Accessories,West,18,465.26,8374.68,10.0,Credit Card,Delivered,23.0,2023-01-10,2.8
+ORD00038,Headphones,Audio,North,19,1144.43,21744.17,15.0,,Delivered,42.0,2023-01-10,1.7
+ORD00039,Tablet,Electronics,East,9,409.4,3684.6,15.0,Credit Card,Pending,64.0,2023-01-10,4.4
+ORD00040,Mouse,Accessories,East,10,663.1,6631.0,0.0,,Delivered,61.0,2023-01-10,1.2
+ORD00041,Laptop,Electronics,West,17,460.32,7825.44,0.0,Credit Card,Pending,57.0,2023-01-11,3.6
+ORD00042,Mouse,Accessories,West,1,1125.34,1125.34,0.0,Credit Card,Pending,56.0,2023-01-11,4.5
+ORD00043,Phone,Electronics,Central,14,55.76,780.64,5.0,Cash,Cancelled,27.0,2023-01-11,4.0
+ORD00044,Tablet,Electronics,Central,3,1053.88,3161.64,15.0,Bank Transfer,Delivered,29.0,2023-01-11,4.0
+ORD00045,Phone,Electronics,South,14,273.74,3832.36,20.0,PayPal,Delivered,69.0,2023-01-12,2.0
+ORD00046,Speaker,Audio,East,10,978.77,9787.7,5.0,Bank Transfer,Cancelled,38.0,2023-01-12,4.8
+ORD00047,Phone,Electronics,South,10,1026.52,10265.2,5.0,Bank Transfer,Cancelled,50.0,2023-01-12,3.9
+ORD00048,Monitor,Accessories,North,13,1159.14,15068.82,,Cash,Cancelled,47.0,2023-01-12,2.1
+ORD00049,Charger,Accessories,Central,2,708.42,1416.84,20.0,Bank Transfer,Delivered,42.0,2023-01-13,2.8
+ORD00050,Charger,Accessories,Central,5,67.21,336.05,0.0,,Delivered,57.0,2023-01-13,1.9
+ORD00051,Speaker,Audio,North,18,525.52,9459.36,20.0,Bank Transfer,Cancelled,150.0,2023-01-13,5.0
+ORD00052,Tablet,Electronics,South,2,322.11,,10.0,Credit Card,Pending,61.0,2023-01-13,1.6
+ORD00053,Speaker,Audio,North,4,1379.51,5518.04,5.0,Credit Card,Cancelled,52.0,2023-01-14,2.3
+ORD00054,Charger,Accessories,West,19,1357.64,25795.16,15.0,Cash,Delivered,24.0,2023-01-14,2.1
+ORD00055,Laptop,Electronics,Central,10,934.78,9347.8,20.0,Bank Transfer,Pending,31.0,2023-01-14,3.2
+ORD00056,Webcam,Accessories,East,5,1172.18,5860.9,0.0,,Delivered,24.0,2023-01-14,5.0
+ORD00057,Monitor,Accessories,South,14,328.1,4593.4,10.0,PayPal,Delivered,31.0,2023-01-15,4.1
+ORD00058,Tablet,Electronics,West,14,280.4,3925.6,5.0,Cash,Pending,20.0,2023-01-15,
+ORD00059,Laptop,Electronics,West,13,375.44,4880.72,0.0,PayPal,Pending,43.0,2023-01-15,1.1
+ORD00060,Headphones,Audio,West,7,12.57,87.99,,Bank Transfer,Delivered,52.0,2023-01-15,1.2
+ORD00061,Laptop,Electronics,Central,8,1197.51,9580.08,20.0,Cash,Cancelled,60.0,2023-01-16,4.5
+ORD00062,Tablet,Electronics,Central,18,453.9,8170.2,,Cash,Delivered,26.0,2023-01-16,1.6
+ORD00063,Monitor,Accessories,Central,7,756.39,5294.73,15.0,PayPal,Delivered,50.0,2023-01-16,4.7
+ORD00064,Tablet,Electronics,West,14,251.16,3516.24,5.0,Credit Card,Delivered,47.0,2023-01-16,3.5
+ORD00065,Charger,Accessories,East,11,1440.74,,20.0,Bank Transfer,Delivered,49.0,2023-01-17,1.8
+ORD00066,Monitor,Accessories,Central,18,591.57,10648.26,15.0,Credit Card,Cancelled,40.0,2023-01-17,
+ORD00067,Mouse,Accessories,East,15,602.58,9038.7,10.0,PayPal,Delivered,36.0,2023-01-17,
+ORD00068,Mouse,Accessories,West,11,874.98,9624.78,5.0,Credit Card,Delivered,40.0,2023-01-17,1.2
+ORD00069,Speaker,Audio,East,8,580.7,4645.6,15.0,Cash,Cancelled,59.0,2023-01-18,1.1
+ORD00070,Keyboard,Accessories,West,17,1086.15,18464.55,5.0,PayPal,Delivered,46.0,2023-01-18,2.4
+ORD00071,Phone,Electronics,North,16,1242.98,19887.68,0.0,Bank Transfer,Delivered,,2023-01-18,2.0
+ORD00072,Keyboard,Accessories,East,7,33.61,235.27,10.0,Credit Card,Cancelled,,2023-01-18,2.1
+ORD00073,Speaker,Audio,South,19,1384.33,26302.27,5.0,Bank Transfer,Delivered,26.0,2023-01-19,3.1
+ORD00074,Webcam,Accessories,West,13,1475.27,19178.51,10.0,Cash,Cancelled,56.0,2023-01-19,2.3
+ORD00075,Headphones,Audio,North,13,730.17,9492.21,5.0,,Delivered,60.0,2023-01-19,3.7
+ORD00076,Mouse,Accessories,Central,13,254.44,3307.72,20.0,Credit Card,Cancelled,37.0,2023-01-19,4.6
+ORD00077,Webcam,Accessories,Central,5,1067.49,5337.45,15.0,Cash,Cancelled,21.0,2023-01-20,1.6
+ORD00078,Mouse,Accessories,South,15,548.09,8221.35,15.0,Cash,Delivered,40.0,2023-01-20,
+ORD00079,Laptop,Electronics,West,8,775.27,6202.16,,Bank Transfer,Cancelled,,2023-01-20,3.5
+ORD00080,Monitor,Accessories,North,13,786.66,10226.58,20.0,Credit Card,Pending,64.0,2023-01-20,3.6
+ORD00081,Webcam,Accessories,North,18,1259.06,22663.08,5.0,Cash,Delivered,31.0,2023-01-21,4.1
+ORD00082,Speaker,Audio,East,4,180.37,,20.0,PayPal,Pending,,2023-01-21,2.3
+ORD00083,Mouse,Accessories,South,13,476.16,6190.08,15.0,Credit Card,Delivered,18.0,2023-01-21,4.8
+ORD00084,Webcam,Accessories,East,12,726.16,8713.92,15.0,PayPal,Delivered,29.0,2023-01-21,1.8
+ORD00085,Webcam,Accessories,East,13,611.24,7946.12,5.0,Cash,Delivered,41.0,2023-01-22,1.4
+ORD00086,Charger,Accessories,Central,7,351.26,2458.82,5.0,Cash,Pending,37.0,2023-01-22,2.7
+ORD00087,Charger,Accessories,East,14,1473.89,20634.46,0.0,PayPal,Cancelled,25.0,2023-01-22,4.0
+ORD00088,Laptop,Electronics,South,19,1057.78,20097.82,20.0,Bank Transfer,Delivered,28.0,2023-01-22,1.4
+ORD00089,Tablet,Electronics,West,5,1349.87,6749.35,5.0,Bank Transfer,Cancelled,39.0,2023-01-23,1.6
+ORD00090,Monitor,Accessories,South,8,873.67,6989.36,5.0,Credit Card,Delivered,56.0,2023-01-23,3.4
+ORD00091,Keyboard,Accessories,West,7,364.36,2550.52,20.0,Credit Card,Delivered,33.0,2023-01-23,4.4
+ORD00092,Laptop,Electronics,South,9,953.48,8581.32,20.0,PayPal,Pending,22.0,2023-01-23,4.2
+ORD00093,Charger,Accessories,South,11,1086.29,11949.19,5.0,Credit Card,Delivered,54.0,2023-01-24,2.3
+ORD00094,Laptop,Electronics,Central,7,959.98,6719.86,15.0,,Pending,33.0,2023-01-24,3.5
+ORD00095,Speaker,Audio,East,17,1127.05,19159.85,10.0,Cash,Pending,59.0,2023-01-24,3.9
+ORD00096,Laptop,Electronics,Central,10,51.27,512.7,10.0,Bank Transfer,Cancelled,26.0,2023-01-24,4.3
+ORD00097,Charger,Accessories,East,2,1381.56,2763.12,5.0,PayPal,Delivered,55.0,2023-01-25,4.9
+ORD00098,Keyboard,Accessories,Central,3,55.35,166.05,0.0,Credit Card,Delivered,20.0,2023-01-25,2.5
+ORD00099,Phone,Electronics,West,4,399.56,1598.24,20.0,Cash,Pending,68.0,2023-01-25,1.1
+ORD00100,Laptop,Electronics,South,-5,433.8,3904.2,0.0,PayPal,Cancelled,45.0,2023-01-25,3.4
+ORD00101,Webcam,Accessories,South,10,1010.44,10104.4,15.0,Bank Transfer,Cancelled,44.0,2023-01-26,4.5
+ORD00102,Speaker,Audio,West,6,513.52,3081.12,20.0,Credit Card,Delivered,61.0,2023-01-26,
+ORD00103,Tablet,Electronics,Central,13,668.86,8695.18,20.0,Cash,Delivered,69.0,2023-01-26,3.2
+ORD00104,Webcam,Accessories,North,12,949.01,11388.12,10.0,Credit Card,Delivered,25.0,2023-01-26,2.9
+ORD00105,Headphones,Audio,Central,18,1331.42,23965.56,20.0,Cash,Cancelled,,2023-01-27,2.7
+ORD00106,Phone,Electronics,West,8,150.39,,15.0,Cash,Delivered,32.0,2023-01-27,2.1
+ORD00107,Keyboard,Accessories,South,12,1063.02,12756.24,10.0,Credit Card,Cancelled,59.0,2023-01-27,
+ORD00108,Tablet,Electronics,Central,11,229.91,,0.0,Credit Card,Delivered,29.0,2023-01-27,1.6
+ORD00109,Headphones,Audio,West,8,993.97,7951.76,20.0,Credit Card,Pending,37.0,2023-01-28,4.0
+ORD00110,Charger,Accessories,South,4,405.0,1620.0,15.0,Bank Transfer,Delivered,32.0,2023-01-28,2.2
+ORD00111,Tablet,Electronics,North,6,655.6,3933.6,,PayPal,Delivered,42.0,2023-01-28,3.3
+ORD00112,Tablet,Electronics,East,11,210.74,2318.14,5.0,Cash,Delivered,19.0,2023-01-28,1.4
+ORD00113,Webcam,Accessories,Central,11,663.2,7295.2,15.0,,Pending,32.0,2023-01-29,2.4
+ORD00114,Tablet,Electronics,West,13,1238.26,16097.38,10.0,PayPal,Pending,,2023-01-29,4.5
+ORD00115,Monitor,Accessories,West,11,895.89,9854.79,15.0,PayPal,Pending,38.0,2023-01-29,3.2
+ORD00116,Tablet,Electronics,North,4,1499.99,5999.96,5.0,Credit Card,Cancelled,62.0,2023-01-29,3.6
+ORD00117,Headphones,Audio,East,5,43.87,219.35,20.0,Credit Card,Delivered,44.0,2023-01-30,3.5
+ORD00118,Phone,Electronics,Central,7,579.73,4058.11,20.0,Cash,Delivered,55.0,2023-01-30,1.9
+ORD00119,Headphones,Audio,West,17,423.2,7194.4,20.0,Cash,Cancelled,64.0,2023-01-30,3.5
+ORD00120,Monitor,Accessories,North,13,114.53,1488.89,0.0,Credit Card,Cancelled,19.0,2023-01-30,3.7
+ORD00121,Headphones,Audio,West,6,973.91,5843.46,10.0,Cash,Delivered,63.0,2023-01-31,2.9
+ORD00122,Webcam,Accessories,North,5,1457.4,7287.0,10.0,Bank Transfer,Delivered,46.0,2023-01-31,2.2
+ORD00123,Keyboard,Accessories,North,19,1182.13,22460.47,5.0,Cash,Delivered,23.0,2023-01-31,4.3
+ORD00124,Keyboard,Accessories,South,4,1284.75,5139.0,10.0,Bank Transfer,Delivered,56.0,2023-01-31,2.6
+ORD00125,Speaker,Audio,Central,5,1451.54,7257.7,20.0,Credit Card,Delivered,27.0,2023-02-01,4.7
+ORD00126,Speaker,Audio,West,4,932.69,3730.76,5.0,,Delivered,31.0,2023-02-01,3.0
+ORD00127,Tablet,Electronics,Central,17,1457.87,24783.79,15.0,PayPal,Delivered,37.0,2023-02-01,1.6
+ORD00128,Webcam,Accessories,East,2,975.36,1950.72,0.0,Bank Transfer,Delivered,26.0,2023-02-01,1.1
+ORD00129,Speaker,Audio,Central,5,318.76,1593.8,20.0,Bank Transfer,Delivered,46.0,2023-02-02,4.0
+ORD00130,Mouse,Accessories,Central,8,823.71,6589.68,15.0,Credit Card,Delivered,54.0,2023-02-02,2.8
+ORD00131,Mouse,Accessories,West,7,721.85,5052.95,10.0,Credit Card,Delivered,61.0,2023-02-02,3.0
+ORD00132,Phone,Electronics,South,15,782.58,11738.7,5.0,Cash,Delivered,64.0,2023-02-02,1.8
+ORD00133,Mouse,Accessories,Central,3,1473.32,4419.96,,Cash,Delivered,36.0,2023-02-03,2.6
+ORD00134,Laptop,Electronics,Central,3,1226.63,3679.89,10.0,Cash,Delivered,47.0,2023-02-03,2.8
+ORD00135,Tablet,Electronics,Central,15,235.27,3529.05,5.0,Cash,Pending,30.0,2023-02-03,3.9
+ORD00136,Webcam,Accessories,East,2,98.64,197.28,10.0,Bank Transfer,Delivered,57.0,2023-02-03,2.7
+ORD00137,Laptop,Electronics,West,19,1254.43,23834.17,10.0,Bank Transfer,Delivered,45.0,2023-02-04,3.4
+ORD00138,Headphones,Audio,Central,7,1048.82,7341.74,20.0,Cash,Delivered,,2023-02-04,3.4
+ORD00139,Webcam,Accessories,Central,18,1307.52,23535.36,20.0,PayPal,Delivered,52.0,2023-02-04,2.4
+ORD00140,Tablet,Electronics,North,18,686.79,12362.22,0.0,PayPal,Cancelled,59.0,2023-02-04,3.3
+ORD00141,Charger,Accessories,North,16,619.67,9914.72,20.0,,Pending,41.0,2023-02-05,2.4
+ORD00142,Headphones,Audio,South,17,21.35,362.95,0.0,Cash,Cancelled,63.0,2023-02-05,1.0
+ORD00143,Keyboard,Accessories,West,10,844.13,8441.3,10.0,Credit Card,Delivered,69.0,2023-02-05,4.0
+ORD00144,Tablet,Electronics,North,1,248.4,248.4,15.0,Bank Transfer,Delivered,,2023-02-05,1.8
+ORD00145,Mouse,Accessories,Central,13,798.02,10374.26,5.0,Credit Card,Delivered,,2023-02-06,3.8
+ORD00146,Laptop,Electronics,South,11,835.91,9195.01,20.0,Bank Transfer,Cancelled,18.0,2023-02-06,3.5
+ORD00147,Phone,Electronics,North,18,451.91,8134.38,5.0,PayPal,Delivered,44.0,2023-02-06,1.6
+ORD00148,Webcam,Accessories,South,15,536.94,8054.1,15.0,Credit Card,Cancelled,37.0,2023-02-06,4.0
+ORD00149,Laptop,Electronics,West,10,853.32,8533.2,5.0,Bank Transfer,Pending,68.0,2023-02-07,2.2
+ORD00150,Mouse,Accessories,North,10,1065.87,10658.7,0.0,Bank Transfer,Delivered,18.0,2023-02-07,3.2
+ORD00151,Monitor,Accessories,West,3,1168.23,3504.69,,Bank Transfer,Cancelled,20.0,2023-02-07,4.9
+ORD00152,Mouse,Accessories,Central,14,1468.11,20553.54,15.0,Bank Transfer,Delivered,53.0,2023-02-07,3.3
+ORD00153,Speaker,Audio,South,8,661.58,5292.64,15.0,Credit Card,Pending,39.0,2023-02-08,2.1
+ORD00154,Charger,Accessories,Central,10,691.53,6915.3,0.0,Cash,Delivered,58.0,2023-02-08,3.7
+ORD00155,Monitor,Accessories,West,13,138.49,1800.37,15.0,Bank Transfer,Pending,25.0,2023-02-08,3.4
+ORD00156,Phone,Electronics,West,11,534.12,,20.0,Bank Transfer,Cancelled,40.0,2023-02-08,2.8
+ORD00157,Mouse,Accessories,North,16,713.91,11422.56,5.0,PayPal,Cancelled,55.0,2023-02-09,2.5
+ORD00158,Laptop,Electronics,Central,8,1230.06,9840.48,15.0,,Delivered,47.0,2023-02-09,3.9
+ORD00159,Laptop,Electronics,North,15,118.83,,10.0,PayPal,Pending,49.0,2023-02-09,3.8
+ORD00160,Webcam,Accessories,East,1,237.86,237.86,15.0,Cash,Delivered,26.0,2023-02-09,4.7
+ORD00161,Webcam,Accessories,East,13,76.84,998.92,5.0,PayPal,Delivered,20.0,2023-02-10,4.6
+ORD00162,Laptop,Electronics,West,2,690.11,1380.22,5.0,Cash,Pending,,2023-02-10,
+ORD00163,Webcam,Accessories,South,19,291.85,5545.15,10.0,Cash,Cancelled,31.0,2023-02-10,4.8
+ORD00164,Webcam,Accessories,North,7,1322.29,9256.03,15.0,Credit Card,Cancelled,68.0,2023-02-10,4.9
+ORD00165,Keyboard,Accessories,West,5,1045.48,5227.4,10.0,Credit Card,Delivered,37.0,2023-02-11,3.8
+ORD00166,Laptop,Electronics,West,17,1436.0,24412.0,5.0,,Delivered,29.0,2023-02-11,4.7
+ORD00167,Speaker,Audio,West,14,1204.31,16860.34,10.0,Cash,Delivered,31.0,2023-02-11,4.0
+ORD00168,Speaker,Audio,South,7,592.87,4150.09,0.0,PayPal,Delivered,45.0,2023-02-11,4.3
+ORD00169,Charger,Accessories,East,12,47.66,571.92,15.0,Cash,Delivered,61.0,2023-02-12,1.0
+ORD00170,Tablet,Electronics,West,17,632.69,10755.73,5.0,Bank Transfer,Delivered,53.0,2023-02-12,3.2
+ORD00171,Laptop,Electronics,North,9,508.21,4573.89,10.0,Cash,Delivered,25.0,2023-02-12,3.6
+ORD00172,Speaker,Audio,South,17,801.55,,0.0,PayPal,Pending,54.0,2023-02-12,2.8
+ORD00173,Phone,Electronics,Central,15,693.82,10407.3,,Bank Transfer,Cancelled,50.0,2023-02-13,2.5
+ORD00174,Charger,Accessories,East,11,696.35,7659.85,15.0,Cash,Delivered,59.0,2023-02-13,3.7
+ORD00175,Charger,Accessories,Central,6,509.41,3056.46,20.0,Credit Card,Delivered,46.0,2023-02-13,4.4
+ORD00176,Webcam,Accessories,South,8,1163.18,9305.44,15.0,Credit Card,Cancelled,65.0,2023-02-13,3.6
+ORD00177,Webcam,Accessories,West,12,964.98,11579.76,5.0,PayPal,Delivered,67.0,2023-02-14,4.7
+ORD00178,Mouse,Accessories,West,6,600.77,,5.0,PayPal,Delivered,,2023-02-14,2.5
+ORD00179,Tablet,Electronics,Central,6,362.74,2176.44,10.0,PayPal,Pending,24.0,2023-02-14,3.5
+ORD00180,Tablet,Electronics,North,16,1268.88,20302.08,5.0,Bank Transfer,Cancelled,60.0,2023-02-14,2.7
+ORD00181,Monitor,Accessories,East,3,245.12,735.36,,Credit Card,Delivered,38.0,2023-02-15,4.9
+ORD00182,Laptop,Electronics,North,11,1490.7,16397.7,5.0,Bank Transfer,Pending,18.0,2023-02-15,2.0
+ORD00183,Headphones,Audio,East,18,1492.9,26872.2,20.0,PayPal,Delivered,37.0,2023-02-15,2.6
+ORD00184,Tablet,Electronics,West,2,525.64,1051.28,10.0,Cash,Delivered,40.0,2023-02-15,3.3
+ORD00185,Tablet,Electronics,North,9,218.42,1965.78,15.0,Bank Transfer,Cancelled,22.0,2023-02-16,4.6
+ORD00186,Mouse,Accessories,East,16,391.63,6266.08,20.0,Credit Card,Delivered,25.0,2023-02-16,2.9
+ORD00187,Phone,Electronics,West,11,789.75,8687.25,5.0,,Cancelled,65.0,2023-02-16,1.2
+ORD00188,Mouse,Accessories,Central,7,885.26,6196.82,20.0,Bank Transfer,Pending,24.0,2023-02-16,1.3
+ORD00189,Headphones,Audio,Central,2,963.56,1927.12,5.0,PayPal,Cancelled,66.0,2023-02-17,3.5
+ORD00190,Mouse,Accessories,North,5,679.85,3399.25,10.0,Cash,Delivered,,2023-02-17,4.9
+ORD00191,Keyboard,Accessories,West,3,413.86,1241.58,15.0,Credit Card,Pending,30.0,2023-02-17,1.4
+ORD00192,Monitor,Accessories,North,11,1074.0,11814.0,0.0,PayPal,Delivered,51.0,2023-02-17,4.5
+ORD00193,Phone,Electronics,East,8,652.09,5216.72,15.0,Credit Card,Delivered,63.0,2023-02-18,3.0
+ORD00194,Speaker,Audio,West,11,467.29,5140.19,10.0,Bank Transfer,Delivered,29.0,2023-02-18,
+ORD00195,Keyboard,Accessories,Central,9,1344.84,12103.56,15.0,Bank Transfer,Pending,68.0,2023-02-18,1.5
+ORD00196,Charger,Accessories,West,15,53.98,809.7,15.0,PayPal,Delivered,65.0,2023-02-18,4.4
+ORD00197,Charger,Accessories,South,6,979.16,5874.96,15.0,PayPal,Pending,47.0,2023-02-19,4.8
+ORD00198,Monitor,Accessories,West,13,1344.0,17472.0,5.0,Credit Card,Delivered,22.0,2023-02-19,4.8
+ORD00199,Mouse,Accessories,East,15,752.29,11284.35,0.0,PayPal,Pending,64.0,2023-02-19,4.0
+ORD00200,Mouse,Accessories,North,3,462.84,1388.52,20.0,PayPal,Delivered,54.0,2023-02-19,4.4
+ORD00201,Headphones,Audio,West,17,910.71,15482.07,15.0,Bank Transfer,Delivered,55.0,2023-02-20,4.6
+ORD00202,Webcam,Accessories,East,6,400.78,2404.68,10.0,Bank Transfer,Delivered,58.0,2023-02-20,1.0
+ORD00203,Speaker,Audio,South,7,960.3,6722.1,20.0,PayPal,Cancelled,31.0,2023-02-20,2.2
+ORD00204,Headphones,Audio,Central,12,360.19,4322.28,,PayPal,Cancelled,32.0,2023-02-20,2.3
+ORD00205,Phone,Electronics,West,11,839.14,9230.54,0.0,Credit Card,Pending,48.0,2023-02-21,1.2
+ORD00206,Charger,Accessories,South,12,15.61,187.32,15.0,PayPal,Delivered,52.0,2023-02-21,2.5
+ORD00207,Charger,Accessories,North,12,1385.61,16627.32,5.0,PayPal,Delivered,37.0,2023-02-21,2.2
+ORD00208,Keyboard,Accessories,Central,9,1133.33,10199.97,10.0,PayPal,Delivered,57.0,2023-02-21,3.0
+ORD00209,Tablet,Electronics,East,16,515.75,8252.0,15.0,Bank Transfer,Pending,43.0,2023-02-22,1.4
+ORD00210,Tablet,Electronics,East,16,1239.74,19835.84,20.0,Credit Card,Delivered,52.0,2023-02-22,4.2
+ORD00211,Headphones,Audio,South,18,368.18,6627.24,0.0,,Pending,37.0,2023-02-22,3.2
+ORD00212,Phone,Electronics,South,1,1469.53,1469.53,15.0,,Pending,51.0,2023-02-22,1.7
+ORD00213,Laptop,Electronics,South,7,203.38,1423.66,10.0,PayPal,Pending,26.0,2023-02-23,2.2
+ORD00214,Headphones,Audio,Central,7,207.44,1452.08,0.0,Credit Card,Delivered,58.0,2023-02-23,4.4
+ORD00215,Laptop,Electronics,South,17,951.5,16175.5,0.0,Bank Transfer,Delivered,43.0,2023-02-23,3.5
+ORD00216,Mouse,Accessories,West,12,771.41,9256.92,15.0,Cash,Delivered,45.0,2023-02-23,1.6
+ORD00217,Phone,Electronics,North,12,512.87,6154.44,5.0,PayPal,Cancelled,56.0,2023-02-24,1.9
+ORD00218,Monitor,Accessories,West,1,596.26,596.26,0.0,Credit Card,Pending,24.0,2023-02-24,3.2
+ORD00219,Mouse,Accessories,South,14,1440.36,,20.0,Credit Card,Pending,30.0,2023-02-24,3.4
+ORD00220,Speaker,Audio,South,1,88.32,88.32,0.0,Cash,Delivered,18.0,2023-02-24,
+ORD00221,Keyboard,Accessories,West,19,800.73,15213.87,20.0,PayPal,Pending,39.0,2023-02-25,3.8
+ORD00222,Phone,Electronics,Central,1,364.88,364.88,0.0,Bank Transfer,Delivered,53.0,2023-02-25,3.3
+ORD00223,Webcam,Accessories,North,19,831.81,15804.39,10.0,Credit Card,Delivered,47.0,2023-02-25,3.9
+ORD00224,Webcam,Accessories,North,2,1137.36,2274.72,,PayPal,Delivered,34.0,2023-02-25,2.9
+ORD00225,Phone,Electronics,East,7,1125.08,7875.56,5.0,Bank Transfer,Cancelled,50.0,2023-02-26,2.9
+ORD00226,Keyboard,Accessories,South,19,34.34,652.46,20.0,PayPal,Delivered,47.0,2023-02-26,3.4
+ORD00227,Charger,Accessories,Central,9,680.39,6123.51,0.0,PayPal,Pending,32.0,2023-02-26,
+ORD00228,Charger,Accessories,West,17,425.37,7231.29,10.0,Bank Transfer,Delivered,21.0,2023-02-26,2.8
+ORD00229,Headphones,Audio,East,10,359.36,3593.6,0.0,PayPal,Delivered,19.0,2023-02-27,2.5
+ORD00230,Speaker,Audio,East,19,203.74,3871.06,10.0,,Pending,45.0,2023-02-27,3.5
+ORD00231,Laptop,Electronics,East,17,209.4,3559.8,,Bank Transfer,Pending,25.0,2023-02-27,4.0
+ORD00232,Phone,Electronics,South,14,137.57,1925.98,10.0,PayPal,Delivered,53.0,2023-02-27,4.6
+ORD00233,Headphones,Audio,North,4,1390.86,5563.44,0.0,Credit Card,Pending,59.0,2023-02-28,1.6
+ORD00234,Laptop,Electronics,West,9,954.52,8590.68,10.0,Bank Transfer,Delivered,41.0,2023-02-28,
+ORD00235,Monitor,Accessories,Central,16,101.85,1629.6,0.0,Cash,Pending,34.0,2023-02-28,2.9
+ORD00236,Headphones,Audio,West,10,1299.12,12991.2,20.0,Credit Card,Pending,21.0,2023-02-28,3.5
+ORD00237,Charger,Accessories,East,17,891.29,15151.93,5.0,PayPal,Delivered,62.0,2023-03-01,3.3
+ORD00238,Keyboard,Accessories,Central,2,1209.69,2419.38,5.0,PayPal,Delivered,21.0,2023-03-01,
+ORD00239,Mouse,Accessories,North,5,40.94,204.7,20.0,Credit Card,Delivered,40.0,2023-03-01,4.8
+ORD00240,Speaker,Audio,East,6,582.8,3496.8,5.0,Cash,Delivered,28.0,2023-03-01,3.3
+ORD00241,Mouse,Accessories,Central,1,436.56,436.56,0.0,Credit Card,Delivered,36.0,2023-03-02,1.8
+ORD00242,Headphones,Audio,North,15,315.94,4739.1,20.0,Cash,Pending,27.0,2023-03-02,2.1
+ORD00243,Tablet,Electronics,South,13,869.33,11301.29,,Cash,Cancelled,39.0,2023-03-02,2.7
+ORD00244,Webcam,Accessories,North,6,1134.56,6807.36,15.0,PayPal,Delivered,,2023-03-02,3.3
+ORD00245,Mouse,Accessories,West,7,1299.95,9099.65,10.0,PayPal,Pending,34.0,2023-03-03,4.6
+ORD00246,Headphones,Audio,Central,15,921.63,13824.45,,Cash,Cancelled,22.0,2023-03-03,2.3
+ORD00247,Mouse,Accessories,West,18,488.93,8800.74,10.0,Credit Card,Cancelled,61.0,2023-03-03,5.0
+ORD00248,Charger,Accessories,Central,9,998.0,8982.0,0.0,PayPal,Cancelled,,2023-03-03,3.5
+ORD00249,Monitor,Accessories,West,6,1194.67,7168.02,15.0,PayPal,Delivered,52.0,2023-03-04,2.4
+ORD00250,Tablet,Electronics,East,2,257.07,514.14,0.0,Credit Card,Pending,48.0,2023-03-04,4.2
+ORD00251,Webcam,Accessories,North,14,1375.18,,10.0,Cash,Cancelled,69.0,2023-03-04,3.2
+ORD00252,Phone,Electronics,East,10,752.0,7520.0,5.0,Credit Card,Pending,,2023-03-04,2.6
+ORD00253,Laptop,Electronics,East,7,698.01,4886.07,15.0,Cash,Delivered,58.0,2023-03-05,4.8
+ORD00254,Headphones,Audio,South,11,958.21,10540.31,0.0,Cash,Cancelled,53.0,2023-03-05,
+ORD00255,Monitor,Accessories,North,10,1178.37,11783.7,10.0,,Pending,42.0,2023-03-05,4.4
+ORD00256,Monitor,Accessories,West,16,567.68,9082.88,0.0,PayPal,Delivered,65.0,2023-03-05,2.6
+ORD00257,Headphones,Audio,East,7,218.89,1532.23,5.0,PayPal,Cancelled,61.0,2023-03-06,4.5
+ORD00258,Phone,Electronics,West,1,888.92,888.92,20.0,Credit Card,Delivered,51.0,2023-03-06,2.6
+ORD00259,Laptop,Electronics,South,2,779.1,1558.2,20.0,Credit Card,Delivered,42.0,2023-03-06,1.8
+ORD00260,Speaker,Audio,South,4,156.72,626.88,0.0,PayPal,Cancelled,54.0,2023-03-06,2.0
+ORD00261,Tablet,Electronics,South,12,1048.17,12578.04,20.0,Cash,Delivered,21.0,2023-03-07,1.6
+ORD00262,Keyboard,Accessories,Central,13,1064.48,13838.24,,Credit Card,Delivered,66.0,2023-03-07,4.6
+ORD00263,Keyboard,Accessories,East,18,392.42,7063.56,10.0,Bank Transfer,Delivered,27.0,2023-03-07,3.0
+ORD00264,Monitor,Accessories,West,5,439.43,2197.15,20.0,Cash,Cancelled,39.0,2023-03-07,2.8
+ORD00265,Monitor,Accessories,West,3,1179.19,3537.57,5.0,PayPal,Delivered,46.0,2023-03-08,1.0
+ORD00266,Webcam,Accessories,East,12,987.61,11851.32,10.0,PayPal,Pending,38.0,2023-03-08,2.6
+ORD00267,Webcam,Accessories,Central,15,1272.34,,15.0,Bank Transfer,Delivered,43.0,2023-03-08,3.1
+ORD00268,Headphones,Audio,West,16,806.67,12906.72,0.0,PayPal,Pending,61.0,2023-03-08,2.7
+ORD00269,Phone,Electronics,North,12,1086.65,13039.8,10.0,Cash,Pending,53.0,2023-03-09,2.2
+ORD00270,Laptop,Electronics,Central,3,399.49,1198.47,15.0,,Delivered,67.0,2023-03-09,2.9
+ORD00271,Mouse,Accessories,Central,12,991.05,11892.6,10.0,Credit Card,Delivered,32.0,2023-03-09,
+ORD00272,Monitor,Accessories,North,15,115.07,1726.05,15.0,Bank Transfer,Delivered,19.0,2023-03-09,2.3
+ORD00273,Keyboard,Accessories,East,6,741.88,4451.28,0.0,,Pending,31.0,2023-03-10,1.4
+ORD00274,Webcam,Accessories,North,19,1403.58,26668.02,20.0,PayPal,Delivered,49.0,2023-03-10,4.8
+ORD00275,Speaker,Audio,Central,3,423.94,1271.82,0.0,,Delivered,45.0,2023-03-10,
+ORD00276,Keyboard,Accessories,Central,16,44.51,712.16,15.0,Bank Transfer,Pending,60.0,2023-03-10,4.8
+ORD00277,Laptop,Electronics,North,4,369.24,1476.96,5.0,Bank Transfer,Cancelled,19.0,2023-03-11,1.5
+ORD00278,Charger,Accessories,South,1,1225.81,1225.81,,Cash,Cancelled,56.0,2023-03-11,4.5
+ORD00279,Keyboard,Accessories,East,5,826.66,4133.3,5.0,Credit Card,Cancelled,35.0,2023-03-11,2.7
+ORD00280,Headphones,Audio,South,6,1057.95,6347.7,20.0,PayPal,Cancelled,38.0,2023-03-11,
+ORD00281,Charger,Accessories,South,6,90.01,540.06,5.0,PayPal,Delivered,67.0,2023-03-12,1.0
+ORD00282,Keyboard,Accessories,North,11,196.26,2158.86,5.0,Credit Card,Cancelled,56.0,2023-03-12,1.4
+ORD00283,Monitor,Accessories,Central,11,358.77,3946.47,15.0,Cash,Delivered,41.0,2023-03-12,3.1
+ORD00284,Headphones,Audio,South,15,615.82,9237.3,15.0,Bank Transfer,Delivered,19.0,2023-03-12,4.7
+ORD00285,Tablet,Electronics,West,2,1119.89,2239.78,10.0,Cash,Cancelled,49.0,2023-03-13,
+ORD00286,Webcam,Accessories,East,13,1470.31,19114.03,10.0,Credit Card,Cancelled,31.0,2023-03-13,4.7
+ORD00287,Charger,Accessories,East,10,1075.31,10753.1,5.0,Cash,Delivered,36.0,2023-03-13,2.5
+ORD00288,Phone,Electronics,East,15,87.38,1310.7,15.0,PayPal,Cancelled,50.0,2023-03-13,2.6
+ORD00289,Speaker,Audio,South,4,1360.89,5443.56,15.0,PayPal,Cancelled,61.0,2023-03-14,2.6
+ORD00290,Charger,Accessories,West,13,657.75,8550.75,10.0,Bank Transfer,Delivered,52.0,2023-03-14,4.4
+ORD00291,Keyboard,Accessories,Central,19,614.09,11667.71,20.0,Bank Transfer,Delivered,18.0,2023-03-14,2.7
+ORD00292,Webcam,Accessories,East,19,938.5,17831.5,20.0,Credit Card,Delivered,19.0,2023-03-14,4.2
+ORD00293,Keyboard,Accessories,North,9,874.65,7871.85,20.0,Credit Card,Pending,42.0,2023-03-15,2.8
+ORD00294,Mouse,Accessories,Central,9,992.38,8931.42,20.0,Credit Card,Cancelled,41.0,2023-03-15,1.7
+ORD00295,Keyboard,Accessories,Central,19,822.03,15618.57,10.0,PayPal,Delivered,28.0,2023-03-15,1.7
+ORD00296,Speaker,Audio,West,12,95.67,1148.04,10.0,Bank Transfer,Delivered,38.0,2023-03-15,1.5
+ORD00297,Monitor,Accessories,North,5,826.35,4131.75,5.0,,Delivered,66.0,2023-03-16,3.6
+ORD00298,Headphones,Audio,North,4,1337.17,5348.68,20.0,Bank Transfer,Cancelled,69.0,2023-03-16,1.2
+ORD00299,Charger,Accessories,West,8,334.85,2678.8,15.0,Credit Card,Pending,46.0,2023-03-16,2.0
+ORD00300,Speaker,Audio,North,6,865.91,5195.46,0.0,Cash,Pending,39.0,2023-03-16,3.6
+ORD00301,Charger,Accessories,North,18,881.63,15869.34,15.0,Bank Transfer,Delivered,52.0,2023-03-17,2.9
+ORD00302,Keyboard,Accessories,West,18,441.64,7949.52,,Credit Card,Cancelled,54.0,2023-03-17,4.8
+ORD00303,Keyboard,Accessories,East,15,151.54,2273.1,20.0,Bank Transfer,Pending,49.0,2023-03-17,1.7
+ORD00304,Mouse,Accessories,West,4,1462.47,5849.88,20.0,Cash,Cancelled,37.0,2023-03-17,4.9
+ORD00305,Monitor,Accessories,East,10,157.1,1571.0,0.0,PayPal,Delivered,48.0,2023-03-18,3.0
+ORD00306,Headphones,Audio,West,15,334.97,5024.55,5.0,Cash,Delivered,39.0,2023-03-18,3.4
+ORD00307,Headphones,Audio,West,2,142.51,285.02,,PayPal,Delivered,18.0,2023-03-18,
+ORD00308,Speaker,Audio,East,4,124.43,497.72,20.0,Bank Transfer,Pending,25.0,2023-03-18,4.4
+ORD00309,Charger,Accessories,South,12,824.8,9897.6,15.0,Bank Transfer,Delivered,35.0,2023-03-19,1.1
+ORD00310,Phone,Electronics,East,10,1414.52,14145.2,5.0,Credit Card,Delivered,31.0,2023-03-19,3.5
+ORD00311,Speaker,Audio,North,5,39.75,198.75,0.0,,Pending,47.0,2023-03-19,
+ORD00312,Mouse,Accessories,East,14,1312.7,18377.8,10.0,Bank Transfer,Delivered,61.0,2023-03-19,4.8
+ORD00313,Laptop,Electronics,West,12,606.2,7274.4,10.0,Credit Card,Cancelled,32.0,2023-03-20,4.9
+ORD00314,Keyboard,Accessories,Central,8,143.63,1149.04,5.0,Credit Card,Cancelled,46.0,2023-03-20,4.1
+ORD00315,Mouse,Accessories,Central,7,20.66,144.62,15.0,PayPal,Pending,19.0,2023-03-20,4.8
+ORD00316,Charger,Accessories,North,10,844.46,,20.0,Credit Card,Delivered,61.0,2023-03-20,2.3
+ORD00317,Mouse,Accessories,West,11,171.97,1891.67,,Credit Card,Cancelled,,2023-03-21,2.8
+ORD00318,Charger,Accessories,East,17,46.22,785.74,10.0,Bank Transfer,Delivered,38.0,2023-03-21,1.6
+ORD00319,Monitor,Accessories,South,3,456.24,1368.72,15.0,PayPal,Delivered,31.0,2023-03-21,2.5
+ORD00320,Phone,Electronics,South,17,1431.22,24330.74,15.0,Credit Card,Cancelled,32.0,2023-03-21,3.1
+ORD00321,Webcam,Accessories,Central,10,417.1,4171.0,5.0,Bank Transfer,Pending,45.0,2023-03-22,3.0
+ORD00322,Phone,Electronics,West,10,496.67,4966.7,15.0,PayPal,Delivered,39.0,2023-03-22,3.2
+ORD00323,Mouse,Accessories,North,19,646.1,12275.9,20.0,Cash,Delivered,19.0,2023-03-22,1.9
+ORD00324,Headphones,Audio,Central,7,666.47,4665.29,0.0,PayPal,Delivered,60.0,2023-03-22,1.6
+ORD00325,Keyboard,Accessories,North,5,1496.33,7481.65,0.0,Cash,Delivered,57.0,2023-03-23,4.8
+ORD00326,Laptop,Electronics,West,11,885.77,9743.47,10.0,Cash,Delivered,32.0,2023-03-23,2.2
+ORD00327,Monitor,Accessories,Central,15,737.42,11061.3,5.0,Cash,Cancelled,32.0,2023-03-23,2.0
+ORD00328,Laptop,Electronics,East,11,838.06,9218.66,0.0,Cash,Delivered,27.0,2023-03-23,1.9
+ORD00329,Tablet,Electronics,South,9,48.59,437.31,,Cash,Delivered,54.0,2023-03-24,3.7
+ORD00330,Mouse,Accessories,North,7,1427.81,9994.67,15.0,Bank Transfer,Delivered,,2023-03-24,
+ORD00331,Charger,Accessories,North,5,661.43,3307.15,20.0,PayPal,Pending,50.0,2023-03-24,3.6
+ORD00332,Tablet,Electronics,South,14,919.89,12878.46,5.0,PayPal,Cancelled,36.0,2023-03-24,
+ORD00333,Headphones,Audio,South,13,404.86,5263.18,15.0,,Pending,61.0,2023-03-25,5.0
+ORD00334,Charger,Accessories,West,1,525.79,525.79,20.0,Credit Card,Delivered,30.0,2023-03-25,4.5
+ORD00335,Charger,Accessories,East,11,1426.62,15692.82,15.0,Bank Transfer,Delivered,35.0,2023-03-25,3.1
+ORD00336,Speaker,Audio,North,1,494.69,494.69,15.0,Credit Card,Cancelled,28.0,2023-03-25,2.7
+ORD00337,Phone,Electronics,East,15,1332.1,19981.5,0.0,Bank Transfer,Delivered,66.0,2023-03-26,2.6
+ORD00338,Charger,Accessories,North,12,359.61,4315.32,20.0,Cash,Delivered,58.0,2023-03-26,3.4
+ORD00339,Phone,Electronics,South,3,364.06,1092.18,0.0,Cash,Delivered,67.0,2023-03-26,1.0
+ORD00340,Charger,Accessories,West,10,1091.55,10915.5,0.0,Bank Transfer,Cancelled,31.0,2023-03-26,3.3
+ORD00341,Monitor,Accessories,South,14,327.82,4589.48,20.0,Cash,Delivered,61.0,2023-03-27,1.3
+ORD00342,Tablet,Electronics,North,18,1458.13,26246.34,10.0,,Cancelled,43.0,2023-03-27,1.5
+ORD00343,Charger,Accessories,Central,9,1318.98,11870.82,10.0,Credit Card,Delivered,61.0,2023-03-27,2.0
+ORD00344,Keyboard,Accessories,North,13,539.03,7007.39,10.0,PayPal,Delivered,48.0,2023-03-27,2.8
+ORD00345,Speaker,Audio,West,3,1041.98,3125.94,10.0,Bank Transfer,Pending,62.0,2023-03-28,3.5
+ORD00346,Tablet,Electronics,East,17,394.25,6702.25,5.0,Cash,Pending,59.0,2023-03-28,1.1
+ORD00347,Tablet,Electronics,Central,5,195.49,977.45,20.0,PayPal,Delivered,28.0,2023-03-28,1.7
+ORD00348,Phone,Electronics,West,1,100.29,100.29,15.0,Cash,Pending,22.0,2023-03-28,2.2
+ORD00349,Keyboard,Accessories,West,2,1258.39,2516.78,10.0,Credit Card,Delivered,21.0,2023-03-29,3.8
+ORD00350,Phone,Electronics,West,8,783.54,6268.32,5.0,,Delivered,37.0,2023-03-29,2.5
+ORD00351,Monitor,Accessories,South,17,894.77,15211.09,5.0,Bank Transfer,Cancelled,32.0,2023-03-29,2.0
+ORD00352,Monitor,Accessories,Central,16,1262.51,20200.16,,Credit Card,Delivered,62.0,2023-03-29,4.2
+ORD00353,Charger,Accessories,North,4,1321.82,5287.28,15.0,PayPal,Delivered,35.0,2023-03-30,3.3
+ORD00354,Charger,Accessories,South,5,339.5,1697.5,15.0,Bank Transfer,Delivered,35.0,2023-03-30,3.0
+ORD00355,Headphones,Audio,North,12,1125.29,13503.48,20.0,Bank Transfer,Cancelled,33.0,2023-03-30,2.6
+ORD00356,Phone,Electronics,East,8,389.86,3118.88,0.0,Cash,Pending,54.0,2023-03-30,2.8
+ORD00357,Monitor,Accessories,North,14,1164.31,,15.0,Bank Transfer,Delivered,53.0,2023-03-31,4.8
+ORD00358,Speaker,Audio,Central,10,1352.41,13524.1,20.0,Credit Card,Cancelled,38.0,2023-03-31,2.7
+ORD00359,Keyboard,Accessories,West,4,1223.05,4892.2,5.0,PayPal,Delivered,36.0,2023-03-31,3.3
+ORD00360,Mouse,Accessories,West,1,1273.15,1273.15,0.0,Credit Card,Pending,36.0,2023-03-31,2.7
+ORD00361,Webcam,Accessories,North,16,1353.29,,15.0,Credit Card,Cancelled,33.0,2023-04-01,3.0
+ORD00362,Monitor,Accessories,East,18,549.96,,0.0,PayPal,Pending,,2023-04-01,1.5
+ORD00363,Charger,Accessories,North,8,683.87,5470.96,10.0,Bank Transfer,Cancelled,59.0,2023-04-01,2.9
+ORD00364,Tablet,Electronics,Central,7,823.33,5763.31,20.0,Cash,Cancelled,24.0,2023-04-01,1.3
+ORD00365,Mouse,Accessories,South,14,1496.9,20956.6,5.0,Bank Transfer,Pending,56.0,2023-04-02,4.9
+ORD00366,Webcam,Accessories,West,18,963.85,17349.3,0.0,PayPal,Delivered,29.0,2023-04-02,4.3
+ORD00367,Speaker,Audio,East,5,1124.71,5623.55,10.0,Cash,Delivered,66.0,2023-04-02,
+ORD00368,Laptop,Electronics,Central,4,1198.73,4794.92,10.0,PayPal,Pending,39.0,2023-04-02,3.1
+ORD00369,Mouse,Accessories,East,10,878.69,8786.9,0.0,Credit Card,Delivered,18.0,2023-04-03,3.7
+ORD00370,Mouse,Accessories,South,17,1072.36,18230.12,20.0,PayPal,Delivered,45.0,2023-04-03,3.2
+ORD00371,Keyboard,Accessories,South,14,371.53,5201.42,20.0,Cash,Delivered,21.0,2023-04-03,2.9
+ORD00372,Keyboard,Accessories,North,15,1225.34,,5.0,Cash,Delivered,44.0,2023-04-03,3.2
+ORD00373,Monitor,Accessories,West,9,574.77,5172.93,10.0,Bank Transfer,Pending,44.0,2023-04-04,3.1
+ORD00374,Keyboard,Accessories,East,7,659.89,4619.23,0.0,Credit Card,Delivered,55.0,2023-04-04,2.2
+ORD00375,Mouse,Accessories,West,19,1106.01,21014.19,15.0,Cash,Delivered,31.0,2023-04-04,3.5
+ORD00376,Laptop,Electronics,South,1,245.59,245.59,,Credit Card,Delivered,54.0,2023-04-04,4.5
+ORD00377,Monitor,Accessories,West,4,87.75,351.0,10.0,Credit Card,Delivered,33.0,2023-04-05,1.3
+ORD00378,Webcam,Accessories,North,9,873.63,7862.67,20.0,Bank Transfer,Cancelled,21.0,2023-04-05,2.0
+ORD00379,Charger,Accessories,South,17,56.51,960.67,10.0,Cash,Cancelled,19.0,2023-04-05,
+ORD00380,Webcam,Accessories,East,1,1268.87,1268.87,20.0,Credit Card,Delivered,60.0,2023-04-05,3.9
+ORD00381,Keyboard,Accessories,North,7,1212.59,8488.13,20.0,PayPal,Pending,41.0,2023-04-06,1.2
+ORD00382,Speaker,Audio,East,10,1477.31,14773.1,5.0,Bank Transfer,Delivered,53.0,2023-04-06,1.9
+ORD00383,Charger,Accessories,West,18,648.07,11665.26,20.0,Credit Card,Cancelled,36.0,2023-04-06,2.5
+ORD00384,Speaker,Audio,West,1,326.66,326.66,10.0,Credit Card,Delivered,69.0,2023-04-06,4.1
+ORD00385,Charger,Accessories,West,5,1436.03,7180.15,,Cash,Cancelled,21.0,2023-04-07,1.2
+ORD00386,Webcam,Accessories,South,15,752.37,11285.55,0.0,Credit Card,Delivered,64.0,2023-04-07,3.6
+ORD00387,Webcam,Accessories,East,2,898.93,1797.86,5.0,Credit Card,Delivered,34.0,2023-04-07,3.9
+ORD00388,Webcam,Accessories,South,1,1223.08,1223.08,0.0,Credit Card,Delivered,50.0,2023-04-07,4.0
+ORD00389,Webcam,Accessories,North,17,244.63,4158.71,0.0,Bank Transfer,Pending,32.0,2023-04-08,1.3
+ORD00390,Charger,Accessories,North,4,167.71,670.84,0.0,Cash,Delivered,53.0,2023-04-08,1.9
+ORD00391,Laptop,Electronics,East,8,898.45,,20.0,Cash,Delivered,19.0,2023-04-08,1.1
+ORD00392,Keyboard,Accessories,North,2,1405.69,2811.38,20.0,PayPal,Pending,60.0,2023-04-08,3.3
+ORD00393,Tablet,Electronics,West,7,434.73,3043.11,5.0,PayPal,Cancelled,59.0,2023-04-09,4.9
+ORD00394,Laptop,Electronics,Central,7,898.06,6286.42,,Bank Transfer,Delivered,46.0,2023-04-09,4.5
+ORD00395,Headphones,Audio,East,6,1411.18,8467.08,15.0,PayPal,Cancelled,32.0,2023-04-09,4.6
+ORD00396,Speaker,Audio,West,7,418.15,,0.0,Cash,Delivered,43.0,2023-04-09,1.1
+ORD00397,Webcam,Accessories,West,15,1395.06,20925.9,5.0,Bank Transfer,Pending,18.0,2023-04-10,1.4
+ORD00398,Phone,Electronics,North,3,782.62,2347.86,10.0,Bank Transfer,Delivered,36.0,2023-04-10,2.5
+ORD00399,Tablet,Electronics,North,12,16.24,,15.0,Credit Card,Delivered,22.0,2023-04-10,3.1
+ORD00400,Charger,Accessories,Central,17,564.32,9593.44,10.0,Cash,Delivered,27.0,2023-04-10,4.1
+ORD00401,Phone,Electronics,North,15,664.41,9966.15,15.0,,Cancelled,26.0,2023-04-11,1.3
+ORD00402,Tablet,Electronics,West,6,497.05,2982.3,20.0,Cash,Pending,51.0,2023-04-11,3.6
+ORD00403,Headphones,Audio,Central,10,480.36,4803.6,20.0,Credit Card,Delivered,42.0,2023-04-11,1.2
+ORD00404,Phone,Electronics,North,17,635.64,10805.88,10.0,Credit Card,Delivered,23.0,2023-04-11,1.3
+ORD00405,Tablet,Electronics,North,8,1198.43,,0.0,Cash,Pending,63.0,2023-04-12,3.5
+ORD00406,Charger,Accessories,Central,18,1444.36,25998.48,0.0,PayPal,Cancelled,34.0,2023-04-12,2.1
+ORD00407,Keyboard,Accessories,Central,11,847.56,9323.16,5.0,Cash,Delivered,40.0,2023-04-12,1.1
+ORD00408,Phone,Electronics,Central,14,889.72,12456.08,20.0,Bank Transfer,Delivered,28.0,2023-04-12,1.9
+ORD00409,Webcam,Accessories,West,19,858.83,,20.0,Credit Card,Delivered,32.0,2023-04-13,4.0
+ORD00410,Webcam,Accessories,West,7,469.0,3283.0,20.0,Bank Transfer,Delivered,55.0,2023-04-13,
+ORD00411,Monitor,Accessories,North,5,1328.86,6644.3,20.0,Cash,Pending,51.0,2023-04-13,3.4
+ORD00412,Monitor,Accessories,North,10,890.54,8905.4,5.0,Cash,Cancelled,24.0,2023-04-13,2.1
+ORD00413,Monitor,Accessories,South,15,484.5,7267.5,0.0,PayPal,Delivered,68.0,2023-04-14,4.4
+ORD00414,Headphones,Audio,South,8,1351.06,10808.48,10.0,Bank Transfer,Delivered,25.0,2023-04-14,3.3
+ORD00415,Speaker,Audio,North,3,116.44,349.32,15.0,Bank Transfer,Cancelled,,2023-04-14,1.7
+ORD00416,Laptop,Electronics,East,3,222.41,667.23,20.0,Cash,Cancelled,,2023-04-14,4.4
+ORD00417,Keyboard,Accessories,Central,1,850.42,850.42,5.0,PayPal,Delivered,42.0,2023-04-15,5.0
+ORD00418,Tablet,Electronics,East,4,1426.25,5705.0,15.0,,Pending,45.0,2023-04-15,1.7
+ORD00419,Webcam,Accessories,West,11,1206.26,13268.86,5.0,PayPal,Pending,28.0,2023-04-15,1.4
+ORD00420,Tablet,Electronics,South,3,587.16,1761.48,10.0,Bank Transfer,Delivered,39.0,2023-04-15,3.8
+ORD00421,Keyboard,Accessories,North,6,711.29,4267.74,20.0,Credit Card,Pending,57.0,2023-04-16,3.6
+ORD00422,Webcam,Accessories,Central,12,1111.62,13339.44,15.0,Bank Transfer,Pending,62.0,2023-04-16,1.1
+ORD00423,Keyboard,Accessories,East,10,568.3,5683.0,15.0,Credit Card,Delivered,45.0,2023-04-16,
+ORD00424,Charger,Accessories,North,10,165.46,1654.6,5.0,PayPal,Delivered,44.0,2023-04-16,1.4
+ORD00425,Phone,Electronics,Central,7,1307.43,9152.01,15.0,PayPal,Delivered,41.0,2023-04-17,5.0
+ORD00426,Mouse,Accessories,East,6,867.14,5202.84,15.0,,Delivered,32.0,2023-04-17,4.5
+ORD00427,Headphones,Audio,West,10,1233.08,12330.8,5.0,Bank Transfer,Pending,43.0,2023-04-17,2.0
+ORD00428,Monitor,Accessories,North,19,374.14,7108.66,20.0,Credit Card,Delivered,66.0,2023-04-17,3.4
+ORD00429,Keyboard,Accessories,East,3,1404.37,4213.11,20.0,,Delivered,24.0,2023-04-18,5.0
+ORD00430,Speaker,Audio,North,1,1061.18,1061.18,20.0,PayPal,Pending,65.0,2023-04-18,2.7
+ORD00431,Tablet,Electronics,West,18,112.15,2018.7,5.0,Bank Transfer,Delivered,52.0,2023-04-18,4.1
+ORD00432,Mouse,Accessories,Central,10,284.76,2847.6,0.0,,Pending,,2023-04-18,3.9
+ORD00433,Webcam,Accessories,Central,6,893.86,5363.16,15.0,Credit Card,Delivered,26.0,2023-04-19,2.0
+ORD00434,Monitor,Accessories,North,2,1052.48,2104.96,0.0,Credit Card,Delivered,,2023-04-19,4.8
+ORD00435,Mouse,Accessories,South,4,667.55,2670.2,5.0,PayPal,Cancelled,35.0,2023-04-19,3.8
+ORD00436,Charger,Accessories,East,14,445.79,6241.06,20.0,Credit Card,Delivered,38.0,2023-04-19,3.1
+ORD00437,Mouse,Accessories,East,14,430.03,6020.42,20.0,Credit Card,Cancelled,18.0,2023-04-20,1.2
+ORD00438,Charger,Accessories,West,2,126.97,253.94,0.0,,Pending,52.0,2023-04-20,4.1
+ORD00439,Mouse,Accessories,South,7,1161.16,8128.12,5.0,Credit Card,Delivered,47.0,2023-04-20,1.4
+ORD00440,Speaker,Audio,East,12,1053.2,12638.4,0.0,PayPal,Cancelled,51.0,2023-04-20,3.5
+ORD00441,Keyboard,Accessories,West,7,1425.98,9981.86,20.0,Credit Card,Delivered,68.0,2023-04-21,3.6
+ORD00442,Speaker,Audio,Central,11,1013.31,11146.41,5.0,Cash,Delivered,25.0,2023-04-21,4.8
+ORD00443,Laptop,Electronics,West,18,791.67,14250.06,10.0,Bank Transfer,Delivered,69.0,2023-04-21,4.2
+ORD00444,Charger,Accessories,East,10,516.04,,20.0,,Pending,20.0,2023-04-21,3.2
+ORD00445,Speaker,Audio,East,19,483.77,9191.63,5.0,,Delivered,52.0,2023-04-22,3.5
+ORD00446,Mouse,Accessories,Central,17,880.42,14967.14,0.0,Bank Transfer,Delivered,47.0,2023-04-22,1.1
+ORD00447,Charger,Accessories,South,10,364.08,3640.8,10.0,Bank Transfer,Delivered,34.0,2023-04-22,4.3
+ORD00448,Charger,Accessories,Central,5,732.99,3664.95,0.0,PayPal,Delivered,52.0,2023-04-22,1.2
+ORD00449,Laptop,Electronics,Central,9,988.3,8894.7,15.0,Credit Card,Delivered,25.0,2023-04-23,3.3
+ORD00450,Monitor,Accessories,East,17,177.34,3014.78,10.0,PayPal,Cancelled,43.0,2023-04-23,3.3
+ORD00451,Keyboard,Accessories,East,6,757.9,4547.4,20.0,Cash,Pending,62.0,2023-04-23,2.2
+ORD00452,Tablet,Electronics,East,6,1046.16,6276.96,20.0,Credit Card,Delivered,57.0,2023-04-23,3.4
+ORD00453,Speaker,Audio,North,5,1392.86,6964.3,10.0,Bank Transfer,Pending,21.0,2023-04-24,
+ORD00454,Laptop,Electronics,North,14,320.76,4490.64,0.0,PayPal,Cancelled,42.0,2023-04-24,1.6
+ORD00455,Tablet,Electronics,East,9,1412.85,12715.65,10.0,Bank Transfer,Delivered,43.0,2023-04-24,4.2
+ORD00456,Keyboard,Accessories,Central,14,906.92,12696.88,0.0,Credit Card,Cancelled,30.0,2023-04-24,4.4
+ORD00457,Phone,Electronics,Central,3,783.13,2349.39,10.0,Cash,Cancelled,50.0,2023-04-25,
+ORD00458,Monitor,Accessories,West,10,1464.8,14648.0,15.0,Credit Card,Delivered,35.0,2023-04-25,2.3
+ORD00459,Keyboard,Accessories,North,9,149.75,1347.75,20.0,Cash,Delivered,58.0,2023-04-25,1.4
+ORD00460,Monitor,Accessories,East,16,937.18,14994.88,15.0,Cash,Delivered,64.0,2023-04-25,2.3
+ORD00461,Charger,Accessories,South,12,399.01,4788.12,0.0,Cash,Delivered,41.0,2023-04-26,4.0
+ORD00462,Charger,Accessories,North,3,346.69,1040.07,15.0,Cash,Delivered,46.0,2023-04-26,2.7
+ORD00463,Phone,Electronics,West,11,954.26,10496.86,,Credit Card,Pending,63.0,2023-04-26,2.5
+ORD00464,Speaker,Audio,West,13,312.9,4067.7,5.0,Credit Card,Delivered,56.0,2023-04-26,1.7
+ORD00465,Phone,Electronics,East,3,1266.63,3799.89,20.0,Credit Card,Pending,56.0,2023-04-27,2.1
+ORD00466,Keyboard,Accessories,South,13,261.99,3405.87,20.0,Cash,Delivered,51.0,2023-04-27,4.6
+ORD00467,Speaker,Audio,East,1,160.13,160.13,5.0,PayPal,Cancelled,61.0,2023-04-27,3.5
+ORD00468,Charger,Accessories,Central,15,1420.59,,5.0,Credit Card,Delivered,31.0,2023-04-27,2.5
+ORD00469,Phone,Electronics,Central,12,438.26,5259.12,10.0,Bank Transfer,Delivered,38.0,2023-04-28,4.7
+ORD00470,Webcam,Accessories,North,4,230.79,923.16,,Credit Card,Cancelled,27.0,2023-04-28,4.3
+ORD00471,Mouse,Accessories,North,2,76.72,153.44,15.0,Credit Card,Delivered,63.0,2023-04-28,1.5
+ORD00472,Speaker,Audio,West,7,433.2,3032.4,,Bank Transfer,Delivered,67.0,2023-04-28,1.0
+ORD00473,Webcam,Accessories,Central,18,685.4,12337.2,5.0,PayPal,Pending,55.0,2023-04-29,4.2
+ORD00474,Charger,Accessories,South,5,1249.42,6247.1,10.0,PayPal,Pending,55.0,2023-04-29,2.6
+ORD00475,Webcam,Accessories,East,14,796.1,,0.0,Cash,Pending,29.0,2023-04-29,4.7
+ORD00476,Headphones,Audio,Central,7,223.11,,20.0,Credit Card,Pending,18.0,2023-04-29,1.9
+ORD00477,Mouse,Accessories,West,6,1471.33,,0.0,Cash,Delivered,41.0,2023-04-30,2.8
+ORD00478,Keyboard,Accessories,South,19,803.8,15272.2,0.0,Cash,Delivered,42.0,2023-04-30,4.7
+ORD00479,Webcam,Accessories,West,14,1382.47,19354.58,5.0,PayPal,Cancelled,66.0,2023-04-30,1.7
+ORD00480,Webcam,Accessories,West,11,83.85,922.35,10.0,Bank Transfer,Cancelled,51.0,2023-04-30,4.7
+ORD00481,Monitor,Accessories,North,12,364.2,4370.4,15.0,,Delivered,57.0,2023-05-01,4.4
+ORD00482,Phone,Electronics,South,3,1298.3,3894.9,,Bank Transfer,Cancelled,27.0,2023-05-01,
+ORD00483,Mouse,Accessories,East,1,258.1,258.1,20.0,,Delivered,,2023-05-01,
+ORD00484,Phone,Electronics,East,12,583.97,7007.64,5.0,Cash,Delivered,,2023-05-01,4.4
+ORD00485,Speaker,Audio,Central,7,850.2,,5.0,PayPal,Delivered,38.0,2023-05-02,2.9
+ORD00486,Webcam,Accessories,East,13,1422.6,,10.0,Credit Card,Delivered,60.0,2023-05-02,3.7
+ORD00487,Headphones,Audio,North,7,273.66,1915.62,5.0,PayPal,Delivered,37.0,2023-05-02,4.2
+ORD00488,Speaker,Audio,East,12,599.16,7189.92,10.0,PayPal,Cancelled,67.0,2023-05-02,2.6
+ORD00489,Monitor,Accessories,South,8,1087.17,8697.36,20.0,PayPal,Cancelled,45.0,2023-05-03,2.3
+ORD00490,Monitor,Accessories,Central,16,419.03,6704.48,20.0,Bank Transfer,Delivered,43.0,2023-05-03,1.9
+ORD00491,Phone,Electronics,South,12,1448.1,17377.2,15.0,PayPal,Cancelled,66.0,2023-05-03,4.6
+ORD00492,Charger,Accessories,Central,15,968.33,,0.0,Bank Transfer,Delivered,24.0,2023-05-03,1.9
+ORD00493,Keyboard,Accessories,Central,15,507.19,7607.85,10.0,Bank Transfer,Cancelled,,2023-05-04,1.1
+ORD00494,Speaker,Audio,South,12,575.35,6904.2,20.0,Credit Card,Delivered,31.0,2023-05-04,4.4
+ORD00495,Speaker,Audio,South,13,948.0,12324.0,15.0,Bank Transfer,Delivered,,2023-05-04,3.8
+ORD00496,Mouse,Accessories,East,11,777.44,8551.84,0.0,,Delivered,36.0,2023-05-04,3.5
+ORD00497,Phone,Electronics,West,4,63.93,255.72,15.0,PayPal,Cancelled,40.0,2023-05-05,3.8
+ORD00498,Charger,Accessories,West,8,69.31,554.48,10.0,Cash,Delivered,20.0,2023-05-05,4.0
+ORD00499,Speaker,Audio,East,12,879.97,10559.64,5.0,Cash,Cancelled,29.0,2023-05-05,3.9
+ORD00500,Tablet,Electronics,East,19,1152.15,21890.85,10.0,Credit Card,Delivered,31.0,2023-05-05,1.5
+ORD00501,Headphones,Audio,South,17,1375.75,23387.75,5.0,PayPal,Cancelled,62.0,2023-05-06,2.5
+ORD00502,Headphones,Audio,West,16,1147.91,18366.56,0.0,Credit Card,Delivered,18.0,2023-05-06,2.8
+ORD00503,Speaker,Audio,North,15,1017.52,,15.0,Credit Card,Delivered,53.0,2023-05-06,3.8
+ORD00504,Phone,Electronics,West,8,1005.46,8043.68,20.0,PayPal,Delivered,40.0,2023-05-06,1.4
+ORD00505,Webcam,Accessories,Central,14,531.44,7440.16,15.0,,Pending,58.0,2023-05-07,1.2
+ORD00506,Headphones,Audio,West,4,467.08,1868.32,20.0,Bank Transfer,Cancelled,57.0,2023-05-07,1.1
+ORD00507,Keyboard,Accessories,West,14,824.94,11549.16,15.0,Bank Transfer,Delivered,47.0,2023-05-07,1.8
+ORD00508,Monitor,Accessories,South,12,1273.06,15276.72,5.0,Cash,Delivered,43.0,2023-05-07,
+ORD00509,Phone,Electronics,South,9,1078.41,9705.69,10.0,Credit Card,Cancelled,,2023-05-08,3.0
+ORD00510,Tablet,Electronics,South,6,1437.78,8626.68,0.0,PayPal,Pending,,2023-05-08,4.2
+ORD00511,Webcam,Accessories,North,10,44.17,441.7,10.0,Bank Transfer,Pending,55.0,2023-05-08,4.3
+ORD00512,Phone,Electronics,Central,9,1460.45,13144.05,,Bank Transfer,Pending,36.0,2023-05-08,3.9
+ORD00513,Mouse,Accessories,North,14,282.12,3949.68,0.0,Bank Transfer,Cancelled,69.0,2023-05-09,3.9
+ORD00514,Webcam,Accessories,East,15,1220.02,18300.3,5.0,Bank Transfer,Delivered,63.0,2023-05-09,1.5
+ORD00515,Laptop,Electronics,North,16,111.56,1784.96,10.0,Credit Card,Delivered,29.0,2023-05-09,4.7
+ORD00516,Mouse,Accessories,South,11,727.06,7997.66,20.0,PayPal,Delivered,,2023-05-09,1.3
+ORD00517,Tablet,Electronics,Central,5,681.84,3409.2,5.0,Credit Card,Cancelled,24.0,2023-05-10,2.4
+ORD00518,Tablet,Electronics,West,17,696.18,11835.06,15.0,Cash,Delivered,57.0,2023-05-10,3.8
+ORD00519,Headphones,Audio,East,18,1412.62,25427.16,20.0,,Delivered,69.0,2023-05-10,2.0
+ORD00520,Headphones,Audio,North,2,656.13,1312.26,10.0,Credit Card,Delivered,39.0,2023-05-10,5.0
+ORD00521,Tablet,Electronics,North,4,1402.37,5609.48,5.0,Bank Transfer,Cancelled,69.0,2023-05-11,4.9
+ORD00522,Charger,Accessories,East,10,1272.18,12721.8,15.0,Cash,Pending,50.0,2023-05-11,1.9
+ORD00523,Webcam,Accessories,North,18,932.57,16786.26,5.0,Credit Card,Delivered,46.0,2023-05-11,4.8
+ORD00524,Phone,Electronics,East,13,176.46,2293.98,5.0,Credit Card,Pending,59.0,2023-05-11,1.8
+ORD00525,Laptop,Electronics,West,4,120.61,482.44,15.0,Cash,Delivered,54.0,2023-05-12,3.2
+ORD00526,Webcam,Accessories,West,12,1118.52,13422.24,10.0,Bank Transfer,Pending,46.0,2023-05-12,3.2
+ORD00527,Tablet,Electronics,North,6,1392.4,8354.4,15.0,Bank Transfer,Delivered,,2023-05-12,1.0
+ORD00528,Laptop,Electronics,South,9,944.57,8501.13,10.0,PayPal,Delivered,39.0,2023-05-12,3.6
+ORD00529,Speaker,Audio,Central,17,963.69,16382.73,15.0,PayPal,Delivered,31.0,2023-05-13,3.1
+ORD00530,Webcam,Accessories,East,19,1125.1,21376.9,20.0,Cash,Delivered,34.0,2023-05-13,
+ORD00531,Speaker,Audio,Central,9,784.19,7057.71,0.0,PayPal,Delivered,19.0,2023-05-13,2.6
+ORD00532,Speaker,Audio,North,7,466.05,3262.35,,Bank Transfer,Cancelled,38.0,2023-05-13,2.0
+ORD00533,Phone,Electronics,North,5,959.18,4795.9,,Bank Transfer,Delivered,41.0,2023-05-14,4.3
+ORD00534,Charger,Accessories,West,10,44.71,447.1,20.0,Cash,Cancelled,28.0,2023-05-14,2.2
+ORD00535,Phone,Electronics,East,8,916.22,7329.76,0.0,PayPal,Delivered,,2023-05-14,2.2
+ORD00536,Phone,Electronics,Central,18,906.38,16314.84,20.0,Cash,Cancelled,44.0,2023-05-14,
+ORD00537,Speaker,Audio,East,18,956.25,17212.5,10.0,Cash,Delivered,34.0,2023-05-15,3.1
+ORD00538,Headphones,Audio,North,19,994.5,18895.5,10.0,,Delivered,66.0,2023-05-15,2.5
+ORD00539,Phone,Electronics,North,14,234.47,3282.58,0.0,Credit Card,Pending,55.0,2023-05-15,2.3
+ORD00540,Charger,Accessories,North,11,355.95,3915.45,20.0,PayPal,Cancelled,37.0,2023-05-15,5.0
+ORD00541,Speaker,Audio,Central,4,891.18,3564.72,0.0,Credit Card,Delivered,33.0,2023-05-16,2.9
+ORD00542,Webcam,Accessories,North,19,133.75,2541.25,20.0,PayPal,Delivered,43.0,2023-05-16,1.1
+ORD00543,Speaker,Audio,East,8,558.33,,5.0,Bank Transfer,Delivered,18.0,2023-05-16,1.6
+ORD00544,Tablet,Electronics,North,16,678.33,10853.28,10.0,PayPal,Cancelled,,2023-05-16,3.7
+ORD00545,Phone,Electronics,East,4,618.92,2475.68,0.0,Bank Transfer,Delivered,55.0,2023-05-17,1.9
+ORD00546,Mouse,Accessories,Central,19,927.29,17618.51,20.0,Cash,Pending,30.0,2023-05-17,3.2
+ORD00547,Phone,Electronics,South,13,1074.72,13971.36,0.0,Credit Card,Delivered,,2023-05-17,2.4
+ORD00548,Tablet,Electronics,Central,15,621.7,9325.5,15.0,,Cancelled,,2023-05-17,1.6
+ORD00549,Webcam,Accessories,South,6,1160.32,,20.0,Cash,Pending,60.0,2023-05-18,3.4
+ORD00550,Charger,Accessories,North,7,1409.56,9866.92,0.0,Cash,Delivered,44.0,2023-05-18,3.6
+ORD00551,Headphones,Audio,West,7,1254.83,8783.81,0.0,PayPal,Delivered,,2023-05-18,
+ORD00552,Speaker,Audio,South,15,599.44,8991.6,5.0,Credit Card,Cancelled,52.0,2023-05-18,2.3
+ORD00553,Headphones,Audio,East,4,977.18,3908.72,5.0,Credit Card,Delivered,31.0,2023-05-19,4.8
+ORD00554,Monitor,Accessories,South,6,1250.18,7501.08,5.0,Credit Card,Cancelled,42.0,2023-05-19,2.1
+ORD00555,Mouse,Accessories,West,11,1343.04,14773.44,20.0,PayPal,Pending,28.0,2023-05-19,3.8
+ORD00556,Speaker,Audio,Central,16,1467.05,23472.8,0.0,Cash,Delivered,66.0,2023-05-19,1.5
+ORD00557,Mouse,Accessories,North,5,1416.46,7082.3,15.0,Bank Transfer,Delivered,55.0,2023-05-20,4.3
+ORD00558,Tablet,Electronics,Central,17,960.63,16330.71,15.0,Cash,Cancelled,54.0,2023-05-20,3.6
+ORD00559,Phone,Electronics,East,15,1086.28,16294.2,20.0,Bank Transfer,Delivered,69.0,2023-05-20,1.8
+ORD00560,Monitor,Accessories,South,10,211.68,2116.8,20.0,PayPal,Delivered,50.0,2023-05-20,4.9
+ORD00561,Keyboard,Accessories,North,14,760.97,10653.58,5.0,Credit Card,Delivered,65.0,2023-05-21,1.3
+ORD00562,Keyboard,Accessories,Central,9,476.56,4289.04,15.0,Bank Transfer,Delivered,32.0,2023-05-21,3.3
+ORD00563,Tablet,Electronics,Central,12,1390.53,16686.36,5.0,Cash,Cancelled,21.0,2023-05-21,4.0
+ORD00564,Tablet,Electronics,North,12,1193.62,14323.44,,Bank Transfer,Cancelled,46.0,2023-05-21,1.5
+ORD00565,Keyboard,Accessories,Central,12,88.47,,20.0,Credit Card,Pending,27.0,2023-05-22,1.7
+ORD00566,Speaker,Audio,West,14,276.1,3865.4,10.0,Bank Transfer,Delivered,,2023-05-22,1.1
+ORD00567,Phone,Electronics,Central,12,533.1,6397.2,5.0,PayPal,Delivered,65.0,2023-05-22,3.6
+ORD00568,Tablet,Electronics,North,8,367.53,2940.24,20.0,Bank Transfer,Pending,68.0,2023-05-22,4.2
+ORD00569,Headphones,Audio,West,1,1198.72,1198.72,,Cash,Delivered,69.0,2023-05-23,4.5
+ORD00570,Headphones,Audio,North,6,756.83,4540.98,20.0,Cash,Delivered,29.0,2023-05-23,4.5
+ORD00571,Keyboard,Accessories,East,15,980.64,14709.6,20.0,Credit Card,Delivered,21.0,2023-05-23,3.6
+ORD00572,Phone,Electronics,East,7,84.02,588.14,15.0,PayPal,Delivered,31.0,2023-05-23,3.2
+ORD00573,Headphones,Audio,West,17,441.08,7498.36,5.0,Credit Card,Delivered,34.0,2023-05-24,1.7
+ORD00574,Webcam,Accessories,East,16,863.44,13815.04,5.0,Credit Card,Cancelled,27.0,2023-05-24,1.1
+ORD00575,Headphones,Audio,Central,14,960.29,13444.06,10.0,,Delivered,67.0,2023-05-24,4.9
+ORD00576,Tablet,Electronics,West,6,39.56,237.36,5.0,Bank Transfer,Pending,51.0,2023-05-24,4.5
+ORD00577,Tablet,Electronics,East,3,1418.04,4254.12,15.0,PayPal,Pending,45.0,2023-05-25,2.1
+ORD00578,Webcam,Accessories,Central,3,928.08,2784.24,10.0,Cash,Cancelled,66.0,2023-05-25,1.5
+ORD00579,Laptop,Electronics,North,8,673.01,5384.08,15.0,Bank Transfer,Delivered,23.0,2023-05-25,4.4
+ORD00580,Keyboard,Accessories,West,3,434.19,1302.57,0.0,PayPal,Cancelled,18.0,2023-05-25,2.5
+ORD00581,Monitor,Accessories,Central,3,1066.74,3200.22,10.0,PayPal,Delivered,21.0,2023-05-26,3.3
+ORD00582,Headphones,Audio,North,1,1098.5,1098.5,0.0,Cash,Delivered,69.0,2023-05-26,4.8
+ORD00583,Charger,Accessories,West,12,230.25,2763.0,0.0,Bank Transfer,Pending,48.0,2023-05-26,4.5
+ORD00584,Phone,Electronics,East,13,1283.26,16682.38,15.0,Credit Card,Delivered,68.0,2023-05-26,
+ORD00585,Monitor,Accessories,South,3,1383.06,4149.18,,,Cancelled,,2023-05-27,1.3
+ORD00586,Webcam,Accessories,South,7,1002.13,7014.91,15.0,,Delivered,57.0,2023-05-27,1.3
+ORD00587,Monitor,Accessories,South,15,704.65,,5.0,PayPal,Delivered,26.0,2023-05-27,4.4
+ORD00588,Speaker,Audio,East,9,1281.74,11535.66,15.0,Bank Transfer,Delivered,22.0,2023-05-27,4.0
+ORD00589,Webcam,Accessories,West,1,587.96,587.96,0.0,Bank Transfer,Cancelled,42.0,2023-05-28,4.6
+ORD00590,Speaker,Audio,West,8,678.94,5431.52,15.0,Bank Transfer,Pending,19.0,2023-05-28,4.1
+ORD00591,Laptop,Electronics,East,14,256.83,3595.62,15.0,Cash,Pending,44.0,2023-05-28,3.9
+ORD00592,Phone,Electronics,Central,10,498.59,4985.9,10.0,PayPal,Delivered,54.0,2023-05-28,4.9
+ORD00593,Webcam,Accessories,South,9,1110.77,9996.93,5.0,Credit Card,Cancelled,42.0,2023-05-29,3.4
+ORD00594,Keyboard,Accessories,East,4,1434.4,5737.6,15.0,Cash,Pending,59.0,2023-05-29,2.6
+ORD00595,Mouse,Accessories,West,19,891.12,16931.28,0.0,Cash,Cancelled,42.0,2023-05-29,1.4
+ORD00596,Webcam,Accessories,West,11,1321.85,,20.0,Credit Card,Delivered,,2023-05-29,3.4
+ORD00597,Tablet,Electronics,South,11,246.73,2714.03,5.0,Cash,Pending,19.0,2023-05-30,4.6
+ORD00598,Keyboard,Accessories,West,1,688.33,688.33,5.0,Cash,Pending,33.0,2023-05-30,3.8
+ORD00599,Tablet,Electronics,West,3,27.29,81.87,0.0,Credit Card,Delivered,47.0,2023-05-30,2.1
+ORD00600,Mouse,Accessories,East,17,253.99,4317.83,,Bank Transfer,Pending,56.0,2023-05-30,2.9
+ORD00601,Phone,Electronics,West,19,507.1,9634.9,0.0,PayPal,Delivered,52.0,2023-05-31,2.2
+ORD00602,Tablet,Electronics,West,7,133.77,936.39,10.0,Cash,Delivered,59.0,2023-05-31,
+ORD00603,Tablet,Electronics,North,12,266.85,3202.2,10.0,Credit Card,Cancelled,34.0,2023-05-31,4.1
+ORD00604,Webcam,Accessories,East,7,663.44,4644.08,10.0,PayPal,Cancelled,21.0,2023-05-31,5.0
+ORD00605,Headphones,Audio,North,18,63.26,1138.68,15.0,Credit Card,Delivered,58.0,2023-06-01,3.9
+ORD00606,Monitor,Accessories,South,10,113.59,1135.9,10.0,PayPal,Delivered,62.0,2023-06-01,4.6
+ORD00607,Monitor,Accessories,Central,12,1055.88,12670.56,5.0,PayPal,Delivered,,2023-06-01,4.3
+ORD00608,Laptop,Electronics,North,14,914.08,12797.12,10.0,PayPal,Delivered,54.0,2023-06-01,
+ORD00609,Monitor,Accessories,West,13,803.75,10448.75,,PayPal,Pending,64.0,2023-06-02,3.4
+ORD00610,Webcam,Accessories,North,19,358.26,6806.94,20.0,Cash,Delivered,69.0,2023-06-02,3.7
+ORD00611,Laptop,Electronics,West,18,732.27,13180.86,20.0,Cash,Delivered,36.0,2023-06-02,1.5
+ORD00612,Monitor,Accessories,North,16,1006.28,16100.48,5.0,Credit Card,Delivered,20.0,2023-06-02,1.8
+ORD00613,Mouse,Accessories,East,18,503.53,9063.54,20.0,Cash,Cancelled,,2023-06-03,3.6
+ORD00614,Mouse,Accessories,Central,11,963.5,10598.5,15.0,Cash,Delivered,52.0,2023-06-03,1.1
+ORD00615,Speaker,Audio,North,2,1077.44,2154.88,10.0,Credit Card,Delivered,54.0,2023-06-03,2.7
+ORD00616,Mouse,Accessories,East,16,267.93,,5.0,Credit Card,Delivered,47.0,2023-06-03,3.6
+ORD00617,Speaker,Audio,North,13,1307.61,16998.93,0.0,,Delivered,18.0,2023-06-04,1.3
+ORD00618,Charger,Accessories,Central,8,886.91,7095.28,20.0,PayPal,Delivered,19.0,2023-06-04,
+ORD00619,Keyboard,Accessories,East,14,749.0,10486.0,10.0,PayPal,Delivered,67.0,2023-06-04,1.2
+ORD00620,Webcam,Accessories,North,8,445.36,3562.88,20.0,Bank Transfer,Delivered,23.0,2023-06-04,3.8
+ORD00621,Speaker,Audio,South,15,276.68,4150.2,15.0,Credit Card,Cancelled,20.0,2023-06-05,3.3
+ORD00622,Tablet,Electronics,South,15,1157.22,17358.3,10.0,PayPal,Cancelled,68.0,2023-06-05,2.8
+ORD00623,Tablet,Electronics,North,11,1001.79,11019.69,15.0,Credit Card,Delivered,23.0,2023-06-05,3.3
+ORD00624,Speaker,Audio,North,9,69.73,627.57,20.0,Bank Transfer,Cancelled,36.0,2023-06-05,1.9
+ORD00625,Mouse,Accessories,East,13,642.56,,15.0,Cash,Pending,,2023-06-06,5.0
+ORD00626,Mouse,Accessories,North,1,126.39,126.39,0.0,Credit Card,Delivered,33.0,2023-06-06,2.4
+ORD00627,Tablet,Electronics,West,5,219.5,1097.5,5.0,,Delivered,53.0,2023-06-06,2.7
+ORD00628,Mouse,Accessories,East,1,199.25,199.25,0.0,PayPal,Cancelled,22.0,2023-06-06,1.6
+ORD00629,Keyboard,Accessories,Central,7,707.39,4951.73,0.0,Bank Transfer,Delivered,67.0,2023-06-07,4.0
+ORD00630,Mouse,Accessories,Central,6,354.62,2127.72,10.0,PayPal,Cancelled,,2023-06-07,3.8
+ORD00631,Laptop,Electronics,South,17,1436.8,24425.6,20.0,Cash,Delivered,33.0,2023-06-07,4.5
+ORD00632,Keyboard,Accessories,South,11,639.84,7038.24,0.0,PayPal,Pending,68.0,2023-06-07,1.8
+ORD00633,Webcam,Accessories,East,17,1336.19,22715.23,,PayPal,Delivered,54.0,2023-06-08,1.4
+ORD00634,Webcam,Accessories,East,15,185.03,2775.45,15.0,Bank Transfer,Delivered,66.0,2023-06-08,2.3
+ORD00635,Mouse,Accessories,East,12,1483.38,17800.56,5.0,Cash,Pending,46.0,2023-06-08,4.5
+ORD00636,Laptop,Electronics,East,13,1395.37,18139.81,0.0,Bank Transfer,Delivered,24.0,2023-06-08,1.6
+ORD00637,Charger,Accessories,Central,13,297.13,,15.0,PayPal,Pending,64.0,2023-06-09,1.1
+ORD00638,Charger,Accessories,South,4,331.63,1326.52,20.0,Credit Card,Delivered,18.0,2023-06-09,5.0
+ORD00639,Mouse,Accessories,West,10,65.08,650.8,15.0,PayPal,Cancelled,39.0,2023-06-09,4.7
+ORD00640,Keyboard,Accessories,East,18,209.58,3772.44,10.0,PayPal,Cancelled,34.0,2023-06-09,4.6
+ORD00641,Mouse,Accessories,North,14,1206.08,16885.12,5.0,PayPal,Cancelled,,2023-06-10,3.2
+ORD00642,Keyboard,Accessories,Central,16,327.53,5240.48,10.0,PayPal,Delivered,28.0,2023-06-10,2.2
+ORD00643,Tablet,Electronics,Central,9,1251.58,11264.22,20.0,,Delivered,51.0,2023-06-10,5.0
+ORD00644,Monitor,Accessories,West,7,139.84,978.88,15.0,Cash,Cancelled,24.0,2023-06-10,1.4
+ORD00645,Tablet,Electronics,North,18,540.96,,0.0,PayPal,Delivered,59.0,2023-06-11,2.9
+ORD00646,Speaker,Audio,East,4,1210.85,,0.0,PayPal,Delivered,,2023-06-11,3.8
+ORD00647,Tablet,Electronics,West,12,935.4,11224.8,20.0,Cash,Cancelled,35.0,2023-06-11,2.1
+ORD00648,Tablet,Electronics,Central,7,696.16,4873.12,10.0,PayPal,Delivered,27.0,2023-06-11,1.6
+ORD00649,Speaker,Audio,West,17,1487.21,25282.57,0.0,Bank Transfer,Delivered,55.0,2023-06-12,3.6
+ORD00650,Charger,Accessories,East,3,351.35,1054.05,15.0,PayPal,Cancelled,43.0,2023-06-12,3.5
+ORD00651,Headphones,Audio,East,1,573.58,573.58,15.0,PayPal,Delivered,26.0,2023-06-12,3.3
+ORD00652,Speaker,Audio,Central,2,715.43,1430.86,10.0,Cash,Delivered,54.0,2023-06-12,3.4
+ORD00653,Webcam,Accessories,Central,2,383.3,766.6,15.0,Bank Transfer,Delivered,,2023-06-13,2.9
+ORD00654,Monitor,Accessories,South,4,346.04,1384.16,20.0,Credit Card,Cancelled,59.0,2023-06-13,4.3
+ORD00655,Headphones,Audio,East,16,600.55,9608.8,5.0,PayPal,Cancelled,28.0,2023-06-13,1.6
+ORD00656,Tablet,Electronics,North,9,199.0,1791.0,0.0,Cash,Delivered,28.0,2023-06-13,1.9
+ORD00657,Monitor,Accessories,West,1,765.95,765.95,10.0,PayPal,Cancelled,19.0,2023-06-14,1.5
+ORD00658,Laptop,Electronics,East,15,950.07,14251.05,20.0,Bank Transfer,Pending,34.0,2023-06-14,4.6
+ORD00659,Laptop,Electronics,North,8,1159.25,9274.0,0.0,Cash,Delivered,21.0,2023-06-14,1.9
+ORD00660,Headphones,Audio,Central,17,292.14,,10.0,Credit Card,Delivered,45.0,2023-06-14,2.9
+ORD00661,Speaker,Audio,West,16,874.99,13999.84,10.0,Cash,Cancelled,68.0,2023-06-15,4.2
+ORD00662,Webcam,Accessories,West,9,1459.49,13135.41,20.0,Cash,Pending,67.0,2023-06-15,3.8
+ORD00663,Speaker,Audio,East,16,82.79,1324.64,5.0,Cash,Delivered,27.0,2023-06-15,
+ORD00664,Mouse,Accessories,West,11,178.23,1960.53,20.0,PayPal,Delivered,53.0,2023-06-15,2.2
+ORD00665,Mouse,Accessories,North,10,480.05,4800.5,,PayPal,Pending,42.0,2023-06-16,1.7
+ORD00666,Webcam,Accessories,Central,11,105.43,1159.73,10.0,Credit Card,Delivered,68.0,2023-06-16,1.9
+ORD00667,Tablet,Electronics,West,10,684.03,6840.3,10.0,Credit Card,Delivered,52.0,2023-06-16,4.2
+ORD00668,Speaker,Audio,East,16,526.76,8428.16,0.0,PayPal,Delivered,20.0,2023-06-16,2.2
+ORD00669,Phone,Electronics,South,13,535.65,6963.45,5.0,Cash,Pending,44.0,2023-06-17,1.3
+ORD00670,Webcam,Accessories,West,9,351.39,3162.51,5.0,Bank Transfer,Delivered,25.0,2023-06-17,4.0
+ORD00671,Laptop,Electronics,Central,5,719.61,3598.05,20.0,Cash,Cancelled,56.0,2023-06-17,4.0
+ORD00672,Mouse,Accessories,East,13,440.24,5723.12,10.0,Cash,Delivered,63.0,2023-06-17,2.1
+ORD00673,Speaker,Audio,South,2,1040.32,2080.64,20.0,PayPal,Delivered,57.0,2023-06-18,1.2
+ORD00674,Headphones,Audio,East,9,352.54,3172.86,15.0,Bank Transfer,Delivered,47.0,2023-06-18,4.6
+ORD00675,Webcam,Accessories,North,13,1381.75,17962.75,0.0,Credit Card,Delivered,34.0,2023-06-18,2.0
+ORD00676,Speaker,Audio,Central,8,1312.5,,15.0,Bank Transfer,Cancelled,26.0,2023-06-18,4.6
+ORD00677,Headphones,Audio,Central,9,1065.86,9592.74,0.0,Cash,Pending,,2023-06-19,2.7
+ORD00678,Webcam,Accessories,South,19,939.28,17846.32,20.0,Cash,Pending,58.0,2023-06-19,2.1
+ORD00679,Monitor,Accessories,East,12,400.95,4811.4,5.0,PayPal,Cancelled,31.0,2023-06-19,2.6
+ORD00680,Charger,Accessories,East,18,891.56,16048.08,0.0,PayPal,Delivered,23.0,2023-06-19,2.7
+ORD00681,Monitor,Accessories,South,6,381.81,2290.86,,Cash,Delivered,62.0,2023-06-20,1.7
+ORD00682,Webcam,Accessories,North,16,418.55,6696.8,10.0,PayPal,Cancelled,23.0,2023-06-20,4.9
+ORD00683,Tablet,Electronics,South,4,950.76,,15.0,Cash,Delivered,59.0,2023-06-20,1.3
+ORD00684,Mouse,Accessories,West,7,1348.39,9438.73,5.0,PayPal,Delivered,56.0,2023-06-20,2.0
+ORD00685,Monitor,Accessories,East,13,640.69,8328.97,,Cash,Pending,54.0,2023-06-21,2.4
+ORD00686,Speaker,Audio,West,9,1330.31,11972.79,15.0,Cash,Delivered,22.0,2023-06-21,2.2
+ORD00687,Keyboard,Accessories,South,18,323.17,5817.06,10.0,Cash,Delivered,69.0,2023-06-21,2.3
+ORD00688,Monitor,Accessories,North,5,707.12,3535.6,5.0,Credit Card,Delivered,22.0,2023-06-21,1.9
+ORD00689,Mouse,Accessories,North,6,813.52,4881.12,,,Delivered,35.0,2023-06-22,3.7
+ORD00690,Monitor,Accessories,South,3,1076.59,3229.77,0.0,,Delivered,59.0,2023-06-22,2.1
+ORD00691,Speaker,Audio,West,14,626.77,8774.78,0.0,Credit Card,Pending,24.0,2023-06-22,3.3
+ORD00692,Mouse,Accessories,Central,1,855.82,855.82,15.0,PayPal,Delivered,54.0,2023-06-22,4.9
+ORD00693,Mouse,Accessories,South,3,431.95,1295.85,10.0,Cash,Pending,44.0,2023-06-23,2.0
+ORD00694,Speaker,Audio,South,15,951.25,14268.75,20.0,Bank Transfer,Delivered,65.0,2023-06-23,4.4
+ORD00695,Mouse,Accessories,North,14,802.43,11234.02,,PayPal,Delivered,24.0,2023-06-23,3.8
+ORD00696,Tablet,Electronics,West,1,1399.16,1399.16,,Cash,Cancelled,30.0,2023-06-23,4.1
+ORD00697,Headphones,Audio,East,10,675.65,6756.5,10.0,Cash,Pending,44.0,2023-06-24,4.0
+ORD00698,Mouse,Accessories,South,2,615.21,,0.0,Cash,Delivered,31.0,2023-06-24,1.4
+ORD00699,Laptop,Electronics,East,19,853.6,16218.4,5.0,Credit Card,Delivered,,2023-06-24,
+ORD00700,Laptop,Electronics,West,12,1185.21,14222.52,5.0,Credit Card,Cancelled,65.0,2023-06-24,2.5
+ORD00701,Speaker,Audio,West,9,982.47,8842.23,15.0,Bank Transfer,Pending,57.0,2023-06-25,4.9
+ORD00702,Tablet,Electronics,Central,6,164.73,988.38,10.0,PayPal,Delivered,,2023-06-25,4.8
+ORD00703,Webcam,Accessories,West,1,931.09,931.09,0.0,Credit Card,Delivered,20.0,2023-06-25,1.5
+ORD00704,Headphones,Audio,North,15,748.83,11232.45,5.0,Credit Card,Pending,35.0,2023-06-25,3.3
+ORD00705,Phone,Electronics,Central,9,1275.48,11479.32,5.0,PayPal,Cancelled,22.0,2023-06-26,1.1
+ORD00706,Charger,Accessories,West,14,200.54,2807.56,0.0,Credit Card,Pending,50.0,2023-06-26,4.4
+ORD00707,Mouse,Accessories,North,19,989.49,18800.31,15.0,Credit Card,Delivered,58.0,2023-06-26,4.8
+ORD00708,Laptop,Electronics,West,17,1361.18,23140.06,10.0,Bank Transfer,Delivered,32.0,2023-06-26,4.7
+ORD00709,Speaker,Audio,North,1,1379.41,1379.41,10.0,Cash,Delivered,18.0,2023-06-27,2.5
+ORD00710,Speaker,Audio,South,17,829.12,14095.04,5.0,Cash,Delivered,19.0,2023-06-27,4.6
+ORD00711,Mouse,Accessories,North,11,419.63,4615.93,5.0,Bank Transfer,Pending,59.0,2023-06-27,3.2
+ORD00712,Headphones,Audio,West,11,208.81,2296.91,15.0,Cash,Delivered,35.0,2023-06-27,1.3
+ORD00713,Phone,Electronics,West,3,1453.17,4359.51,5.0,PayPal,Pending,63.0,2023-06-28,4.5
+ORD00714,Webcam,Accessories,South,3,95.67,287.01,20.0,PayPal,Pending,47.0,2023-06-28,1.3
+ORD00715,Headphones,Audio,North,12,351.66,4219.92,20.0,Bank Transfer,Delivered,39.0,2023-06-28,2.1
+ORD00716,Charger,Accessories,Central,15,124.21,1863.15,15.0,Credit Card,Delivered,58.0,2023-06-28,1.5
+ORD00717,Webcam,Accessories,West,4,1383.91,5535.64,,Credit Card,Delivered,24.0,2023-06-29,4.6
+ORD00718,Charger,Accessories,East,1,535.25,535.25,20.0,Cash,Pending,68.0,2023-06-29,3.5
+ORD00719,Charger,Accessories,South,11,950.87,10459.57,5.0,PayPal,Delivered,29.0,2023-06-29,3.7
+ORD00720,Tablet,Electronics,East,10,397.04,3970.4,15.0,PayPal,Delivered,68.0,2023-06-29,1.6
+ORD00721,Mouse,Accessories,South,6,260.87,1565.22,15.0,,Delivered,39.0,2023-06-30,4.4
+ORD00722,Headphones,Audio,South,8,730.9,5847.2,5.0,,Delivered,63.0,2023-06-30,2.0
+ORD00723,Webcam,Accessories,West,18,451.65,8129.7,15.0,PayPal,Delivered,21.0,2023-06-30,4.3
+ORD00724,Webcam,Accessories,South,3,763.22,,5.0,Credit Card,Delivered,63.0,2023-06-30,4.0
+ORD00725,Phone,Electronics,West,3,1153.23,3459.69,0.0,Credit Card,Delivered,24.0,2023-07-01,1.3
+ORD00726,Keyboard,Accessories,North,16,1298.35,20773.6,,Cash,Delivered,23.0,2023-07-01,
+ORD00727,Phone,Electronics,North,16,133.05,2128.8,5.0,PayPal,Delivered,49.0,2023-07-01,2.5
+ORD00728,Webcam,Accessories,West,13,175.67,2283.71,20.0,,Delivered,64.0,2023-07-01,
+ORD00729,Keyboard,Accessories,West,11,176.34,1939.74,5.0,PayPal,Delivered,30.0,2023-07-02,2.2
+ORD00730,Monitor,Accessories,South,15,931.22,,5.0,PayPal,Cancelled,40.0,2023-07-02,3.8
+ORD00731,Speaker,Audio,South,9,306.92,,0.0,PayPal,Delivered,26.0,2023-07-02,1.5
+ORD00732,Charger,Accessories,West,12,1215.01,,15.0,Bank Transfer,Delivered,21.0,2023-07-02,3.8
+ORD00733,Headphones,Audio,East,19,1315.63,24996.97,15.0,Cash,Cancelled,29.0,2023-07-03,4.8
+ORD00734,Speaker,Audio,North,17,121.56,2066.52,,Bank Transfer,Delivered,26.0,2023-07-03,
+ORD00735,Charger,Accessories,Central,12,701.18,8414.16,5.0,PayPal,Cancelled,64.0,2023-07-03,3.5
+ORD00736,Laptop,Electronics,North,14,1077.49,15084.86,20.0,Credit Card,Delivered,46.0,2023-07-03,1.9
+ORD00737,Charger,Accessories,West,16,502.82,8045.12,15.0,Bank Transfer,Delivered,20.0,2023-07-04,
+ORD00738,Monitor,Accessories,South,7,340.46,2383.22,20.0,Cash,Delivered,58.0,2023-07-04,2.3
+ORD00739,Monitor,Accessories,North,14,1094.98,15329.72,15.0,Bank Transfer,Pending,62.0,2023-07-04,2.4
+ORD00740,Speaker,Audio,South,2,652.71,1305.42,5.0,Bank Transfer,Delivered,56.0,2023-07-04,4.7
+ORD00741,Tablet,Electronics,North,8,743.95,5951.6,5.0,Cash,Delivered,44.0,2023-07-05,4.9
+ORD00742,Phone,Electronics,South,1,1435.13,1435.13,15.0,Cash,Delivered,26.0,2023-07-05,4.5
+ORD00743,Monitor,Accessories,Central,3,661.96,1985.88,15.0,Cash,Cancelled,50.0,2023-07-05,4.2
+ORD00744,Speaker,Audio,West,14,1184.29,16580.06,15.0,PayPal,Delivered,61.0,2023-07-05,4.4
+ORD00745,Keyboard,Accessories,West,8,666.12,5328.96,5.0,,Delivered,36.0,2023-07-06,4.9
+ORD00746,Laptop,Electronics,South,16,763.7,12219.2,20.0,Cash,Delivered,54.0,2023-07-06,4.3
+ORD00747,Webcam,Accessories,North,8,428.22,3425.76,15.0,Cash,Delivered,28.0,2023-07-06,1.3
+ORD00748,Webcam,Accessories,Central,14,1225.59,17158.26,0.0,Credit Card,Delivered,31.0,2023-07-06,4.4
+ORD00749,Charger,Accessories,West,19,1439.88,,0.0,Credit Card,Pending,29.0,2023-07-07,4.8
+ORD00750,Keyboard,Accessories,East,4,873.06,3492.24,10.0,Cash,Delivered,69.0,2023-07-07,4.3
+ORD00751,Headphones,Audio,West,11,472.93,5202.23,10.0,PayPal,Cancelled,61.0,2023-07-07,4.3
+ORD00752,Charger,Accessories,Central,13,970.23,12612.99,15.0,Credit Card,Delivered,62.0,2023-07-07,2.8
+ORD00753,Mouse,Accessories,East,13,271.75,3532.75,5.0,PayPal,Delivered,65.0,2023-07-08,4.5
+ORD00754,Tablet,Electronics,West,18,485.86,8745.48,0.0,Bank Transfer,Delivered,42.0,2023-07-08,3.4
+ORD00755,Laptop,Electronics,North,18,597.52,10755.36,15.0,Credit Card,Pending,61.0,2023-07-08,3.0
+ORD00756,Laptop,Electronics,Central,4,566.21,2264.84,0.0,Bank Transfer,Delivered,55.0,2023-07-08,
+ORD00757,Tablet,Electronics,Central,10,1414.22,14142.2,15.0,Bank Transfer,Delivered,23.0,2023-07-09,1.5
+ORD00758,Monitor,Accessories,East,15,1288.32,19324.8,,Cash,Cancelled,,2023-07-09,2.8
+ORD00759,Monitor,Accessories,East,2,618.0,1236.0,20.0,,Delivered,36.0,2023-07-09,3.9
+ORD00760,Keyboard,Accessories,East,11,1425.59,15681.49,20.0,PayPal,Pending,52.0,2023-07-09,3.6
+ORD00761,Laptop,Electronics,North,18,647.24,11650.32,20.0,Credit Card,Delivered,57.0,2023-07-10,3.3
+ORD00762,Keyboard,Accessories,Central,1,785.13,785.13,5.0,PayPal,Delivered,51.0,2023-07-10,2.2
+ORD00763,Laptop,Electronics,South,10,587.15,5871.5,,Credit Card,Delivered,35.0,2023-07-10,2.2
+ORD00764,Charger,Accessories,South,19,1398.53,26572.07,10.0,Bank Transfer,Pending,62.0,2023-07-10,4.5
+ORD00765,Mouse,Accessories,Central,3,1264.05,3792.15,0.0,Bank Transfer,Delivered,22.0,2023-07-11,2.5
+ORD00766,Charger,Accessories,North,12,78.39,940.68,15.0,PayPal,Delivered,45.0,2023-07-11,2.7
+ORD00767,Mouse,Accessories,Central,10,630.84,6308.4,10.0,,Delivered,44.0,2023-07-11,4.7
+ORD00768,Tablet,Electronics,West,2,1441.95,2883.9,0.0,Cash,Delivered,,2023-07-11,1.1
+ORD00769,Tablet,Electronics,West,5,1339.38,6696.9,0.0,Bank Transfer,Cancelled,26.0,2023-07-12,
+ORD00770,Keyboard,Accessories,North,1,501.31,501.31,20.0,Credit Card,Delivered,60.0,2023-07-12,1.0
+ORD00771,Webcam,Accessories,Central,12,629.93,7559.16,0.0,Cash,Cancelled,63.0,2023-07-12,3.2
+ORD00772,Headphones,Audio,East,13,863.5,11225.5,,PayPal,Pending,43.0,2023-07-12,1.3
+ORD00773,Tablet,Electronics,South,13,1104.4,14357.2,20.0,Credit Card,Pending,61.0,2023-07-13,3.5
+ORD00774,Speaker,Audio,East,18,527.93,,10.0,Bank Transfer,Pending,29.0,2023-07-13,2.5
+ORD00775,Headphones,Audio,Central,9,1476.77,13290.93,10.0,Bank Transfer,Pending,56.0,2023-07-13,4.0
+ORD00776,Speaker,Audio,Central,18,990.96,17837.28,15.0,Credit Card,Delivered,53.0,2023-07-13,2.6
+ORD00777,Monitor,Accessories,Central,11,284.24,3126.64,10.0,Cash,Delivered,60.0,2023-07-14,2.7
+ORD00778,Charger,Accessories,West,13,810.01,10530.13,20.0,Cash,Pending,58.0,2023-07-14,1.1
+ORD00779,Tablet,Electronics,East,8,334.82,,10.0,Cash,Delivered,54.0,2023-07-14,1.9
+ORD00780,Laptop,Electronics,West,18,480.6,8650.8,0.0,Cash,Pending,57.0,2023-07-14,3.7
+ORD00781,Headphones,Audio,North,5,1399.64,6998.2,0.0,Credit Card,Pending,30.0,2023-07-15,1.0
+ORD00782,Keyboard,Accessories,Central,17,155.47,2642.99,15.0,PayPal,Pending,35.0,2023-07-15,3.3
+ORD00783,Laptop,Electronics,West,4,401.38,1605.52,10.0,Credit Card,Delivered,32.0,2023-07-15,2.6
+ORD00784,Mouse,Accessories,Central,5,448.38,2241.9,15.0,Bank Transfer,Delivered,,2023-07-15,4.2
+ORD00785,Monitor,Accessories,Central,13,1045.36,13589.68,15.0,Bank Transfer,Delivered,66.0,2023-07-16,1.2
+ORD00786,Keyboard,Accessories,North,15,1475.21,22128.15,15.0,PayPal,Delivered,20.0,2023-07-16,2.2
+ORD00787,Tablet,Electronics,West,2,278.65,557.3,5.0,Bank Transfer,Pending,32.0,2023-07-16,2.4
+ORD00788,Webcam,Accessories,Central,14,386.06,5404.84,20.0,Cash,Delivered,54.0,2023-07-16,3.2
+ORD00789,Charger,Accessories,Central,1,1322.33,1322.33,20.0,Cash,Delivered,31.0,2023-07-17,4.6
+ORD00790,Webcam,Accessories,Central,3,1466.91,4400.73,5.0,Credit Card,Delivered,36.0,2023-07-17,3.9
+ORD00791,Monitor,Accessories,South,2,1339.94,2679.88,5.0,Cash,Pending,,2023-07-17,2.6
+ORD00792,Mouse,Accessories,North,2,1272.78,2545.56,5.0,Cash,Pending,63.0,2023-07-17,2.4
+ORD00793,Monitor,Accessories,South,14,1463.7,20491.8,20.0,Bank Transfer,Delivered,28.0,2023-07-18,4.9
+ORD00794,Mouse,Accessories,Central,11,598.51,6583.61,20.0,Cash,Cancelled,68.0,2023-07-18,4.2
+ORD00795,Mouse,Accessories,North,5,1018.38,5091.9,0.0,Bank Transfer,Cancelled,57.0,2023-07-18,4.8
+ORD00796,Charger,Accessories,North,7,1443.13,10101.91,0.0,Cash,Delivered,67.0,2023-07-18,3.2
+ORD00797,Charger,Accessories,West,14,713.49,9988.86,0.0,Cash,Delivered,54.0,2023-07-19,3.8
+ORD00798,Webcam,Accessories,West,10,110.02,1100.2,5.0,PayPal,Pending,41.0,2023-07-19,3.9
+ORD00799,Mouse,Accessories,West,10,1011.09,10110.9,20.0,Credit Card,Delivered,47.0,2023-07-19,2.0
+ORD00800,Laptop,Electronics,North,15,382.04,5730.6,15.0,Credit Card,Delivered,57.0,2023-07-19,2.3
+ORD00801,Phone,Electronics,West,3,1059.67,3179.01,10.0,Credit Card,Delivered,54.0,2023-07-20,1.3
+ORD00802,Charger,Accessories,West,17,240.47,4087.99,10.0,Cash,Cancelled,19.0,2023-07-20,2.6
+ORD00803,Speaker,Audio,West,1,48.29,48.29,15.0,,Cancelled,50.0,2023-07-20,4.7
+ORD00804,Keyboard,Accessories,East,7,1040.85,7285.95,15.0,Bank Transfer,Delivered,62.0,2023-07-20,
+ORD00805,Webcam,Accessories,North,9,1001.19,9010.71,20.0,Credit Card,Delivered,53.0,2023-07-21,2.5
+ORD00806,Webcam,Accessories,East,5,418.52,2092.6,10.0,Bank Transfer,Cancelled,27.0,2023-07-21,2.5
+ORD00807,Laptop,Electronics,West,4,982.54,,15.0,Cash,Pending,59.0,2023-07-21,1.2
+ORD00808,Monitor,Accessories,South,11,274.96,3024.56,0.0,Bank Transfer,Delivered,43.0,2023-07-21,3.8
+ORD00809,Phone,Electronics,North,4,286.05,1144.2,15.0,Cash,Cancelled,,2023-07-22,4.1
+ORD00810,Charger,Accessories,Central,11,418.66,4605.26,5.0,Cash,Delivered,38.0,2023-07-22,2.1
+ORD00811,Webcam,Accessories,South,16,1388.02,22208.32,10.0,PayPal,Cancelled,23.0,2023-07-22,1.2
+ORD00812,Keyboard,Accessories,Central,13,1281.0,16653.0,0.0,Bank Transfer,Cancelled,25.0,2023-07-22,
+ORD00813,Headphones,Audio,North,18,293.51,5283.18,5.0,Credit Card,Delivered,29.0,2023-07-23,2.8
+ORD00814,Charger,Accessories,West,10,1209.02,12090.2,5.0,Credit Card,Delivered,53.0,2023-07-23,2.8
+ORD00815,Speaker,Audio,West,7,994.06,6958.42,,PayPal,Delivered,34.0,2023-07-23,4.2
+ORD00816,Mouse,Accessories,East,14,554.53,7763.42,5.0,Credit Card,Pending,42.0,2023-07-23,2.4
+ORD00817,Headphones,Audio,West,11,166.89,1835.79,10.0,PayPal,Delivered,46.0,2023-07-24,1.8
+ORD00818,Webcam,Accessories,East,2,263.06,526.12,15.0,Bank Transfer,Pending,33.0,2023-07-24,1.5
+ORD00819,Charger,Accessories,Central,12,1483.55,17802.6,15.0,Credit Card,Pending,62.0,2023-07-24,4.6
+ORD00820,Charger,Accessories,Central,7,1149.17,8044.19,10.0,Bank Transfer,Delivered,51.0,2023-07-24,2.6
+ORD00821,Webcam,Accessories,South,9,875.79,,20.0,Credit Card,Delivered,48.0,2023-07-25,1.6
+ORD00822,Charger,Accessories,North,18,1284.24,23116.32,20.0,,Delivered,44.0,2023-07-25,2.5
+ORD00823,Webcam,Accessories,Central,1,171.94,171.94,10.0,Bank Transfer,Delivered,69.0,2023-07-25,1.1
+ORD00824,Webcam,Accessories,Central,13,399.95,5199.35,,Credit Card,Pending,53.0,2023-07-25,3.1
+ORD00825,Mouse,Accessories,South,8,1307.18,10457.44,10.0,PayPal,Delivered,48.0,2023-07-26,4.5
+ORD00826,Webcam,Accessories,South,7,1052.91,7370.37,0.0,Credit Card,Pending,,2023-07-26,4.2
+ORD00827,Charger,Accessories,South,4,506.96,2027.84,20.0,Cash,Cancelled,40.0,2023-07-26,1.2
+ORD00828,Speaker,Audio,East,6,1406.12,8436.72,20.0,Bank Transfer,Pending,19.0,2023-07-26,2.2
+ORD00829,Headphones,Audio,South,17,389.2,6616.4,0.0,PayPal,Cancelled,65.0,2023-07-27,5.0
+ORD00830,Headphones,Audio,East,5,1481.03,7405.15,10.0,Credit Card,Delivered,46.0,2023-07-27,3.9
+ORD00831,Webcam,Accessories,Central,2,740.92,1481.84,10.0,Credit Card,Delivered,42.0,2023-07-27,1.4
+ORD00832,Webcam,Accessories,West,15,717.94,10769.1,10.0,Credit Card,Delivered,56.0,2023-07-27,
+ORD00833,Speaker,Audio,North,7,1216.63,,5.0,Cash,Cancelled,,2023-07-28,1.8
+ORD00834,Monitor,Accessories,West,2,237.9,475.8,20.0,Cash,Pending,42.0,2023-07-28,2.9
+ORD00835,Keyboard,Accessories,West,9,314.09,2826.81,5.0,Cash,Pending,37.0,2023-07-28,4.7
+ORD00836,Charger,Accessories,Central,7,1161.04,8127.28,15.0,PayPal,Delivered,27.0,2023-07-28,2.9
+ORD00837,Phone,Electronics,West,14,988.61,13840.54,0.0,PayPal,Delivered,32.0,2023-07-29,3.8
+ORD00838,Tablet,Electronics,Central,16,795.71,,0.0,Cash,Delivered,66.0,2023-07-29,
+ORD00839,Webcam,Accessories,Central,5,181.94,909.7,10.0,PayPal,Delivered,60.0,2023-07-29,1.8
+ORD00840,Keyboard,Accessories,South,9,384.79,3463.11,10.0,Bank Transfer,Pending,37.0,2023-07-29,1.7
+ORD00841,Tablet,Electronics,South,1,477.81,477.81,0.0,PayPal,Pending,53.0,2023-07-30,
+ORD00842,Monitor,Accessories,Central,12,1347.01,16164.12,15.0,PayPal,Pending,58.0,2023-07-30,1.4
+ORD00843,Headphones,Audio,South,7,983.67,6885.69,15.0,Credit Card,Delivered,39.0,2023-07-30,3.3
+ORD00844,Monitor,Accessories,North,12,896.54,10758.48,15.0,Cash,Delivered,67.0,2023-07-30,3.2
+ORD00845,Charger,Accessories,South,4,1052.33,4209.32,0.0,Bank Transfer,Delivered,24.0,2023-07-31,1.9
+ORD00846,Charger,Accessories,Central,2,1137.85,2275.7,20.0,PayPal,Delivered,61.0,2023-07-31,3.9
+ORD00847,Headphones,Audio,East,2,1250.18,2500.36,5.0,Credit Card,Pending,56.0,2023-07-31,1.1
+ORD00848,Mouse,Accessories,West,18,383.18,,15.0,Cash,Pending,39.0,2023-07-31,1.3
+ORD00849,Keyboard,Accessories,Central,17,115.29,1959.93,5.0,Credit Card,Pending,27.0,2023-08-01,2.0
+ORD00850,Laptop,Electronics,Central,2,1351.08,,20.0,Bank Transfer,Delivered,38.0,2023-08-01,1.6
+ORD00851,Mouse,Accessories,West,5,519.66,,20.0,Bank Transfer,Delivered,55.0,2023-08-01,2.1
+ORD00852,Laptop,Electronics,East,12,1078.12,12937.44,0.0,Credit Card,Pending,46.0,2023-08-01,1.9
+ORD00853,Webcam,Accessories,East,7,454.28,3179.96,20.0,Credit Card,Delivered,49.0,2023-08-02,1.3
+ORD00854,Headphones,Audio,West,4,153.16,612.64,5.0,Cash,Delivered,21.0,2023-08-02,2.5
+ORD00855,Keyboard,Accessories,South,5,1024.11,,15.0,Credit Card,Delivered,47.0,2023-08-02,2.3
+ORD00856,Keyboard,Accessories,West,12,527.25,6327.0,20.0,Cash,Pending,44.0,2023-08-02,4.3
+ORD00857,Laptop,Electronics,East,17,58.78,,5.0,Bank Transfer,Pending,62.0,2023-08-03,2.8
+ORD00858,Monitor,Accessories,South,19,478.56,9092.64,5.0,Bank Transfer,Pending,,2023-08-03,1.6
+ORD00859,Monitor,Accessories,North,1,877.42,877.42,10.0,Bank Transfer,Delivered,20.0,2023-08-03,2.1
+ORD00860,Monitor,Accessories,East,5,1154.34,5771.7,,Bank Transfer,Delivered,60.0,2023-08-03,4.5
+ORD00861,Charger,Accessories,South,11,114.05,1254.55,10.0,Cash,Cancelled,,2023-08-04,1.3
+ORD00862,Tablet,Electronics,South,14,1182.33,16552.62,15.0,Bank Transfer,Delivered,44.0,2023-08-04,3.1
+ORD00863,Speaker,Audio,West,5,193.3,,15.0,PayPal,Pending,53.0,2023-08-04,1.8
+ORD00864,Tablet,Electronics,East,16,1441.05,23056.8,5.0,Bank Transfer,Delivered,36.0,2023-08-04,3.6
+ORD00865,Headphones,Audio,East,7,521.89,3653.23,10.0,Credit Card,Delivered,20.0,2023-08-05,2.1
+ORD00866,Laptop,Electronics,West,13,1406.51,18284.63,20.0,Credit Card,Delivered,38.0,2023-08-05,4.2
+ORD00867,Laptop,Electronics,East,14,956.05,13384.7,10.0,Cash,Delivered,31.0,2023-08-05,3.9
+ORD00868,Mouse,Accessories,South,11,205.44,2259.84,20.0,Credit Card,Pending,26.0,2023-08-05,3.9
+ORD00869,Phone,Electronics,East,8,740.15,5921.2,15.0,Credit Card,Pending,22.0,2023-08-06,2.5
+ORD00870,Laptop,Electronics,East,11,578.1,6359.1,5.0,,Pending,59.0,2023-08-06,1.8
+ORD00871,Monitor,Accessories,South,7,524.62,3672.34,20.0,Bank Transfer,Delivered,64.0,2023-08-06,4.1
+ORD00872,Headphones,Audio,Central,16,548.23,8771.68,5.0,Bank Transfer,Delivered,37.0,2023-08-06,2.7
+ORD00873,Laptop,Electronics,South,16,303.69,4859.04,20.0,Cash,Cancelled,,2023-08-07,2.4
+ORD00874,Mouse,Accessories,West,8,102.49,819.92,0.0,Bank Transfer,Delivered,47.0,2023-08-07,1.9
+ORD00875,Monitor,Accessories,North,19,495.13,9407.47,5.0,PayPal,Cancelled,21.0,2023-08-07,3.3
+ORD00876,Phone,Electronics,South,14,936.66,,0.0,Cash,Delivered,54.0,2023-08-07,2.7
+ORD00877,Webcam,Accessories,East,19,223.26,4241.94,15.0,Cash,Delivered,40.0,2023-08-08,2.6
+ORD00878,Laptop,Electronics,South,14,756.9,10596.6,10.0,Credit Card,Delivered,28.0,2023-08-08,
+ORD00879,Monitor,Accessories,East,10,1386.17,13861.7,0.0,Credit Card,Delivered,57.0,2023-08-08,2.8
+ORD00880,Monitor,Accessories,North,12,93.21,1118.52,0.0,Bank Transfer,Delivered,43.0,2023-08-08,
+ORD00881,Keyboard,Accessories,West,18,800.17,14403.06,5.0,Cash,Delivered,20.0,2023-08-09,3.5
+ORD00882,Mouse,Accessories,East,14,971.02,13594.28,,PayPal,Pending,33.0,2023-08-09,3.8
+ORD00883,Mouse,Accessories,East,1,526.59,526.59,10.0,Credit Card,Cancelled,56.0,2023-08-09,3.0
+ORD00884,Webcam,Accessories,South,14,894.86,12528.04,0.0,Bank Transfer,Delivered,42.0,2023-08-09,
+ORD00885,Phone,Electronics,West,11,554.5,6099.5,5.0,Credit Card,Delivered,25.0,2023-08-10,4.3
+ORD00886,Monitor,Accessories,West,8,1430.69,11445.52,5.0,Credit Card,Pending,35.0,2023-08-10,1.4
+ORD00887,Mouse,Accessories,Central,14,158.43,2218.02,10.0,PayPal,Delivered,62.0,2023-08-10,4.5
+ORD00888,Monitor,Accessories,West,9,89.64,806.76,20.0,Bank Transfer,Cancelled,59.0,2023-08-10,1.2
+ORD00889,Headphones,Audio,North,3,1014.56,3043.68,20.0,Credit Card,Delivered,44.0,2023-08-11,2.5
+ORD00890,Phone,Electronics,East,17,368.7,,20.0,Bank Transfer,Cancelled,23.0,2023-08-11,3.8
+ORD00891,Keyboard,Accessories,East,1,883.46,883.46,10.0,Credit Card,Delivered,65.0,2023-08-11,2.3
+ORD00892,Tablet,Electronics,West,10,634.98,6349.8,15.0,Bank Transfer,Delivered,51.0,2023-08-11,3.8
+ORD00893,Tablet,Electronics,East,12,854.03,10248.36,10.0,PayPal,Delivered,40.0,2023-08-12,4.8
+ORD00894,Phone,Electronics,East,3,1406.25,,5.0,Cash,Delivered,49.0,2023-08-12,4.7
+ORD00895,Mouse,Accessories,North,10,1270.89,12708.9,5.0,Bank Transfer,Delivered,30.0,2023-08-12,2.7
+ORD00896,Webcam,Accessories,North,8,210.79,1686.32,20.0,Credit Card,Delivered,59.0,2023-08-12,1.2
+ORD00897,Charger,Accessories,South,11,150.08,1650.88,,Cash,Delivered,36.0,2023-08-13,1.7
+ORD00898,Phone,Electronics,East,10,149.69,,15.0,Credit Card,Delivered,29.0,2023-08-13,2.7
+ORD00899,Tablet,Electronics,West,12,1311.13,15733.56,20.0,Credit Card,Cancelled,,2023-08-13,4.1
+ORD00900,Keyboard,Accessories,South,7,98.77,691.39,20.0,Bank Transfer,Pending,52.0,2023-08-13,3.2
+ORD00901,Webcam,Accessories,South,13,1183.46,15384.98,0.0,Credit Card,Delivered,66.0,2023-08-14,1.2
+ORD00902,Phone,Electronics,Central,4,160.12,640.48,15.0,Bank Transfer,Cancelled,64.0,2023-08-14,1.6
+ORD00903,Headphones,Audio,Central,16,1461.23,,10.0,Cash,Pending,34.0,2023-08-14,1.6
+ORD00904,Phone,Electronics,East,8,924.22,7393.76,0.0,Bank Transfer,Pending,56.0,2023-08-14,4.3
+ORD00905,Webcam,Accessories,East,2,535.09,1070.18,20.0,Credit Card,Delivered,67.0,2023-08-15,1.8
+ORD00906,Speaker,Audio,West,6,855.04,5130.24,10.0,Cash,Pending,20.0,2023-08-15,3.3
+ORD00907,Laptop,Electronics,East,12,1134.93,13619.16,5.0,Cash,Delivered,38.0,2023-08-15,1.2
+ORD00908,Phone,Electronics,South,17,1095.32,18620.44,10.0,Credit Card,Pending,28.0,2023-08-15,4.3
+ORD00909,Phone,Electronics,East,11,488.15,5369.65,20.0,Credit Card,Delivered,19.0,2023-08-16,3.0
+ORD00910,Charger,Accessories,West,3,1294.19,3882.57,5.0,Credit Card,Pending,61.0,2023-08-16,2.8
+ORD00911,Monitor,Accessories,East,14,960.03,13440.42,,Credit Card,Delivered,62.0,2023-08-16,2.8
+ORD00912,Laptop,Electronics,West,9,1423.42,12810.78,5.0,Credit Card,Pending,22.0,2023-08-16,4.7
+ORD00913,Speaker,Audio,Central,2,373.51,747.02,20.0,PayPal,Cancelled,66.0,2023-08-17,2.4
+ORD00914,Mouse,Accessories,North,18,1096.37,,5.0,Credit Card,Pending,63.0,2023-08-17,4.0
+ORD00915,Headphones,Audio,North,9,290.98,2618.82,0.0,PayPal,Pending,49.0,2023-08-17,1.1
+ORD00916,Webcam,Accessories,Central,8,391.9,3135.2,10.0,Cash,Pending,69.0,2023-08-17,1.1
+ORD00917,Phone,Electronics,South,13,1414.72,18391.36,20.0,Bank Transfer,Cancelled,45.0,2023-08-18,2.5
+ORD00918,Mouse,Accessories,Central,12,1045.55,12546.6,20.0,Cash,Pending,58.0,2023-08-18,1.8
+ORD00919,Monitor,Accessories,North,12,348.56,4182.72,10.0,Credit Card,Delivered,20.0,2023-08-18,1.0
+ORD00920,Charger,Accessories,West,7,35.78,250.46,15.0,Bank Transfer,Delivered,23.0,2023-08-18,4.6
+ORD00921,Laptop,Electronics,South,15,409.62,6144.3,10.0,PayPal,Delivered,58.0,2023-08-19,2.1
+ORD00922,Charger,Accessories,South,16,534.35,8549.6,0.0,Bank Transfer,Delivered,49.0,2023-08-19,1.1
+ORD00923,Monitor,Accessories,North,15,1440.28,21604.2,20.0,,Pending,47.0,2023-08-19,4.7
+ORD00924,Headphones,Audio,North,4,1173.11,4692.44,5.0,Credit Card,Cancelled,32.0,2023-08-19,1.7
+ORD00925,Webcam,Accessories,Central,3,839.75,2519.25,10.0,Cash,Delivered,21.0,2023-08-20,
+ORD00926,Phone,Electronics,Central,1,93.17,93.17,5.0,Credit Card,Delivered,19.0,2023-08-20,4.2
+ORD00927,Laptop,Electronics,Central,1,833.21,833.21,0.0,Cash,Pending,51.0,2023-08-20,
+ORD00928,Laptop,Electronics,Central,1,648.22,648.22,0.0,Bank Transfer,Delivered,40.0,2023-08-20,4.7
+ORD00929,Webcam,Accessories,Central,15,626.49,9397.35,20.0,Cash,Pending,53.0,2023-08-21,4.7
+ORD00930,Headphones,Audio,North,14,439.99,6159.86,20.0,PayPal,Cancelled,65.0,2023-08-21,1.9
+ORD00931,Headphones,Audio,North,9,361.1,3249.9,5.0,,Pending,46.0,2023-08-21,2.4
+ORD00932,Headphones,Audio,East,10,1295.83,12958.3,5.0,Credit Card,Delivered,22.0,2023-08-21,4.0
+ORD00933,Monitor,Accessories,South,10,1246.32,12463.2,0.0,Bank Transfer,Delivered,45.0,2023-08-22,4.2
+ORD00934,Monitor,Accessories,East,7,1211.49,8480.43,5.0,PayPal,Delivered,40.0,2023-08-22,3.0
+ORD00935,Charger,Accessories,West,19,694.61,13197.59,,Credit Card,Delivered,35.0,2023-08-22,1.8
+ORD00936,Laptop,Electronics,North,4,823.77,,10.0,Credit Card,Delivered,58.0,2023-08-22,4.7
+ORD00937,Laptop,Electronics,South,17,654.49,11126.33,20.0,Credit Card,Cancelled,68.0,2023-08-23,3.6
+ORD00938,Laptop,Electronics,Central,6,646.54,3879.24,20.0,,Cancelled,50.0,2023-08-23,1.6
+ORD00939,Tablet,Electronics,North,5,1251.42,6257.1,20.0,Bank Transfer,Delivered,28.0,2023-08-23,2.3
+ORD00940,Tablet,Electronics,North,11,1364.73,15012.03,15.0,Bank Transfer,Delivered,66.0,2023-08-23,4.9
+ORD00941,Monitor,Accessories,West,12,1332.11,15985.32,0.0,PayPal,Delivered,20.0,2023-08-24,3.0
+ORD00942,Monitor,Accessories,East,13,1115.67,14503.71,10.0,Credit Card,Cancelled,59.0,2023-08-24,1.7
+ORD00943,Keyboard,Accessories,East,7,286.84,2007.88,20.0,Bank Transfer,Delivered,33.0,2023-08-24,1.6
+ORD00944,Headphones,Audio,North,12,1114.46,13373.52,15.0,Bank Transfer,Cancelled,56.0,2023-08-24,1.2
+ORD00945,Speaker,Audio,South,10,1224.35,12243.5,10.0,Cash,Delivered,27.0,2023-08-25,2.9
+ORD00946,Keyboard,Accessories,North,18,105.91,1906.38,,,Delivered,28.0,2023-08-25,
+ORD00947,Tablet,Electronics,East,15,10.12,151.8,0.0,PayPal,Delivered,45.0,2023-08-25,1.6
+ORD00948,Webcam,Accessories,Central,4,755.66,3022.64,10.0,Cash,Delivered,38.0,2023-08-25,3.4
+ORD00949,Phone,Electronics,Central,15,794.38,11915.7,5.0,PayPal,Delivered,27.0,2023-08-26,4.3
+ORD00950,Headphones,Audio,South,16,179.98,2879.68,0.0,Bank Transfer,Cancelled,37.0,2023-08-26,1.3
+ORD00951,Charger,Accessories,North,19,1275.15,24227.85,20.0,,Cancelled,,2023-08-26,
+ORD00952,Headphones,Audio,East,19,425.05,8075.95,15.0,PayPal,Cancelled,51.0,2023-08-26,1.9
+ORD00953,Keyboard,Accessories,West,19,1383.04,26277.76,20.0,Cash,Delivered,50.0,2023-08-27,1.4
+ORD00954,Mouse,Accessories,Central,19,1030.36,19576.84,20.0,Credit Card,Delivered,37.0,2023-08-27,2.4
+ORD00955,Phone,Electronics,West,14,72.31,1012.34,10.0,Cash,Delivered,18.0,2023-08-27,4.7
+ORD00956,Tablet,Electronics,South,19,1438.19,27325.61,10.0,Cash,Delivered,39.0,2023-08-27,3.5
+ORD00957,Webcam,Accessories,North,5,570.06,2850.3,0.0,PayPal,Pending,28.0,2023-08-28,
+ORD00958,Mouse,Accessories,North,10,1107.4,11074.0,20.0,Cash,Pending,31.0,2023-08-28,2.8
+ORD00959,Webcam,Accessories,North,2,539.16,1078.32,0.0,PayPal,Delivered,23.0,2023-08-28,3.0
+ORD00960,Charger,Accessories,Central,2,276.03,552.06,20.0,Credit Card,Delivered,66.0,2023-08-28,2.9
+ORD00961,Keyboard,Accessories,West,6,480.38,2882.28,10.0,Credit Card,Delivered,18.0,2023-08-29,1.5
+ORD00962,Phone,Electronics,Central,18,144.3,2597.4,5.0,PayPal,Cancelled,37.0,2023-08-29,2.7
+ORD00963,Charger,Accessories,Central,1,528.94,528.94,15.0,Credit Card,Pending,53.0,2023-08-29,3.0
+ORD00964,Mouse,Accessories,Central,3,1097.89,3293.67,0.0,Bank Transfer,Pending,56.0,2023-08-29,2.4
+ORD00965,Mouse,Accessories,East,2,1043.17,2086.34,10.0,PayPal,Delivered,,2023-08-30,4.8
+ORD00966,Phone,Electronics,West,9,1452.98,13076.82,0.0,,Cancelled,21.0,2023-08-30,4.1
+ORD00967,Keyboard,Accessories,Central,16,1251.1,20017.6,10.0,PayPal,Delivered,,2023-08-30,4.3
+ORD00968,Phone,Electronics,Central,17,312.3,5309.1,5.0,Credit Card,Delivered,26.0,2023-08-30,2.3
+ORD00969,Charger,Accessories,East,4,988.03,3952.12,10.0,,Delivered,36.0,2023-08-31,4.9
+ORD00970,Keyboard,Accessories,South,18,545.32,9815.76,20.0,Cash,Delivered,52.0,2023-08-31,2.3
+ORD00971,Tablet,Electronics,North,2,1059.82,2119.64,5.0,Bank Transfer,Cancelled,65.0,2023-08-31,
+ORD00972,Speaker,Audio,North,9,992.52,8932.68,5.0,Cash,Delivered,56.0,2023-08-31,3.0
+ORD00973,Speaker,Audio,South,11,918.32,10101.52,10.0,Cash,Pending,28.0,2023-09-01,3.8
+ORD00974,Mouse,Accessories,South,14,60.97,853.58,20.0,PayPal,Delivered,50.0,2023-09-01,4.4
+ORD00975,Laptop,Electronics,West,12,322.63,3871.56,15.0,Credit Card,Delivered,39.0,2023-09-01,3.1
+ORD00976,Headphones,Audio,East,10,353.69,3536.9,15.0,Cash,Delivered,43.0,2023-09-01,1.5
+ORD00977,Keyboard,Accessories,Central,5,286.8,1434.0,10.0,Bank Transfer,Cancelled,49.0,2023-09-02,2.6
+ORD00978,Phone,Electronics,North,19,39.22,745.18,,PayPal,Cancelled,33.0,2023-09-02,2.1
+ORD00979,Mouse,Accessories,East,10,132.9,1329.0,5.0,PayPal,Cancelled,67.0,2023-09-02,4.4
+ORD00980,Monitor,Accessories,South,16,675.74,10811.84,15.0,PayPal,Cancelled,44.0,2023-09-02,1.9
+ORD00981,Tablet,Electronics,West,16,984.83,15757.28,5.0,PayPal,Delivered,45.0,2023-09-03,1.8
+ORD00982,Speaker,Audio,East,18,1001.26,18022.68,20.0,PayPal,Pending,49.0,2023-09-03,3.2
+ORD00983,Headphones,Audio,West,7,59.36,415.52,10.0,Bank Transfer,Cancelled,18.0,2023-09-03,1.4
+ORD00984,Speaker,Audio,South,8,430.55,3444.4,0.0,Credit Card,Delivered,26.0,2023-09-03,3.9
+ORD00985,Tablet,Electronics,West,13,1380.89,17951.57,0.0,Bank Transfer,Delivered,49.0,2023-09-04,1.2
+ORD00986,Keyboard,Accessories,North,1,794.05,,20.0,Cash,Cancelled,39.0,2023-09-04,1.3
+ORD00987,Webcam,Accessories,North,19,747.01,14193.19,5.0,Credit Card,Pending,48.0,2023-09-04,1.6
+ORD00988,Monitor,Accessories,Central,3,1084.19,3252.57,0.0,Bank Transfer,Delivered,30.0,2023-09-04,1.1
+ORD00989,Tablet,Electronics,West,8,782.65,6261.2,0.0,Cash,Delivered,54.0,2023-09-05,2.3
+ORD00990,Mouse,Accessories,North,15,58.09,871.35,0.0,Cash,Pending,47.0,2023-09-05,1.1
+ORD00991,Phone,Electronics,West,14,656.64,,10.0,Bank Transfer,Delivered,44.0,2023-09-05,3.7
+ORD00992,Webcam,Accessories,North,18,1013.51,18243.18,20.0,PayPal,Delivered,64.0,2023-09-05,4.4
+ORD00993,Webcam,Accessories,East,8,464.36,3714.88,20.0,Cash,Delivered,46.0,2023-09-06,3.6
+ORD00994,Webcam,Accessories,West,7,573.41,4013.87,0.0,,Cancelled,43.0,2023-09-06,2.5
+ORD00995,Webcam,Accessories,Central,10,20.47,204.7,20.0,Bank Transfer,Delivered,33.0,2023-09-06,1.5
+ORD00996,Phone,Electronics,West,4,455.31,1821.24,20.0,PayPal,Delivered,68.0,2023-09-06,4.7
+ORD00997,Webcam,Accessories,East,12,805.21,9662.52,20.0,Credit Card,Delivered,,2023-09-07,3.9
+ORD00998,Charger,Accessories,West,4,364.79,1459.16,0.0,PayPal,Delivered,36.0,2023-09-07,3.7
+ORD00999,Laptop,Electronics,North,8,1063.92,8511.36,20.0,Bank Transfer,Delivered,51.0,2023-09-07,3.5
+ORD01000,Webcam,Accessories,Central,8,440.82,3526.56,20.0,Cash,Cancelled,54.0,2023-09-07,1.2
+ORD01001,Webcam,Accessories,North,1,135.92,135.92,20.0,Credit Card,Delivered,69.0,2023-09-08,4.9
+ORD01002,Phone,Electronics,West,8,1097.7,8781.6,0.0,Bank Transfer,Delivered,32.0,2023-09-08,2.4
+ORD01003,Laptop,Electronics,North,10,1116.87,11168.7,0.0,Cash,Cancelled,54.0,2023-09-08,4.0
+ORD01004,Speaker,Audio,East,16,892.76,,,Credit Card,Cancelled,55.0,2023-09-08,2.9
+ORD01005,Phone,Electronics,East,12,108.71,1304.52,15.0,Credit Card,Cancelled,36.0,2023-09-09,2.2
+ORD01006,Speaker,Audio,West,18,869.18,15645.24,15.0,PayPal,Cancelled,44.0,2023-09-09,3.2
+ORD01007,Headphones,Audio,North,5,135.15,675.75,10.0,PayPal,Delivered,18.0,2023-09-09,4.5
+ORD01008,Headphones,Audio,Central,6,282.09,1692.54,0.0,PayPal,Delivered,27.0,2023-09-09,1.6
+ORD01009,Monitor,Accessories,East,18,217.9,3922.2,15.0,,Delivered,32.0,2023-09-10,4.7
+ORD01010,Tablet,Electronics,South,7,1133.12,7931.84,10.0,PayPal,Delivered,26.0,2023-09-10,
+ORD01011,Monitor,Accessories,North,6,794.4,4766.4,5.0,Bank Transfer,Delivered,47.0,2023-09-10,4.3
+ORD01012,Speaker,Audio,South,3,179.88,539.64,15.0,Credit Card,Delivered,52.0,2023-09-10,3.4
+ORD01013,Tablet,Electronics,North,7,301.29,2109.03,10.0,PayPal,Delivered,56.0,2023-09-11,
+ORD01014,Headphones,Audio,West,8,1064.71,8517.68,,Credit Card,Cancelled,62.0,2023-09-11,4.8
+ORD01015,Speaker,Audio,South,3,1222.94,,15.0,PayPal,Pending,38.0,2023-09-11,3.2
+ORD01016,Webcam,Accessories,South,12,493.02,5916.24,5.0,Cash,Delivered,41.0,2023-09-11,2.5
+ORD01017,Laptop,Electronics,North,4,1251.41,5005.64,5.0,,Delivered,33.0,2023-09-12,3.0
+ORD01018,Webcam,Accessories,North,18,1059.17,19065.06,20.0,Cash,Pending,31.0,2023-09-12,4.5
+ORD01019,Mouse,Accessories,South,6,1108.57,6651.42,20.0,,Delivered,60.0,2023-09-12,
+ORD01020,Mouse,Accessories,West,10,1084.23,10842.3,5.0,Credit Card,Delivered,22.0,2023-09-12,2.3
+ORD01021,Headphones,Audio,North,18,1262.59,22726.62,10.0,Bank Transfer,Delivered,25.0,2023-09-13,3.8
+ORD01022,Laptop,Electronics,West,8,1057.62,8460.96,15.0,PayPal,Pending,61.0,2023-09-13,1.7
+ORD01023,Phone,Electronics,West,6,33.13,198.78,20.0,Bank Transfer,Pending,33.0,2023-09-13,2.6
+ORD01024,Laptop,Electronics,Central,5,620.52,3102.6,20.0,Credit Card,Delivered,68.0,2023-09-13,3.5
+ORD01025,Keyboard,Accessories,North,16,1182.64,18922.24,0.0,Cash,Delivered,38.0,2023-09-14,1.7
+ORD01026,Mouse,Accessories,South,19,211.0,4009.0,15.0,Cash,Pending,35.0,2023-09-14,2.3
+ORD01027,Mouse,Accessories,Central,6,376.5,2259.0,20.0,PayPal,Delivered,44.0,2023-09-14,2.1
+ORD01028,Monitor,Accessories,West,4,1299.51,5198.04,,Bank Transfer,Delivered,23.0,2023-09-14,4.8
+ORD01029,Tablet,Electronics,Central,2,601.82,1203.64,5.0,Credit Card,Pending,23.0,2023-09-15,3.1
+ORD01030,Phone,Electronics,North,4,1489.23,5956.92,5.0,Bank Transfer,Pending,47.0,2023-09-15,4.1
+ORD01031,Keyboard,Accessories,West,12,1429.82,17157.84,0.0,Cash,Delivered,39.0,2023-09-15,3.0
+ORD01032,Keyboard,Accessories,South,4,33.24,132.96,15.0,Cash,Cancelled,48.0,2023-09-15,2.3
+ORD01033,Phone,Electronics,Central,13,443.17,5761.21,15.0,,Delivered,31.0,2023-09-16,4.2
+ORD01034,Monitor,Accessories,North,9,473.3,4259.7,0.0,Credit Card,Delivered,42.0,2023-09-16,2.6
+ORD01035,Speaker,Audio,Central,7,1043.77,7306.39,0.0,,Cancelled,39.0,2023-09-16,2.1
+ORD01036,Tablet,Electronics,West,13,279.19,3629.47,10.0,Bank Transfer,Delivered,41.0,2023-09-16,1.0
+ORD01037,Tablet,Electronics,East,8,528.47,4227.76,10.0,Bank Transfer,Delivered,31.0,2023-09-17,
+ORD01038,Keyboard,Accessories,West,2,700.18,1400.36,,Credit Card,Pending,,2023-09-17,1.8
+ORD01039,Speaker,Audio,North,15,1196.14,17942.1,20.0,Bank Transfer,Delivered,53.0,2023-09-17,2.6
+ORD01040,Mouse,Accessories,North,8,1421.1,11368.8,5.0,Bank Transfer,Delivered,64.0,2023-09-17,3.3
+ORD01041,Charger,Accessories,North,19,623.06,11838.14,15.0,Cash,Delivered,23.0,2023-09-18,2.5
+ORD01042,Phone,Electronics,South,17,279.63,4753.71,10.0,Bank Transfer,Delivered,61.0,2023-09-18,4.9
+ORD01043,Tablet,Electronics,North,2,528.72,1057.44,15.0,Credit Card,Pending,,2023-09-18,
+ORD01044,Tablet,Electronics,Central,17,1217.09,20690.53,20.0,Bank Transfer,Delivered,55.0,2023-09-18,
+ORD01045,Monitor,Accessories,North,12,708.59,8503.08,,PayPal,Delivered,40.0,2023-09-19,1.3
+ORD01046,Monitor,Accessories,Central,9,666.01,5994.09,20.0,PayPal,Delivered,51.0,2023-09-19,4.1
+ORD01047,Webcam,Accessories,North,16,1360.55,,5.0,PayPal,Pending,23.0,2023-09-19,4.9
+ORD01048,Phone,Electronics,South,3,836.95,2510.85,20.0,Bank Transfer,Delivered,18.0,2023-09-19,3.1
+ORD01049,Speaker,Audio,Central,13,1450.34,18854.42,5.0,Credit Card,Delivered,69.0,2023-09-20,3.9
+ORD01050,Tablet,Electronics,South,9,1269.92,11429.28,20.0,Credit Card,Pending,33.0,2023-09-20,4.2
+ORD01051,Phone,Electronics,Central,4,1326.14,5304.56,20.0,Credit Card,Delivered,,2023-09-20,2.6
+ORD01052,Webcam,Accessories,West,2,412.83,825.66,5.0,Credit Card,Pending,59.0,2023-09-20,
+ORD01053,Speaker,Audio,East,11,1292.22,14214.42,10.0,PayPal,Delivered,60.0,2023-09-21,1.9
+ORD01054,Laptop,Electronics,West,7,1038.8,7271.6,15.0,Bank Transfer,Cancelled,20.0,2023-09-21,4.5
+ORD01055,Phone,Electronics,Central,17,1367.75,23251.75,10.0,Credit Card,Delivered,68.0,2023-09-21,1.1
+ORD01056,Laptop,Electronics,West,19,1169.76,22225.44,15.0,Bank Transfer,Cancelled,49.0,2023-09-21,4.1
+ORD01057,Laptop,Electronics,West,19,402.12,7640.28,10.0,Cash,Pending,29.0,2023-09-22,2.9
+ORD01058,Mouse,Accessories,East,12,17.19,206.28,10.0,Credit Card,Delivered,40.0,2023-09-22,2.8
+ORD01059,Headphones,Audio,South,19,756.99,14382.81,0.0,PayPal,Cancelled,54.0,2023-09-22,4.7
+ORD01060,Monitor,Accessories,North,9,749.82,6748.38,10.0,,Delivered,44.0,2023-09-22,3.2
+ORD01061,Keyboard,Accessories,West,4,1262.17,5048.68,20.0,Bank Transfer,Pending,54.0,2023-09-23,2.0
+ORD01062,Monitor,Accessories,North,5,498.86,2494.3,,Credit Card,Cancelled,54.0,2023-09-23,2.3
+ORD01063,Keyboard,Accessories,South,18,233.32,,,,Pending,22.0,2023-09-23,1.6
+ORD01064,Tablet,Electronics,East,9,286.44,2577.96,,Bank Transfer,Delivered,53.0,2023-09-23,1.9
+ORD01065,Webcam,Accessories,Central,3,1046.8,3140.4,0.0,Cash,Delivered,41.0,2023-09-24,3.9
+ORD01066,Phone,Electronics,East,2,349.97,699.94,,Cash,Delivered,53.0,2023-09-24,2.7
+ORD01067,Tablet,Electronics,East,19,159.63,3032.97,10.0,Cash,Delivered,30.0,2023-09-24,4.2
+ORD01068,Charger,Accessories,North,11,506.22,5568.42,0.0,Cash,Delivered,36.0,2023-09-24,4.5
+ORD01069,Laptop,Electronics,Central,1,1057.43,1057.43,20.0,Bank Transfer,Pending,24.0,2023-09-25,2.9
+ORD01070,Laptop,Electronics,Central,10,1431.4,14314.0,0.0,PayPal,Pending,23.0,2023-09-25,1.2
+ORD01071,Speaker,Audio,Central,8,999.64,7997.12,10.0,PayPal,Pending,45.0,2023-09-25,2.5
+ORD01072,Webcam,Accessories,West,13,1023.87,13310.31,15.0,Credit Card,Pending,40.0,2023-09-25,2.8
+ORD01073,Tablet,Electronics,West,15,55.31,829.65,10.0,Bank Transfer,Cancelled,25.0,2023-09-26,2.4
+ORD01074,Mouse,Accessories,East,19,1085.48,20624.12,10.0,PayPal,Cancelled,35.0,2023-09-26,1.7
+ORD01075,Monitor,Accessories,West,2,620.18,,0.0,Bank Transfer,Delivered,48.0,2023-09-26,2.6
+ORD01076,Tablet,Electronics,East,9,1217.66,10958.94,0.0,Credit Card,Delivered,36.0,2023-09-26,2.0
+ORD01077,Mouse,Accessories,Central,12,725.99,8711.88,20.0,Cash,Pending,21.0,2023-09-27,
+ORD01078,Mouse,Accessories,South,14,226.35,3168.9,5.0,Bank Transfer,Delivered,57.0,2023-09-27,1.4
+ORD01079,Charger,Accessories,Central,15,1045.38,15680.7,15.0,Cash,Delivered,44.0,2023-09-27,4.1
+ORD01080,Charger,Accessories,North,2,1349.69,2699.38,10.0,,Delivered,50.0,2023-09-27,3.6
+ORD01081,Monitor,Accessories,West,4,549.23,2196.92,15.0,Credit Card,Delivered,60.0,2023-09-28,4.5
+ORD01082,Mouse,Accessories,West,10,221.85,2218.5,15.0,Cash,Delivered,,2023-09-28,1.5
+ORD01083,Tablet,Electronics,West,15,1279.44,19191.6,15.0,Bank Transfer,Delivered,22.0,2023-09-28,3.5
+ORD01084,Speaker,Audio,South,15,88.76,1331.4,0.0,Credit Card,Cancelled,20.0,2023-09-28,4.1
+ORD01085,Mouse,Accessories,North,15,51.37,,10.0,Bank Transfer,Delivered,18.0,2023-09-29,2.7
+ORD01086,Headphones,Audio,Central,16,494.5,7912.0,20.0,Bank Transfer,Cancelled,38.0,2023-09-29,4.5
+ORD01087,Speaker,Audio,East,14,264.51,3703.14,,Bank Transfer,Delivered,,2023-09-29,3.7
+ORD01088,Tablet,Electronics,West,6,199.48,1196.88,15.0,PayPal,Cancelled,19.0,2023-09-29,3.4
+ORD01089,Headphones,Audio,Central,9,688.09,6192.81,10.0,Credit Card,Pending,52.0,2023-09-30,1.2
+ORD01090,Charger,Accessories,Central,12,779.89,9358.68,10.0,Credit Card,Delivered,63.0,2023-09-30,4.0
+ORD01091,Speaker,Audio,Central,5,795.08,3975.4,20.0,Credit Card,Delivered,55.0,2023-09-30,1.8
+ORD01092,Phone,Electronics,Central,14,791.36,,20.0,Credit Card,Delivered,59.0,2023-09-30,1.9
+ORD01093,Headphones,Audio,North,4,915.93,3663.72,15.0,PayPal,Delivered,19.0,2023-10-01,4.5
+ORD01094,Charger,Accessories,North,14,934.5,13083.0,5.0,PayPal,Cancelled,51.0,2023-10-01,4.0
+ORD01095,Phone,Electronics,South,18,60.41,1087.38,0.0,Bank Transfer,Pending,66.0,2023-10-01,1.9
+ORD01096,Monitor,Accessories,Central,16,482.06,7712.96,0.0,PayPal,Delivered,34.0,2023-10-01,
+ORD01097,Webcam,Accessories,North,18,817.17,14709.06,10.0,Bank Transfer,Delivered,,2023-10-02,1.9
+ORD01098,Monitor,Accessories,West,7,18.56,,20.0,Credit Card,Delivered,55.0,2023-10-02,1.8
+ORD01099,Charger,Accessories,South,6,1152.74,6916.44,15.0,Bank Transfer,Delivered,53.0,2023-10-02,3.1
+ORD01100,Monitor,Accessories,Central,14,1028.44,14398.16,,Cash,Cancelled,63.0,2023-10-02,2.8
+ORD01101,Webcam,Accessories,East,8,695.73,5565.84,10.0,Credit Card,Delivered,43.0,2023-10-03,1.0
+ORD01102,Phone,Electronics,South,13,481.74,6262.62,0.0,Bank Transfer,Delivered,56.0,2023-10-03,2.1
+ORD01103,Webcam,Accessories,Central,18,1277.81,,20.0,PayPal,Delivered,38.0,2023-10-03,3.7
+ORD01104,Monitor,Accessories,North,12,404.97,4859.64,20.0,Credit Card,Delivered,18.0,2023-10-03,4.7
+ORD01105,Charger,Accessories,East,11,571.43,,0.0,Credit Card,Delivered,33.0,2023-10-04,2.8
+ORD01106,Phone,Electronics,Central,7,359.39,,20.0,Credit Card,Cancelled,41.0,2023-10-04,2.2
+ORD01107,Charger,Accessories,East,7,502.0,3514.0,5.0,,Delivered,53.0,2023-10-04,
+ORD01108,Phone,Electronics,North,5,618.14,3090.7,0.0,Cash,Delivered,60.0,2023-10-04,3.7
+ORD01109,Keyboard,Accessories,West,15,1407.78,21116.7,20.0,Credit Card,Delivered,28.0,2023-10-05,2.5
+ORD01110,Charger,Accessories,South,2,557.49,1114.98,20.0,Cash,Pending,61.0,2023-10-05,2.1
+ORD01111,Webcam,Accessories,Central,10,1210.98,12109.8,15.0,,Delivered,48.0,2023-10-05,1.2
+ORD01112,Laptop,Electronics,Central,9,490.36,4413.24,,PayPal,Delivered,69.0,2023-10-05,1.3
+ORD01113,Keyboard,Accessories,West,11,411.49,4526.39,10.0,Credit Card,Pending,69.0,2023-10-06,4.8
+ORD01114,Mouse,Accessories,North,9,927.91,8351.19,0.0,Bank Transfer,Cancelled,28.0,2023-10-06,1.1
+ORD01115,Speaker,Audio,East,2,1262.25,2524.5,5.0,Credit Card,Delivered,29.0,2023-10-06,2.3
+ORD01116,Laptop,Electronics,South,14,990.37,13865.18,15.0,Credit Card,Pending,23.0,2023-10-06,3.9
+ORD01117,Speaker,Audio,Central,11,172.04,1892.44,10.0,,Delivered,30.0,2023-10-07,1.2
+ORD01118,Speaker,Audio,East,11,1220.75,13428.25,10.0,Bank Transfer,Delivered,45.0,2023-10-07,3.7
+ORD01119,Mouse,Accessories,West,11,262.77,,5.0,PayPal,Delivered,53.0,2023-10-07,1.7
+ORD01120,Tablet,Electronics,Central,18,95.79,1724.22,5.0,Bank Transfer,Delivered,36.0,2023-10-07,1.3
+ORD01121,Charger,Accessories,East,1,552.85,552.85,,PayPal,Pending,69.0,2023-10-08,4.9
+ORD01122,Phone,Electronics,East,3,330.78,992.34,0.0,PayPal,Delivered,65.0,2023-10-08,3.2
+ORD01123,Headphones,Audio,Central,7,1011.32,7079.24,15.0,Bank Transfer,Delivered,63.0,2023-10-08,3.8
+ORD01124,Headphones,Audio,West,14,1032.43,14454.02,10.0,Credit Card,Cancelled,50.0,2023-10-08,2.9
+ORD01125,Monitor,Accessories,North,9,1037.72,9339.48,10.0,Bank Transfer,Delivered,41.0,2023-10-09,2.2
+ORD01126,Speaker,Audio,Central,1,767.56,767.56,10.0,Bank Transfer,Delivered,62.0,2023-10-09,1.7
+ORD01127,Webcam,Accessories,Central,11,1153.88,12692.68,0.0,Cash,Cancelled,47.0,2023-10-09,3.1
+ORD01128,Keyboard,Accessories,North,10,1077.64,10776.4,,PayPal,Pending,68.0,2023-10-09,2.3
+ORD01129,Monitor,Accessories,North,11,1044.53,11489.83,20.0,Credit Card,Pending,51.0,2023-10-10,3.6
+ORD01130,Speaker,Audio,West,3,644.35,1933.05,20.0,Cash,Pending,53.0,2023-10-10,4.8
+ORD01131,Keyboard,Accessories,South,19,1262.15,23980.85,15.0,Cash,Delivered,29.0,2023-10-10,2.9
+ORD01132,Keyboard,Accessories,West,11,746.36,8209.96,,Bank Transfer,Delivered,56.0,2023-10-10,2.1
+ORD01133,Webcam,Accessories,South,14,619.45,8672.3,0.0,Bank Transfer,Pending,23.0,2023-10-11,4.2
+ORD01134,Tablet,Electronics,South,14,394.25,5519.5,20.0,Credit Card,Delivered,46.0,2023-10-11,4.1
+ORD01135,Webcam,Accessories,East,14,62.69,877.66,0.0,Credit Card,Pending,59.0,2023-10-11,3.6
+ORD01136,Keyboard,Accessories,North,10,950.6,9506.0,10.0,Cash,Delivered,53.0,2023-10-11,1.8
+ORD01137,Monitor,Accessories,Central,5,740.74,3703.7,5.0,Credit Card,Delivered,26.0,2023-10-12,1.0
+ORD01138,Keyboard,Accessories,East,19,688.5,13081.5,0.0,Cash,Cancelled,27.0,2023-10-12,1.5
+ORD01139,Headphones,Audio,North,1,721.99,721.99,,Bank Transfer,Delivered,34.0,2023-10-12,2.2
+ORD01140,Keyboard,Accessories,South,6,1039.34,6236.04,0.0,Bank Transfer,Delivered,30.0,2023-10-12,3.2
+ORD01141,Keyboard,Accessories,East,16,669.43,10710.88,10.0,Credit Card,Delivered,46.0,2023-10-13,3.9
+ORD01142,Tablet,Electronics,North,11,913.8,10051.8,20.0,Cash,Delivered,20.0,2023-10-13,2.5
+ORD01143,Tablet,Electronics,North,8,1057.84,,0.0,Credit Card,Delivered,,2023-10-13,3.8
+ORD01144,Headphones,Audio,Central,10,1300.33,13003.3,10.0,Cash,Pending,19.0,2023-10-13,2.2
+ORD01145,Webcam,Accessories,East,18,1158.08,20845.44,20.0,Bank Transfer,Delivered,57.0,2023-10-14,1.0
+ORD01146,Tablet,Electronics,East,12,833.8,10005.6,,Cash,Delivered,22.0,2023-10-14,3.4
+ORD01147,Monitor,Accessories,South,13,1122.4,14591.2,,Cash,Delivered,43.0,2023-10-14,1.4
+ORD01148,Laptop,Electronics,Central,8,283.38,2267.04,15.0,Credit Card,Delivered,21.0,2023-10-14,1.0
+ORD01149,Mouse,Accessories,Central,4,846.98,3387.92,15.0,Cash,Delivered,39.0,2023-10-15,4.3
+ORD01150,Headphones,Audio,South,17,1169.96,19889.32,10.0,PayPal,Delivered,50.0,2023-10-15,2.1
+ORD01151,Monitor,Accessories,Central,8,549.11,4392.88,15.0,Bank Transfer,Delivered,65.0,2023-10-15,2.9
+ORD01152,Laptop,Electronics,North,8,224.13,1793.04,10.0,Bank Transfer,Delivered,44.0,2023-10-15,4.4
+ORD01153,Headphones,Audio,East,17,1202.17,20436.89,,Bank Transfer,Cancelled,65.0,2023-10-16,3.1
+ORD01154,Monitor,Accessories,West,12,274.7,3296.4,20.0,,Pending,25.0,2023-10-16,4.2
+ORD01155,Keyboard,Accessories,East,18,786.66,14159.88,10.0,Bank Transfer,Cancelled,40.0,2023-10-16,2.4
+ORD01156,Monitor,Accessories,East,14,301.83,4225.62,0.0,,Delivered,27.0,2023-10-16,1.6
+ORD01157,Headphones,Audio,South,14,813.33,11386.62,10.0,PayPal,Cancelled,29.0,2023-10-17,4.7
+ORD01158,Tablet,Electronics,South,10,1038.21,10382.1,20.0,PayPal,Cancelled,28.0,2023-10-17,
+ORD01159,Mouse,Accessories,North,7,990.73,,10.0,Credit Card,Delivered,41.0,2023-10-17,1.9
+ORD01160,Keyboard,Accessories,South,4,708.74,2834.96,20.0,PayPal,Delivered,64.0,2023-10-17,4.7
+ORD01161,Charger,Accessories,West,17,1265.36,21511.12,10.0,Credit Card,Delivered,21.0,2023-10-18,4.3
+ORD01162,Tablet,Electronics,East,9,838.63,7547.67,10.0,,Delivered,25.0,2023-10-18,3.6
+ORD01163,Laptop,Electronics,Central,12,477.51,5730.12,5.0,,Pending,40.0,2023-10-18,1.8
+ORD01164,Phone,Electronics,North,17,711.25,12091.25,15.0,Credit Card,Delivered,33.0,2023-10-18,3.4
+ORD01165,Webcam,Accessories,North,12,1005.04,12060.48,0.0,Cash,Delivered,48.0,2023-10-19,4.3
+ORD01166,Keyboard,Accessories,Central,18,804.32,14477.76,20.0,Credit Card,Pending,,2023-10-19,4.1
+ORD01167,Charger,Accessories,North,4,37.22,148.88,10.0,Cash,Delivered,61.0,2023-10-19,3.2
+ORD01168,Charger,Accessories,North,16,591.13,9458.08,5.0,,Pending,28.0,2023-10-19,4.1
+ORD01169,Headphones,Audio,Central,7,990.68,6934.76,15.0,Credit Card,Delivered,62.0,2023-10-20,2.9
+ORD01170,Keyboard,Accessories,Central,1,444.42,444.42,20.0,PayPal,Cancelled,39.0,2023-10-20,2.3
+ORD01171,Headphones,Audio,North,13,312.07,4056.91,20.0,Cash,Delivered,39.0,2023-10-20,3.4
+ORD01172,Phone,Electronics,South,8,683.29,5466.32,10.0,Credit Card,Delivered,,2023-10-20,
+ORD01173,Phone,Electronics,East,13,1205.13,15666.69,20.0,Cash,Delivered,50.0,2023-10-21,4.3
+ORD01174,Headphones,Audio,West,1,777.59,777.59,15.0,Credit Card,Pending,30.0,2023-10-21,3.1
+ORD01175,Mouse,Accessories,East,7,97.08,679.56,0.0,Credit Card,Delivered,,2023-10-21,2.7
+ORD01176,Keyboard,Accessories,West,5,474.9,2374.5,5.0,PayPal,Cancelled,64.0,2023-10-21,4.3
+ORD01177,Keyboard,Accessories,North,6,837.05,5022.3,15.0,Cash,Pending,27.0,2023-10-22,3.0
+ORD01178,Tablet,Electronics,South,1,821.31,821.31,15.0,PayPal,Delivered,27.0,2023-10-22,2.7
+ORD01179,Webcam,Accessories,South,6,727.61,4365.66,15.0,PayPal,Delivered,22.0,2023-10-22,3.0
+ORD01180,Mouse,Accessories,North,4,1028.53,4114.12,0.0,Cash,Delivered,65.0,2023-10-22,3.8
+ORD01181,Mouse,Accessories,North,10,781.43,7814.3,20.0,PayPal,Delivered,44.0,2023-10-23,2.2
+ORD01182,Headphones,Audio,South,1,1113.9,,20.0,Bank Transfer,Delivered,19.0,2023-10-23,3.7
+ORD01183,Charger,Accessories,North,5,1448.34,7241.7,15.0,Cash,Cancelled,62.0,2023-10-23,4.1
+ORD01184,Headphones,Audio,West,6,919.46,,,PayPal,Delivered,53.0,2023-10-23,4.7
+ORD01185,Webcam,Accessories,South,17,502.4,8540.8,15.0,Bank Transfer,Cancelled,44.0,2023-10-24,1.4
+ORD01186,Laptop,Electronics,West,16,305.46,4887.36,20.0,Credit Card,Delivered,67.0,2023-10-24,3.6
+ORD01187,Webcam,Accessories,South,6,1111.34,6668.04,,PayPal,Delivered,63.0,2023-10-24,4.5
+ORD01188,Laptop,Electronics,Central,5,447.31,,20.0,PayPal,Pending,57.0,2023-10-24,1.8
+ORD01189,Laptop,Electronics,Central,7,1183.98,,,Bank Transfer,Pending,37.0,2023-10-25,1.3
+ORD01190,Webcam,Accessories,Central,13,708.13,9205.69,0.0,Bank Transfer,Delivered,32.0,2023-10-25,2.4
+ORD01191,Keyboard,Accessories,North,8,618.0,4944.0,5.0,Credit Card,Delivered,58.0,2023-10-25,2.6
+ORD01192,Laptop,Electronics,South,13,1308.59,17011.67,5.0,Credit Card,Delivered,21.0,2023-10-25,1.9
+ORD01193,Keyboard,Accessories,Central,2,754.05,1508.1,20.0,Credit Card,Cancelled,61.0,2023-10-26,4.8
+ORD01194,Webcam,Accessories,North,10,605.39,6053.9,,Bank Transfer,Delivered,24.0,2023-10-26,3.7
+ORD01195,Keyboard,Accessories,Central,17,196.83,3346.11,20.0,PayPal,Cancelled,62.0,2023-10-26,1.5
+ORD01196,Monitor,Accessories,West,15,1014.3,15214.5,20.0,PayPal,Pending,39.0,2023-10-26,3.7
+ORD01197,Mouse,Accessories,Central,5,349.63,1748.15,5.0,Credit Card,Cancelled,69.0,2023-10-27,2.2
+ORD01198,Mouse,Accessories,South,5,1491.99,7459.95,0.0,Bank Transfer,Cancelled,64.0,2023-10-27,3.1
+ORD01199,Keyboard,Accessories,West,1,1069.25,1069.25,5.0,Bank Transfer,Delivered,56.0,2023-10-27,4.2
+ORD01200,Charger,Accessories,Central,4,514.96,2059.84,15.0,Cash,Delivered,54.0,2023-10-27,3.7
+ORD01201,Charger,Accessories,West,16,1386.1,22177.6,,PayPal,Delivered,26.0,2023-10-28,3.3
+ORD01202,Charger,Accessories,West,4,1340.19,5360.76,5.0,Bank Transfer,Delivered,57.0,2023-10-28,1.4
+ORD01203,Laptop,Electronics,South,14,269.02,3766.28,5.0,Bank Transfer,Pending,58.0,2023-10-28,4.9
+ORD01204,Webcam,Accessories,North,10,901.86,9018.6,20.0,Bank Transfer,Cancelled,67.0,2023-10-28,3.4
+ORD01205,Speaker,Audio,South,19,1479.07,28102.33,5.0,Credit Card,Cancelled,18.0,2023-10-29,4.1
+ORD01206,Speaker,Audio,Central,11,866.32,9529.52,5.0,Cash,Delivered,,2023-10-29,2.5
+ORD01207,Monitor,Accessories,Central,6,898.83,5392.98,5.0,PayPal,Pending,22.0,2023-10-29,4.4
+ORD01208,Monitor,Accessories,South,13,663.38,8623.94,15.0,PayPal,Delivered,49.0,2023-10-29,2.0
+ORD01209,Monitor,Accessories,South,13,947.95,12323.35,,Credit Card,Delivered,35.0,2023-10-30,1.4
+ORD01210,Charger,Accessories,West,6,116.69,700.14,0.0,Cash,Delivered,42.0,2023-10-30,4.6
+ORD01211,Tablet,Electronics,West,8,288.98,2311.84,,Cash,Pending,31.0,2023-10-30,4.8
+ORD01212,Charger,Accessories,South,19,1313.57,24957.83,5.0,PayPal,Pending,41.0,2023-10-30,1.2
+ORD01213,Headphones,Audio,North,5,1121.43,5607.15,15.0,Cash,Delivered,37.0,2023-10-31,2.1
+ORD01214,Tablet,Electronics,East,11,557.55,6133.05,5.0,PayPal,Delivered,26.0,2023-10-31,2.7
+ORD01215,Tablet,Electronics,South,19,1152.74,21902.06,20.0,PayPal,Cancelled,28.0,2023-10-31,
+ORD01216,Monitor,Accessories,East,16,322.24,5155.84,5.0,Cash,Cancelled,55.0,2023-10-31,3.0
+ORD01217,Charger,Accessories,East,3,719.27,2157.81,20.0,PayPal,Delivered,24.0,2023-11-01,4.7
+ORD01218,Tablet,Electronics,West,12,1176.19,14114.28,0.0,Cash,Delivered,47.0,2023-11-01,4.0
+ORD01219,Tablet,Electronics,Central,8,444.77,3558.16,0.0,Credit Card,Cancelled,40.0,2023-11-01,1.9
+ORD01220,Tablet,Electronics,Central,16,1429.31,22868.96,20.0,Credit Card,Pending,29.0,2023-11-01,2.3
+ORD01221,Headphones,Audio,West,4,1490.69,5962.76,0.0,Cash,Pending,68.0,2023-11-02,3.3
+ORD01222,Tablet,Electronics,East,8,440.44,3523.52,10.0,Bank Transfer,Pending,38.0,2023-11-02,4.3
+ORD01223,Monitor,Accessories,West,16,1117.29,17876.64,,Credit Card,Delivered,34.0,2023-11-02,3.6
+ORD01224,Phone,Electronics,West,10,666.21,6662.1,0.0,Bank Transfer,Cancelled,54.0,2023-11-02,3.3
+ORD01225,Monitor,Accessories,East,15,246.09,3691.35,5.0,PayPal,Pending,32.0,2023-11-03,2.2
+ORD01226,Speaker,Audio,North,1,1046.22,1046.22,5.0,PayPal,Delivered,26.0,2023-11-03,4.9
+ORD01227,Keyboard,Accessories,North,3,651.4,1954.2,5.0,Credit Card,Cancelled,47.0,2023-11-03,3.8
+ORD01228,Phone,Electronics,South,16,1244.01,19904.16,5.0,Credit Card,Delivered,49.0,2023-11-03,3.7
+ORD01229,Headphones,Audio,Central,6,439.53,2637.18,20.0,Credit Card,Pending,26.0,2023-11-04,4.7
+ORD01230,Speaker,Audio,North,2,1082.81,2165.62,0.0,,Delivered,,2023-11-04,2.2
+ORD01231,Laptop,Electronics,West,19,1145.18,21758.42,20.0,Cash,Delivered,45.0,2023-11-04,2.9
+ORD01232,Monitor,Accessories,West,10,338.15,3381.5,20.0,Bank Transfer,Delivered,63.0,2023-11-04,4.7
+ORD01233,Monitor,Accessories,South,11,403.18,4434.98,5.0,Cash,Pending,62.0,2023-11-05,4.8
+ORD01234,Charger,Accessories,South,12,75.48,905.76,0.0,Credit Card,Delivered,53.0,2023-11-05,3.5
+ORD01235,Keyboard,Accessories,Central,12,96.03,1152.36,0.0,PayPal,Delivered,33.0,2023-11-05,3.4
+ORD01236,Tablet,Electronics,South,17,1164.6,19798.2,10.0,Cash,Delivered,25.0,2023-11-05,2.2
+ORD01237,Mouse,Accessories,North,13,1450.11,18851.43,5.0,Credit Card,Pending,36.0,2023-11-06,2.7
+ORD01238,Laptop,Electronics,East,13,897.64,11669.32,15.0,Credit Card,Pending,20.0,2023-11-06,2.8
+ORD01239,Keyboard,Accessories,West,2,56.19,112.38,0.0,Credit Card,Delivered,,2023-11-06,4.4
+ORD01240,Speaker,Audio,West,3,1172.09,3516.27,0.0,Credit Card,Delivered,30.0,2023-11-06,4.4
+ORD01241,Webcam,Accessories,Central,14,345.7,4839.8,0.0,Bank Transfer,Pending,41.0,2023-11-07,2.3
+ORD01242,Tablet,Electronics,Central,3,1238.72,3716.16,20.0,PayPal,Delivered,20.0,2023-11-07,2.1
+ORD01243,Webcam,Accessories,Central,14,891.72,12484.08,20.0,Credit Card,Cancelled,,2023-11-07,2.6
+ORD01244,Speaker,Audio,South,16,1226.16,19618.56,10.0,Credit Card,Delivered,56.0,2023-11-07,2.1
+ORD01245,Speaker,Audio,South,18,683.27,12298.86,5.0,,Cancelled,21.0,2023-11-08,2.7
+ORD01246,Charger,Accessories,East,14,186.4,2609.6,10.0,,Delivered,45.0,2023-11-08,2.0
+ORD01247,Charger,Accessories,South,15,997.16,14957.4,5.0,Cash,Delivered,20.0,2023-11-08,4.4
+ORD01248,Laptop,Electronics,North,15,724.23,10863.45,10.0,Bank Transfer,Delivered,56.0,2023-11-08,3.4
+ORD01249,Laptop,Electronics,North,8,1140.28,9122.24,20.0,Cash,Cancelled,18.0,2023-11-09,4.6
+ORD01250,Mouse,Accessories,South,13,1083.72,14088.36,15.0,Bank Transfer,Delivered,52.0,2023-11-09,4.9
+ORD01251,Speaker,Audio,West,19,803.59,15268.21,0.0,Cash,Pending,,2023-11-09,4.6
+ORD01252,Charger,Accessories,Central,8,1185.29,9482.32,15.0,Credit Card,Cancelled,21.0,2023-11-09,
+ORD01253,Mouse,Accessories,North,5,257.58,1287.9,0.0,Credit Card,Delivered,25.0,2023-11-10,3.1
+ORD01254,Charger,Accessories,South,10,1348.49,13484.9,10.0,PayPal,Delivered,36.0,2023-11-10,1.8
+ORD01255,Keyboard,Accessories,East,19,183.62,3488.78,5.0,,Delivered,,2023-11-10,4.8
+ORD01256,Tablet,Electronics,South,6,1176.26,7057.56,,PayPal,Delivered,43.0,2023-11-10,4.4
+ORD01257,Keyboard,Accessories,East,9,584.43,5259.87,20.0,Cash,Delivered,35.0,2023-11-11,3.9
+ORD01258,Speaker,Audio,West,10,713.96,7139.6,0.0,PayPal,Delivered,39.0,2023-11-11,1.7
+ORD01259,Headphones,Audio,West,16,229.95,3679.2,20.0,Cash,Delivered,42.0,2023-11-11,2.1
+ORD01260,Tablet,Electronics,Central,10,1034.18,10341.8,,Cash,Pending,22.0,2023-11-11,3.7
+ORD01261,Monitor,Accessories,North,10,989.59,9895.9,15.0,,Delivered,,2023-11-12,1.8
+ORD01262,Webcam,Accessories,East,13,573.82,7459.66,10.0,Cash,Delivered,40.0,2023-11-12,1.0
+ORD01263,Headphones,Audio,East,1,803.71,803.71,20.0,Cash,Delivered,23.0,2023-11-12,1.8
+ORD01264,Charger,Accessories,Central,19,769.04,14611.76,15.0,Credit Card,Pending,57.0,2023-11-12,2.4
+ORD01265,Webcam,Accessories,West,4,1167.84,,10.0,Credit Card,Delivered,54.0,2023-11-13,1.8
+ORD01266,Webcam,Accessories,West,8,1354.91,10839.28,5.0,Bank Transfer,Delivered,65.0,2023-11-13,1.5
+ORD01267,Headphones,Audio,North,9,355.78,3202.02,15.0,Credit Card,Cancelled,64.0,2023-11-13,4.1
+ORD01268,Headphones,Audio,Central,10,359.69,,0.0,Cash,Pending,53.0,2023-11-13,3.4
+ORD01269,Keyboard,Accessories,Central,1,1062.37,1062.37,5.0,PayPal,Cancelled,,2023-11-14,2.9
+ORD01270,Headphones,Audio,West,5,322.33,1611.65,15.0,PayPal,Delivered,46.0,2023-11-14,2.1
+ORD01271,Monitor,Accessories,Central,18,1235.48,22238.64,15.0,Bank Transfer,Delivered,30.0,2023-11-14,1.9
+ORD01272,Mouse,Accessories,West,7,859.06,6013.42,5.0,Cash,Cancelled,,2023-11-14,4.4
+ORD01273,Laptop,Electronics,South,6,921.55,5529.3,,Bank Transfer,Delivered,41.0,2023-11-15,4.5
+ORD01274,Charger,Accessories,North,9,1010.94,9098.46,15.0,Bank Transfer,Delivered,68.0,2023-11-15,4.8
+ORD01275,Monitor,Accessories,West,18,775.87,13965.66,15.0,Cash,Pending,41.0,2023-11-15,2.9
+ORD01276,Monitor,Accessories,East,12,331.49,3977.88,5.0,PayPal,Pending,49.0,2023-11-15,1.1
+ORD01277,Keyboard,Accessories,East,11,764.35,8407.85,0.0,PayPal,Delivered,65.0,2023-11-16,1.0
+ORD01278,Mouse,Accessories,West,11,1163.72,12800.92,5.0,Credit Card,Pending,22.0,2023-11-16,2.9
+ORD01279,Tablet,Electronics,Central,15,1147.2,17208.0,5.0,Credit Card,Delivered,57.0,2023-11-16,1.8
+ORD01280,Keyboard,Accessories,East,1,96.83,96.83,20.0,PayPal,Delivered,40.0,2023-11-16,3.9
+ORD01281,Webcam,Accessories,North,18,292.15,5258.7,,Credit Card,Pending,52.0,2023-11-17,1.5
+ORD01282,Phone,Electronics,East,4,1402.09,5608.36,10.0,Cash,Cancelled,31.0,2023-11-17,2.6
+ORD01283,Phone,Electronics,Central,4,571.66,2286.64,10.0,PayPal,Pending,24.0,2023-11-17,1.1
+ORD01284,Mouse,Accessories,North,2,682.06,1364.12,0.0,Cash,Cancelled,61.0,2023-11-17,4.2
+ORD01285,Charger,Accessories,Central,14,1345.23,18833.22,20.0,Cash,Pending,24.0,2023-11-18,2.9
+ORD01286,Monitor,Accessories,South,11,1218.6,13404.6,15.0,PayPal,Pending,42.0,2023-11-18,3.2
+ORD01287,Speaker,Audio,North,13,172.22,2238.86,15.0,Cash,Delivered,34.0,2023-11-18,4.3
+ORD01288,Speaker,Audio,North,3,295.25,885.75,15.0,Cash,Delivered,21.0,2023-11-18,1.9
+ORD01289,Speaker,Audio,East,12,178.12,2137.44,5.0,PayPal,Cancelled,51.0,2023-11-19,4.5
+ORD01290,Charger,Accessories,West,12,937.41,11248.92,15.0,Bank Transfer,Pending,55.0,2023-11-19,2.5
+ORD01291,Headphones,Audio,West,3,1148.64,,20.0,Cash,Delivered,23.0,2023-11-19,4.4
+ORD01292,Webcam,Accessories,North,17,253.5,4309.5,5.0,Credit Card,Delivered,63.0,2023-11-19,4.3
+ORD01293,Mouse,Accessories,South,15,998.41,14976.15,10.0,PayPal,Delivered,30.0,2023-11-20,1.4
+ORD01294,Mouse,Accessories,West,4,1480.42,5921.68,10.0,Bank Transfer,Delivered,21.0,2023-11-20,2.4
+ORD01295,Laptop,Electronics,East,2,878.25,1756.5,10.0,Cash,Delivered,22.0,2023-11-20,1.2
+ORD01296,Webcam,Accessories,North,6,1333.57,8001.42,20.0,Bank Transfer,Pending,49.0,2023-11-20,3.4
+ORD01297,Charger,Accessories,Central,4,677.5,2710.0,20.0,Cash,Pending,51.0,2023-11-21,4.2
+ORD01298,Keyboard,Accessories,North,13,541.54,7040.02,15.0,Cash,Delivered,37.0,2023-11-21,4.9
+ORD01299,Webcam,Accessories,West,10,306.97,3069.7,,Credit Card,Cancelled,19.0,2023-11-21,1.4
+ORD01300,Webcam,Accessories,Central,2,385.28,770.56,5.0,Credit Card,Delivered,41.0,2023-11-21,1.7
+ORD00594,Keyboard,Accessories,East,4,1434.4,5737.6,15.0,Cash,Pending,59.0,2023-05-29,2.6
+ORD01262,Webcam,Accessories,East,13,573.82,7459.66,10.0,Cash,Delivered,40.0,2023-11-12,1.0
+ORD00375,Mouse,Accessories,West,19,1106.01,21014.19,15.0,Cash,Delivered,31.0,2023-04-04,3.5
+ORD01121,Charger,Accessories,East,1,552.85,552.85,,PayPal,Pending,69.0,2023-10-08,4.9
+ORD01279,Tablet,Electronics,Central,15,1147.2,17208.0,5.0,Credit Card,Delivered,57.0,2023-11-16,1.8
+ORD00620,Webcam,Accessories,North,8,445.36,3562.88,20.0,Bank Transfer,Delivered,23.0,2023-06-04,3.8
+ORD01008,Headphones,Audio,Central,6,282.09,1692.54,0.0,PayPal,Delivered,27.0,2023-09-09,1.6
+ORD00985,Tablet,Electronics,West,13,1380.89,17951.57,0.0,Bank Transfer,Delivered,49.0,2023-09-04,1.2
+ORD00271,Mouse,Accessories,Central,12,991.05,11892.6,10.0,Credit Card,Delivered,32.0,2023-03-09,
+ORD00333,Headphones,Audio,South,13,404.86,5263.18,15.0,,Pending,61.0,2023-03-25,5.0
+ORD00802,Charger,Accessories,West,17,240.47,4087.99,10.0,Cash,Cancelled,19.0,2023-07-20,2.6
+ORD00986,Keyboard,Accessories,North,1,794.05,,20.0,Cash,Cancelled,39.0,2023-09-04,1.3
+ORD00319,Monitor,Accessories,South,3,456.24,1368.72,15.0,PayPal,Delivered,31.0,2023-03-21,2.5
+ORD00481,Monitor,Accessories,North,12,364.2,4370.4,15.0,,Delivered,57.0,2023-05-01,4.4
+ORD00971,Tablet,Electronics,North,2,1059.82,2119.64,5.0,Bank Transfer,Cancelled,65.0,2023-08-31,
+ORD01202,Charger,Accessories,West,4,1340.19,5360.76,5.0,Bank Transfer,Delivered,57.0,2023-10-28,1.4
+ORD00389,Webcam,Accessories,North,17,244.63,4158.71,0.0,Bank Transfer,Pending,32.0,2023-04-08,1.3
+ORD00865,Headphones,Audio,East,7,521.89,3653.23,10.0,Credit Card,Delivered,20.0,2023-08-05,2.1
+ORD00910,Charger,Accessories,West,3,1294.19,3882.57,5.0,Credit Card,Pending,61.0,2023-08-16,2.8
+ORD00793,Monitor,Accessories,South,14,1463.7,20491.8,20.0,Bank Transfer,Delivered,28.0,2023-07-18,4.9
+ORD00368,Laptop,Electronics,Central,4,1198.73,4794.92,10.0,PayPal,Pending,39.0,2023-04-02,3.1
+ORD00619,Keyboard,Accessories,East,14,749.0,10486.0,10.0,PayPal,Delivered,67.0,2023-06-04,1.2
+ORD00302,Keyboard,Accessories,West,18,441.64,7949.52,,Credit Card,Cancelled,54.0,2023-03-17,4.8
+ORD00870,Laptop,Electronics,East,11,578.1,6359.1,5.0,,Pending,59.0,2023-08-06,1.8
+ORD00281,Charger,Accessories,South,6,90.01,540.06,5.0,PayPal,Delivered,67.0,2023-03-12,1.0

@@ -1,0 +1,1231 @@
+Employee_ID,Full_Name,Age,Gender,Department,City,Salary,Years_Exp,Performance,Education,Status,Join_Date,Bonus_Pct
+EMP0001,Frank Taylor,60.0,Male,Marketing,Birmingham,42374.0,22,4.7,High School,Active,2010-01-01,21.0
+EMP0002,Diana Jones,50.0,Non-binary,HR,Glasgow,70913.0,31,,Bachelor,Active,2010-01-04,15.4
+EMP0003,Alice Smith,36.0,Non-binary,Finance,,91025.0,29,3.8,,Active,2010-01-07,
+EMP0004,Grace Wilson,29.0,Non-binary,HR,Bristol,69516.0,12,3.9,Bachelor,Active,2010-01-10,
+EMP0005,Bob Wilson,42.0,Female,Marketing,Bristol,51069.0,17,4.3,Bachelor,Active,2010-01-13,20.7
+EMP0006,Bob Brown,60.0,Female,Finance,Manchester,81233.0,22,,PhD,Resigned,2010-01-16,19.7
+EMP0007,Henry Smith,40.0,Non-binary,Operations,Bristol,84049.0,14,4.9,PhD,Active,2010-01-19,6.5
+EMP0008,Alice Jones,44.0,Non-binary,Marketing,Bristol,64178.0,32,1.3,High School,Resigned,2010-01-22,17.7
+EMP0009,Grace Brown,32.0,Female,Operations,Birmingham,57821.0,20,4.3,Master,On Leave,2010-01-25,5.4
+EMP0010,James Brown,32.0,Female,IT,Birmingham,76727.0,22,3.6,PhD,On Leave,2010-01-28,1.0
+EMP0011,Frank Wilson,45.0,Male,Sales,Glasgow,85935.0,26,3.6,Bachelor,Active,2010-01-31,5.0
+EMP0012,James Taylor,57.0,Male,Marketing,Manchester,41999.0,17,1.5,PhD,Resigned,2010-02-03,4.5
+EMP0013,Charlie Wilson,61.0,Female,IT,London,87522.0,23,3.6,PhD,On Leave,2010-02-06,8.4
+EMP0014,Frank Taylor,45.0,Non-binary,Marketing,Manchester,63712.0,6,4.9,High School,Active,2010-02-09,10.5
+EMP0015,Diana Wilson,24.0,Non-binary,Marketing,Manchester,89551.0,19,,PhD,Active,2010-02-12,12.7
+EMP0016,Alice Wilson,43.0,Non-binary,IT,Leeds,65172.0,26,2.8,PhD,Active,2010-02-15,11.9
+EMP0017,Alice Taylor,23.0,Non-binary,Finance,Glasgow,58722.0,5,1.2,Bachelor,Resigned,2010-02-18,6.8
+EMP0018,Eve Davis,,Male,HR,Leeds,35625.0,26,2.4,PhD,Active,2010-02-21,0.7
+EMP0019,Isla Davis,51.0,Female,Operations,Manchester,92165.0,8,4.3,Bachelor,Active,2010-02-24,15.1
+EMP0020,Alice Brown,59.0,Non-binary,Marketing,Manchester,31859.0,30,3.8,PhD,Resigned,2010-02-27,9.9
+EMP0021,Bob Wilson,23.0,Male,Operations,Manchester,,20,2.8,PhD,Active,2010-03-02,7.5
+EMP0022,James Brown,42.0,Non-binary,Sales,Bristol,68307.0,25,1.2,Master,Resigned,2010-03-05,
+EMP0023,Alice Smith,54.0,Female,IT,Leeds,46839.0,12,2.7,,Active,2010-03-08,18.7
+EMP0024,Bob Taylor,33.0,Male,Operations,Manchester,,22,2.9,Bachelor,On Leave,2010-03-11,21.4
+EMP0025,James Wilson,43.0,Female,IT,Birmingham,77953.0,19,4.7,,Active,2010-03-14,12.4
+EMP0026,Alice Wilson,46.0,Female,Operations,Glasgow,85593.0,27,3.6,High School,On Leave,2010-03-17,
+EMP0027,Bob Smith,48.0,Male,HR,,74522.0,16,2.2,,On Leave,2010-03-20,17.4
+EMP0028,Henry Davis,49.0,Male,HR,,29886.0,27,3.1,Master,On Leave,2010-03-23,5.2
+EMP0029,Henry Taylor,37.0,Male,HR,Glasgow,32485.0,1,1.3,Bachelor,Resigned,2010-03-26,11.0
+EMP0030,James Smith,,Male,HR,Bristol,56455.0,24,4.9,Bachelor,Active,2010-03-29,1.6
+EMP0031,Henry Jones,24.0,Male,HR,,41767.0,5,2.4,Bachelor,Resigned,2010-04-01,20.6
+EMP0032,Charlie Taylor,58.0,Male,HR,London,53453.0,10,,Master,Active,2010-04-04,3.1
+EMP0033,Diana Jones,28.0,Male,IT,London,78442.0,5,,Bachelor,Active,2010-04-07,22.6
+EMP0034,Grace Davis,42.0,Non-binary,Marketing,London,76877.0,10,3.7,High School,Active,2010-04-10,21.6
+EMP0035,Bob Jones,30.0,Female,Operations,Glasgow,37226.0,13,3.6,Master,Active,2010-04-13,11.6
+EMP0036,Frank Smith,,Male,HR,Bristol,47588.0,1,3.9,High School,Resigned,2010-04-16,18.6
+EMP0037,Diana Davis,39.0,Non-binary,IT,Bristol,56709.0,2,2.1,High School,Resigned,2010-04-19,15.5
+EMP0038,Charlie Wilson,25.0,Non-binary,IT,Bristol,72788.0,34,,Master,Active,2010-04-22,20.1
+EMP0039,Henry Smith,46.0,Non-binary,IT,Birmingham,62019.0,32,1.5,PhD,Resigned,2010-04-25,10.8
+EMP0040,Diana Jones,35.0,Female,Marketing,Bristol,69948.0,23,3.6,PhD,On Leave,2010-04-28,19.6
+EMP0041,Charlie Brown,30.0,Male,Operations,Birmingham,90133.0,18,1.2,High School,Resigned,2010-05-01,11.6
+EMP0042,Eve Smith,47.0,Non-binary,Marketing,London,91458.0,17,3.4,PhD,Active,2010-05-04,23.5
+EMP0043,Eve Davis,23.0,Female,Finance,,52526.0,23,4.5,Bachelor,Active,2010-05-07,12.2
+EMP0044,Eve Smith,,Female,IT,Glasgow,77198.0,34,4.6,Master,On Leave,2010-05-10,11.6
+EMP0045,Diana Brown,49.0,Female,Finance,,68395.0,0,2.8,High School,Active,2010-05-13,19.6
+EMP0046,Frank Brown,28.0,Non-binary,Sales,Glasgow,49031.0,24,2.8,Bachelor,Active,2010-05-16,20.5
+EMP0047,Diana Jones,29.0,Male,HR,Manchester,62701.0,33,1.3,PhD,Active,2010-05-19,13.9
+EMP0048,Charlie Brown,56.0,Non-binary,HR,Manchester,50939.0,24,3.7,Bachelor,Resigned,2010-05-22,
+EMP0049,Eve Jones,35.0,Non-binary,Marketing,Leeds,74145.0,15,4.3,PhD,Active,2010-05-25,11.7
+EMP0050,Alice Taylor,38.0,Male,Operations,Glasgow,45324.0,33,2.0,High School,Resigned,2010-05-28,24.2
+EMP0051,Grace Davis,57.0,Male,Finance,Leeds,47867.0,28,2.7,,Active,2010-05-31,18.8
+EMP0052,James Brown,61.0,Male,Operations,Leeds,25203.0,18,4.4,Master,Resigned,2010-06-03,20.3
+EMP0053,Henry Jones,,Female,Marketing,Manchester,41544.0,22,4.5,High School,On Leave,2010-06-06,0.8
+EMP0054,Charlie Brown,23.0,Male,HR,Glasgow,40899.0,18,2.0,Bachelor,Active,2010-06-09,
+EMP0055,Alice Taylor,27.0,Non-binary,Operations,Manchester,,24,3.2,Bachelor,Active,2010-06-12,16.2
+EMP0056,Isla Brown,25.0,Male,Operations,Leeds,28748.0,15,1.8,PhD,On Leave,2010-06-15,20.8
+EMP0057,Diana Jones,50.0,Non-binary,HR,,91629.0,8,1.4,High School,Active,2010-06-18,1.2
+EMP0058,James Smith,39.0,Female,Finance,,45884.0,0,,High School,Active,2010-06-21,21.3
+EMP0059,Isla Brown,47.0,Non-binary,HR,Bristol,50183.0,18,4.3,High School,Active,2010-06-24,
+EMP0060,Alice Jones,55.0,Non-binary,Operations,Glasgow,44259.0,32,4.0,High School,Active,2010-06-27,4.9
+EMP0061,Grace Brown,31.0,Male,Finance,,60959.0,33,1.2,PhD,Active,2010-06-30,7.9
+EMP0062,James Taylor,57.0,Male,Finance,Leeds,58457.0,15,4.4,Master,Resigned,2010-07-03,7.0
+EMP0063,Henry Davis,35.0,Non-binary,HR,Bristol,27103.0,17,2.8,High School,Active,2010-07-06,13.3
+EMP0064,James Davis,52.0,Male,Operations,Birmingham,90901.0,33,2.4,PhD,Active,2010-07-09,1.3
+EMP0065,Eve Brown,36.0,Female,Marketing,Manchester,69535.0,24,3.2,Master,On Leave,2010-07-12,4.0
+EMP0066,Diana Brown,29.0,Female,Operations,Leeds,,5,1.4,Master,Resigned,2010-07-15,20.3
+EMP0067,Frank Taylor,,Male,IT,Glasgow,37391.0,20,4.0,PhD,Active,2010-07-18,3.3
+EMP0068,Isla Jones,44.0,Female,Sales,Manchester,53901.0,5,3.3,High School,Resigned,2010-07-21,5.8
+EMP0069,Frank Taylor,61.0,Male,Marketing,Manchester,92914.0,31,1.7,Master,Active,2010-07-24,11.3
+EMP0070,Diana Jones,42.0,Non-binary,Finance,Manchester,75357.0,30,1.8,,Active,2010-07-27,12.9
+EMP0071,Grace Smith,37.0,Non-binary,Marketing,,63437.0,9,1.7,High School,Active,2010-07-30,19.1
+EMP0072,Eve Jones,39.0,Female,Finance,London,60503.0,29,1.2,Bachelor,On Leave,2010-08-02,11.2
+EMP0073,Diana Taylor,45.0,Male,Finance,Leeds,66258.0,17,3.4,High School,Active,2010-08-05,19.7
+EMP0074,Henry Wilson,47.0,Male,Marketing,London,58724.0,23,4.4,Bachelor,Active,2010-08-08,15.5
+EMP0075,James Wilson,46.0,Female,Finance,London,89286.0,8,1.1,Master,On Leave,2010-08-11,2.8
+EMP0076,Charlie Wilson,50.0,Non-binary,Finance,London,39908.0,30,1.2,PhD,Active,2010-08-14,3.9
+EMP0077,Eve Smith,36.0,Female,IT,Manchester,75626.0,14,3.3,Bachelor,Active,2010-08-17,10.9
+EMP0078,Alice Taylor,,Non-binary,Operations,Bristol,62228.0,3,4.3,PhD,Active,2010-08-20,9.9
+EMP0079,Bob Smith,,Male,Operations,Manchester,48386.0,8,2.3,Master,Resigned,2010-08-23,18.6
+EMP0080,Bob Jones,28.0,Non-binary,Sales,Manchester,71754.0,8,2.4,High School,Active,2010-08-26,14.5
+EMP0081,Bob Davis,30.0,Female,Sales,Glasgow,,25,3.4,Master,Active,2010-08-29,9.7
+EMP0082,Frank Jones,45.0,Male,IT,Glasgow,85815.0,3,2.1,PhD,Active,2010-09-01,4.3
+EMP0083,Henry Brown,22.0,Female,Sales,London,88344.0,16,1.1,Master,Active,2010-09-04,5.7
+EMP0084,Bob Wilson,,Female,Marketing,Manchester,60618.0,15,3.9,High School,Resigned,2010-09-07,14.4
+EMP0085,Isla Davis,45.0,Non-binary,HR,London,86114.0,14,3.5,,On Leave,2010-09-10,10.6
+EMP0086,Isla Davis,32.0,Female,HR,Glasgow,50525.0,34,3.3,High School,On Leave,2010-09-13,12.9
+EMP0087,Diana Jones,38.0,Non-binary,HR,,39334.0,4,,Bachelor,On Leave,2010-09-16,4.3
+EMP0088,Bob Taylor,29.0,Male,IT,Leeds,87767.0,4,3.7,PhD,Active,2010-09-19,16.6
+EMP0089,Bob Wilson,56.0,Non-binary,IT,London,31644.0,19,1.8,High School,Resigned,2010-09-22,21.3
+EMP0090,Henry Brown,56.0,Male,Finance,Bristol,57933.0,14,2.4,High School,Active,2010-09-25,6.4
+EMP0091,Henry Jones,54.0,Non-binary,HR,Leeds,68469.0,17,1.5,Master,On Leave,2010-09-28,12.3
+EMP0092,Grace Smith,26.0,Female,Marketing,Birmingham,58687.0,1,1.5,Bachelor,Resigned,2010-10-01,24.4
+EMP0093,Frank Jones,60.0,Non-binary,Sales,London,,28,3.7,High School,Active,2010-10-04,8.3
+EMP0094,Bob Jones,49.0,Non-binary,Marketing,London,42375.0,12,4.4,Bachelor,Active,2010-10-07,14.9
+EMP0095,Isla Smith,28.0,Male,Sales,Birmingham,90206.0,3,4.9,Bachelor,Resigned,2010-10-10,
+EMP0096,Charlie Smith,30.0,Female,HR,Birmingham,61607.0,9,3.5,,Resigned,2010-10-13,15.2
+EMP0097,Henry Davis,29.0,Non-binary,HR,London,48993.0,30,1.7,High School,Active,2010-10-16,2.2
+EMP0098,Henry Wilson,33.0,Female,HR,,69386.0,7,1.4,Master,Resigned,2010-10-19,24.0
+EMP0099,Grace Smith,55.0,Non-binary,IT,Manchester,71287.0,2,,PhD,Active,2010-10-22,17.9
+EMP0100,Frank Davis,54.0,Non-binary,Sales,Leeds,33210.0,8,3.3,PhD,Active,2010-10-25,19.7
+EMP0101,Henry Smith,44.0,Female,IT,Leeds,35922.0,29,,High School,Active,2010-10-28,17.6
+EMP0102,James Brown,45.0,Non-binary,IT,Leeds,61289.0,10,4.1,Bachelor,Active,2010-10-31,14.7
+EMP0103,Frank Brown,58.0,Female,Operations,Manchester,58340.0,34,3.8,,Active,2010-11-03,11.2
+EMP0104,Bob Jones,56.0,Non-binary,Marketing,Birmingham,64850.0,12,4.3,High School,Active,2010-11-06,21.5
+EMP0105,Henry Jones,61.0,Male,Marketing,Bristol,81984.0,12,1.2,,On Leave,2010-11-09,23.9
+EMP0106,Frank Taylor,,Female,Finance,,36094.0,11,4.0,,On Leave,2010-11-12,12.5
+EMP0107,Frank Taylor,48.0,Non-binary,IT,London,58418.0,9,4.4,Bachelor,Active,2010-11-15,23.3
+EMP0108,Diana Taylor,56.0,Non-binary,Sales,Glasgow,,8,2.1,,Active,2010-11-18,14.6
+EMP0109,Bob Brown,,Male,Operations,Leeds,93798.0,6,3.6,High School,On Leave,2010-11-21,13.5
+EMP0110,James Jones,56.0,Female,Operations,Birmingham,47164.0,1,2.3,Master,Resigned,2010-11-24,11.4
+EMP0111,Eve Taylor,58.0,Non-binary,Marketing,Bristol,60595.0,22,4.8,,Active,2010-11-27,5.2
+EMP0112,Alice Taylor,35.0,Male,IT,London,55257.0,20,1.1,,Resigned,2010-11-30,0.1
+EMP0113,Bob Wilson,24.0,Non-binary,Finance,Manchester,39211.0,22,3.3,Master,Active,2010-12-03,6.0
+EMP0114,Diana Brown,22.0,Female,IT,Manchester,30232.0,28,1.7,PhD,Active,2010-12-06,12.7
+EMP0115,Bob Davis,26.0,Non-binary,HR,Bristol,92753.0,13,3.8,Bachelor,Active,2010-12-09,9.5
+EMP0116,Isla Taylor,47.0,Non-binary,IT,London,77691.0,25,1.7,Bachelor,Active,2010-12-12,11.2
+EMP0117,Charlie Taylor,35.0,Non-binary,HR,Leeds,50613.0,4,1.9,Master,Active,2010-12-15,24.5
+EMP0118,James Davis,60.0,Non-binary,HR,Birmingham,39026.0,30,3.0,Bachelor,Resigned,2010-12-18,8.8
+EMP0119,Henry Smith,48.0,Male,Finance,London,78535.0,24,4.7,Bachelor,Active,2010-12-21,11.3
+EMP0120,Bob Taylor,30.0,Male,Sales,,55908.0,30,1.8,Bachelor,On Leave,2010-12-24,3.3
+EMP0121,James Brown,36.0,Female,Marketing,Bristol,77113.0,19,1.6,Bachelor,Active,2010-12-27,1.2
+EMP0122,James Jones,36.0,Male,IT,Bristol,44610.0,16,,Bachelor,On Leave,2010-12-30,19.4
+EMP0123,Grace Smith,47.0,Male,HR,Birmingham,71646.0,1,3.0,Bachelor,Resigned,2011-01-02,14.3
+EMP0124,Henry Smith,34.0,Female,IT,Bristol,88185.0,24,4.6,Bachelor,Resigned,2011-01-05,19.0
+EMP0125,Frank Taylor,53.0,Male,Sales,Bristol,72574.0,12,,Bachelor,Active,2011-01-08,3.7
+EMP0126,Grace Taylor,60.0,Male,Marketing,London,61182.0,27,3.6,PhD,Active,2011-01-11,14.3
+EMP0127,Alice Taylor,,Female,Sales,Leeds,,5,1.9,Bachelor,Active,2011-01-14,6.3
+EMP0128,Isla Brown,25.0,Female,Marketing,Birmingham,44288.0,2,1.6,PhD,Resigned,2011-01-17,5.7
+EMP0129,James Brown,51.0,Female,Operations,London,54877.0,34,3.7,PhD,Active,2011-01-20,0.3
+EMP0130,Bob Jones,58.0,Non-binary,Marketing,Leeds,25917.0,17,3.4,High School,Active,2011-01-23,3.3
+EMP0131,Isla Smith,44.0,Non-binary,Finance,London,89575.0,10,,High School,Active,2011-01-26,7.7
+EMP0132,Henry Jones,60.0,Female,Sales,Glasgow,,19,2.2,PhD,Resigned,2011-01-29,2.9
+EMP0133,Isla Wilson,36.0,Female,HR,London,43062.0,4,2.8,,Active,2011-02-01,24.6
+EMP0134,Alice Taylor,,Female,Operations,Bristol,41999.0,18,2.6,Bachelor,Active,2011-02-04,7.7
+EMP0135,Henry Davis,57.0,Non-binary,Finance,Leeds,86845.0,21,4.9,High School,Active,2011-02-07,3.3
+EMP0136,Alice Davis,34.0,Non-binary,IT,,34941.0,18,2.2,Master,Resigned,2011-02-10,5.0
+EMP0137,Diana Davis,53.0,Male,Sales,Birmingham,86169.0,15,2.2,High School,Active,2011-02-13,14.7
+EMP0138,Diana Brown,28.0,Male,HR,Leeds,48470.0,23,2.4,,Active,2011-02-16,1.6
+EMP0139,Charlie Davis,43.0,Female,Marketing,,84821.0,3,3.3,PhD,Active,2011-02-19,21.6
+EMP0140,Bob Brown,49.0,Non-binary,HR,Manchester,69435.0,14,2.0,Bachelor,Active,2011-02-22,24.0
+EMP0141,Grace Brown,23.0,Non-binary,IT,London,29529.0,24,4.7,Bachelor,Active,2011-02-25,
+EMP0142,Eve Taylor,27.0,Non-binary,Operations,Bristol,37192.0,34,2.1,High School,Resigned,2011-02-28,11.3
+EMP0143,Grace Jones,,Female,Operations,Glasgow,59087.0,13,4.6,Bachelor,Active,2011-03-03,0.6
+EMP0144,Eve Davis,49.0,Male,Sales,Leeds,91677.0,18,1.4,Master,Active,2011-03-06,16.0
+EMP0145,James Brown,,Female,Operations,London,29627.0,6,3.6,Master,Active,2011-03-09,10.3
+EMP0146,Bob Jones,51.0,Male,Sales,Birmingham,81541.0,29,4.6,Bachelor,Active,2011-03-12,6.8
+EMP0147,Diana Smith,32.0,Male,Sales,Manchester,93226.0,18,1.7,Master,Active,2011-03-15,5.2
+EMP0148,Henry Jones,49.0,Female,Sales,Glasgow,28255.0,24,4.9,Master,Active,2011-03-18,16.4
+EMP0149,Charlie Jones,46.0,Male,Marketing,Birmingham,82433.0,15,2.8,High School,Active,2011-03-21,10.4
+EMP0150,Grace Jones,60.0,Male,Finance,Leeds,30213.0,7,4.8,Master,Active,2011-03-24,4.5
+EMP0151,Charlie Brown,54.0,Non-binary,Sales,London,44404.0,17,3.7,PhD,On Leave,2011-03-27,17.2
+EMP0152,Isla Taylor,22.0,Male,Sales,Leeds,50380.0,27,2.2,PhD,On Leave,2011-03-30,14.1
+EMP0153,Grace Wilson,48.0,Female,Finance,London,44173.0,15,1.8,High School,Active,2011-04-02,21.5
+EMP0154,Grace Jones,34.0,Female,HR,Bristol,78027.0,18,2.2,Bachelor,Active,2011-04-05,2.9
+EMP0155,Diana Jones,24.0,Male,Sales,Manchester,,16,1.4,High School,Resigned,2011-04-08,19.6
+EMP0156,Alice Smith,60.0,Non-binary,Marketing,Bristol,49519.0,12,1.6,Bachelor,Resigned,2011-04-11,
+EMP0157,Bob Brown,27.0,Non-binary,Operations,Bristol,47439.0,6,1.4,Bachelor,On Leave,2011-04-14,2.9
+EMP0158,Diana Wilson,29.0,Male,Operations,Leeds,39995.0,26,2.7,Bachelor,Active,2011-04-17,17.4
+EMP0159,James Smith,48.0,Male,IT,Manchester,48559.0,9,4.2,Bachelor,On Leave,2011-04-20,11.0
+EMP0160,James Taylor,30.0,Female,IT,London,30021.0,33,1.6,Bachelor,Active,2011-04-23,23.6
+EMP0161,Alice Davis,58.0,Male,Operations,London,46119.0,24,1.5,High School,Active,2011-04-26,3.5
+EMP0162,Charlie Jones,54.0,Non-binary,Operations,Glasgow,76539.0,5,3.6,Bachelor,Resigned,2011-04-29,16.1
+EMP0163,Frank Brown,45.0,Male,Marketing,Birmingham,64350.0,23,1.8,Master,Active,2011-05-02,9.5
+EMP0164,Bob Brown,36.0,Female,Finance,,71223.0,17,1.4,Master,Active,2011-05-05,23.9
+EMP0165,James Brown,53.0,Female,IT,Glasgow,50517.0,22,1.7,Bachelor,Active,2011-05-08,8.2
+EMP0166,Eve Taylor,53.0,Female,Finance,London,47250.0,5,4.7,Master,On Leave,2011-05-11,24.1
+EMP0167,Isla Wilson,45.0,Female,Marketing,Leeds,91798.0,28,4.3,PhD,Active,2011-05-14,22.5
+EMP0168,James Jones,33.0,Female,Operations,Bristol,79199.0,24,2.4,High School,Active,2011-05-17,6.8
+EMP0169,Alice Jones,,Male,Sales,Bristol,84546.0,16,3.6,,Resigned,2011-05-20,20.1
+EMP0170,James Wilson,23.0,Male,Finance,Bristol,28327.0,23,3.1,Bachelor,Active,2011-05-23,24.9
+EMP0171,Isla Jones,24.0,Male,Operations,Manchester,54768.0,10,3.7,Bachelor,Active,2011-05-26,6.3
+EMP0172,Grace Jones,,Male,Operations,,,25,3.7,PhD,Active,2011-05-29,10.9
+EMP0173,Charlie Jones,38.0,Female,HR,Leeds,67788.0,33,3.5,Bachelor,Active,2011-06-01,
+EMP0174,Diana Wilson,23.0,Non-binary,Finance,Manchester,71830.0,27,2.1,Master,Active,2011-06-04,7.4
+EMP0175,Diana Taylor,23.0,Male,Sales,Birmingham,77446.0,2,1.2,PhD,On Leave,2011-06-07,
+EMP0176,Grace Smith,49.0,Non-binary,Finance,Leeds,,10,2.8,Master,Active,2011-06-10,5.5
+EMP0177,Henry Smith,44.0,Male,Operations,Glasgow,81583.0,13,4.6,High School,Active,2011-06-13,7.0
+EMP0178,Eve Taylor,58.0,Male,Sales,Leeds,58998.0,25,3.3,Master,Active,2011-06-16,11.1
+EMP0179,Eve Brown,53.0,Non-binary,Marketing,Leeds,52230.0,20,4.3,High School,Active,2011-06-19,4.3
+EMP0180,Diana Smith,54.0,Female,HR,Bristol,34076.0,29,5.0,Master,Active,2011-06-22,21.8
+EMP0181,Alice Brown,22.0,Male,Operations,Leeds,94341.0,7,1.7,High School,Active,2011-06-25,17.6
+EMP0182,Frank Wilson,40.0,Male,IT,Glasgow,56085.0,19,3.8,Bachelor,Active,2011-06-28,2.1
+EMP0183,Frank Smith,,Male,IT,Glasgow,80571.0,31,3.7,Master,Active,2011-07-01,16.3
+EMP0184,Frank Brown,47.0,Non-binary,HR,London,39715.0,21,,High School,On Leave,2011-07-04,16.3
+EMP0185,Alice Wilson,53.0,Female,Marketing,Leeds,30750.0,6,4.9,Master,Active,2011-07-07,23.9
+EMP0186,James Smith,27.0,Non-binary,Operations,Bristol,60903.0,8,3.7,PhD,Active,2011-07-10,0.1
+EMP0187,Frank Jones,,Non-binary,Finance,,57093.0,0,2.0,Bachelor,Active,2011-07-13,
+EMP0188,Bob Taylor,25.0,Female,HR,Birmingham,59314.0,28,,,Active,2011-07-16,
+EMP0189,Eve Smith,32.0,Non-binary,Marketing,Birmingham,73225.0,7,1.4,PhD,On Leave,2011-07-19,23.3
+EMP0190,Frank Taylor,38.0,Female,Finance,Bristol,60179.0,3,,,On Leave,2011-07-22,18.0
+EMP0191,Eve Smith,59.0,Male,IT,London,50338.0,34,4.6,PhD,On Leave,2011-07-25,19.1
+EMP0192,Alice Brown,45.0,Female,IT,London,,2,2.5,,Active,2011-07-28,2.3
+EMP0193,Bob Brown,26.0,Male,Finance,Glasgow,57101.0,6,3.5,Bachelor,Active,2011-07-31,12.8
+EMP0194,Charlie Davis,55.0,Non-binary,HR,Glasgow,27775.0,26,2.7,PhD,On Leave,2011-08-03,5.8
+EMP0195,Grace Davis,27.0,Non-binary,IT,Manchester,,0,2.8,Bachelor,Active,2011-08-06,4.5
+EMP0196,Grace Brown,43.0,Male,Operations,Bristol,70838.0,26,2.2,High School,Active,2011-08-09,20.3
+EMP0197,Grace Taylor,32.0,Non-binary,Sales,Leeds,44539.0,15,4.0,Master,Active,2011-08-12,3.4
+EMP0198,James Smith,37.0,Female,Finance,Bristol,82124.0,6,4.7,Master,Active,2011-08-15,11.7
+EMP0199,Frank Wilson,54.0,Male,Finance,,90149.0,22,4.8,,Active,2011-08-18,23.5
+EMP0200,Charlie Brown,30.0,Non-binary,IT,Glasgow,51616.0,10,1.7,Bachelor,On Leave,2011-08-21,4.6
+EMP0201,Frank Jones,27.0,Male,HR,Bristol,79567.0,32,4.5,High School,On Leave,2011-08-24,24.4
+EMP0202,Charlie Jones,37.0,Female,Operations,Bristol,,16,3.9,PhD,Active,2011-08-27,24.9
+EMP0203,Isla Taylor,50.0,Female,HR,Glasgow,86799.0,34,2.0,Master,On Leave,2011-08-30,13.9
+EMP0204,Henry Smith,24.0,Non-binary,Marketing,Manchester,50479.0,4,1.3,Master,Active,2011-09-02,4.3
+EMP0205,Frank Jones,41.0,Female,Marketing,Glasgow,71172.0,31,2.1,High School,Active,2011-09-05,7.9
+EMP0206,Grace Brown,57.0,Male,Sales,London,80863.0,2,4.6,High School,On Leave,2011-09-08,10.6
+EMP0207,Alice Jones,40.0,Female,IT,Leeds,67043.0,34,3.5,Bachelor,Active,2011-09-11,7.7
+EMP0208,Frank Wilson,47.0,Male,IT,Glasgow,40408.0,13,3.9,,Resigned,2011-09-14,7.0
+EMP0209,Eve Wilson,24.0,Male,IT,Manchester,82980.0,30,2.0,PhD,Active,2011-09-17,
+EMP0210,Bob Davis,40.0,Female,Sales,Birmingham,41351.0,30,3.9,,Resigned,2011-09-20,3.8
+EMP0211,James Taylor,41.0,Non-binary,Marketing,London,29131.0,16,1.1,PhD,On Leave,2011-09-23,18.3
+EMP0212,Isla Jones,,Female,HR,Birmingham,69825.0,23,2.5,High School,Active,2011-09-26,0.0
+EMP0213,Grace Brown,28.0,Male,Sales,Glasgow,36349.0,22,3.5,Master,On Leave,2011-09-29,
+EMP0214,Isla Wilson,54.0,Male,Sales,London,85931.0,17,1.6,High School,Resigned,2011-10-02,22.9
+EMP0215,Grace Wilson,61.0,Female,HR,Leeds,69254.0,13,4.3,High School,On Leave,2011-10-05,7.2
+EMP0216,Eve Jones,60.0,Non-binary,IT,Glasgow,,14,1.9,Master,Active,2011-10-08,
+EMP0217,Isla Davis,39.0,Non-binary,Operations,Leeds,37453.0,14,3.6,High School,Resigned,2011-10-11,16.3
+EMP0218,Frank Smith,61.0,Male,HR,Bristol,43814.0,5,2.6,PhD,On Leave,2011-10-14,17.8
+EMP0219,Frank Wilson,22.0,Male,Marketing,Birmingham,43263.0,26,3.4,Bachelor,Active,2011-10-17,17.2
+EMP0220,James Taylor,32.0,Non-binary,Finance,London,40735.0,14,1.4,Bachelor,On Leave,2011-10-20,
+EMP0221,Grace Davis,49.0,Female,Finance,Leeds,,7,,PhD,Active,2011-10-23,6.3
+EMP0222,Alice Davis,46.0,Male,Sales,Manchester,72893.0,14,4.6,Master,Active,2011-10-26,
+EMP0223,Grace Davis,44.0,Male,Finance,Leeds,69673.0,2,2.1,High School,On Leave,2011-10-29,23.1
+EMP0224,Frank Taylor,52.0,Non-binary,Operations,Manchester,70066.0,12,4.3,PhD,Active,2011-11-01,11.4
+EMP0225,Bob Smith,51.0,Female,IT,Glasgow,28373.0,33,5.0,Bachelor,Resigned,2011-11-04,21.2
+EMP0226,Henry Davis,56.0,Non-binary,Marketing,London,35335.0,23,1.8,Bachelor,Active,2011-11-07,11.3
+EMP0227,Bob Wilson,28.0,Female,Operations,Leeds,48741.0,31,2.1,PhD,Resigned,2011-11-10,
+EMP0228,Frank Jones,37.0,Female,Marketing,Leeds,35692.0,31,3.7,Bachelor,Active,2011-11-13,3.9
+EMP0229,Diana Brown,47.0,Female,Marketing,London,,29,4.9,PhD,Active,2011-11-16,
+EMP0230,Charlie Wilson,23.0,Male,IT,Leeds,70541.0,12,4.7,Bachelor,Active,2011-11-19,13.4
+EMP0231,Alice Jones,22.0,Non-binary,Sales,,59057.0,0,3.0,PhD,On Leave,2011-11-22,
+EMP0232,Frank Brown,33.0,Non-binary,Finance,Leeds,91983.0,33,4.2,High School,Active,2011-11-25,11.1
+EMP0233,James Brown,26.0,Female,IT,Birmingham,44583.0,14,1.5,High School,Active,2011-11-28,19.5
+EMP0234,Diana Davis,58.0,Male,Operations,Glasgow,47765.0,13,4.9,High School,Active,2011-12-01,17.0
+EMP0235,Frank Wilson,53.0,Male,Sales,Bristol,84287.0,28,4.9,High School,Active,2011-12-04,15.9
+EMP0236,Frank Wilson,30.0,Non-binary,Operations,Manchester,48906.0,33,1.7,Bachelor,Active,2011-12-07,22.7
+EMP0237,Eve Taylor,56.0,Male,Sales,Birmingham,71525.0,17,2.2,Master,On Leave,2011-12-10,0.5
+EMP0238,Alice Jones,40.0,Male,Operations,Glasgow,63230.0,6,1.4,,Resigned,2011-12-13,13.9
+EMP0239,Eve Davis,37.0,Female,IT,London,44520.0,28,2.1,Master,Active,2011-12-16,19.7
+EMP0240,Eve Davis,24.0,Male,Sales,Manchester,76934.0,30,4.3,Bachelor,On Leave,2011-12-19,13.5
+EMP0241,James Brown,41.0,Female,Sales,Bristol,50566.0,24,2.5,Bachelor,Active,2011-12-22,8.1
+EMP0242,Isla Davis,45.0,Non-binary,Marketing,Glasgow,55134.0,13,1.4,Master,On Leave,2011-12-25,3.4
+EMP0243,James Taylor,,Male,Marketing,Bristol,35345.0,7,2.4,Master,Active,2011-12-28,22.2
+EMP0244,Diana Taylor,45.0,Non-binary,HR,London,,26,4.9,Bachelor,Active,2011-12-31,11.8
+EMP0245,Frank Smith,32.0,Non-binary,Operations,London,,1,3.5,Bachelor,Active,2012-01-03,22.0
+EMP0246,Henry Smith,,Male,Marketing,Manchester,53018.0,16,2.7,PhD,Active,2012-01-06,14.6
+EMP0247,Alice Jones,,Male,HR,,79219.0,13,1.7,High School,Active,2012-01-09,16.9
+EMP0248,Bob Davis,59.0,Non-binary,Marketing,London,70991.0,24,4.9,High School,Active,2012-01-12,20.1
+EMP0249,Diana Brown,61.0,Male,Operations,Glasgow,34486.0,29,4.3,PhD,Resigned,2012-01-15,16.5
+EMP0250,Isla Taylor,41.0,Female,Sales,Leeds,63862.0,28,2.1,Master,Resigned,2012-01-18,10.0
+EMP0251,Frank Davis,56.0,Female,Finance,Birmingham,83870.0,19,1.3,Bachelor,On Leave,2012-01-21,12.8
+EMP0252,Bob Smith,46.0,Male,Operations,Bristol,,20,,Master,On Leave,2012-01-24,20.1
+EMP0253,Alice Jones,56.0,Non-binary,IT,Leeds,56379.0,21,,High School,Active,2012-01-27,
+EMP0254,Henry Davis,,Male,Marketing,Bristol,89729.0,34,3.3,High School,Active,2012-01-30,9.7
+EMP0255,Bob Jones,50.0,Male,Marketing,Leeds,53378.0,15,4.7,Master,Active,2012-02-02,
+EMP0256,Charlie Taylor,39.0,Non-binary,Sales,Birmingham,79353.0,16,3.0,High School,Active,2012-02-05,22.9
+EMP0257,Isla Taylor,39.0,Non-binary,IT,London,74996.0,15,4.4,Bachelor,Active,2012-02-08,2.3
+EMP0258,Alice Smith,23.0,Female,Sales,Birmingham,39031.0,1,2.8,PhD,Active,2012-02-11,16.2
+EMP0259,Eve Smith,56.0,Non-binary,IT,London,90982.0,3,3.8,Master,Resigned,2012-02-14,10.3
+EMP0260,James Taylor,37.0,Female,Finance,,61683.0,20,3.9,Bachelor,Active,2012-02-17,10.1
+EMP0261,Eve Wilson,57.0,Non-binary,Marketing,Bristol,42618.0,33,1.7,Bachelor,Active,2012-02-20,17.0
+EMP0262,Grace Taylor,54.0,Male,Marketing,,31587.0,29,,High School,On Leave,2012-02-23,1.7
+EMP0263,Frank Brown,25.0,Female,Finance,Birmingham,87790.0,5,,Bachelor,Resigned,2012-02-26,14.8
+EMP0264,Eve Smith,54.0,Female,HR,Leeds,56480.0,16,1.3,Master,Active,2012-02-29,19.3
+EMP0265,Frank Taylor,35.0,Female,Sales,Birmingham,45527.0,24,2.4,,Active,2012-03-03,
+EMP0266,James Wilson,42.0,Male,Finance,Bristol,48569.0,4,3.1,PhD,Active,2012-03-06,4.3
+EMP0267,Grace Taylor,41.0,Male,Sales,London,36151.0,4,5.0,,Active,2012-03-09,22.4
+EMP0268,Grace Smith,29.0,Male,Operations,Bristol,84174.0,19,2.9,Bachelor,Resigned,2012-03-12,16.4
+EMP0269,Henry Jones,28.0,Male,Marketing,Manchester,69739.0,15,4.3,PhD,Active,2012-03-15,
+EMP0270,Diana Brown,24.0,Male,Sales,Manchester,57954.0,8,2.7,Bachelor,Active,2012-03-18,12.1
+EMP0271,Eve Smith,38.0,Female,IT,Leeds,60303.0,4,4.2,Bachelor,On Leave,2012-03-21,13.6
+EMP0272,Frank Taylor,54.0,Male,Sales,Bristol,59700.0,1,3.4,High School,Resigned,2012-03-24,23.0
+EMP0273,Alice Taylor,33.0,Female,Operations,Leeds,92568.0,8,4.5,Master,Active,2012-03-27,22.5
+EMP0274,Henry Wilson,43.0,Male,Marketing,Leeds,91788.0,21,2.6,High School,Active,2012-03-30,11.2
+EMP0275,James Taylor,43.0,Non-binary,Finance,Manchester,62842.0,21,3.4,Master,Active,2012-04-02,6.9
+EMP0276,Grace Wilson,51.0,Female,Operations,Leeds,38900.0,21,3.5,PhD,On Leave,2012-04-05,9.8
+EMP0277,Charlie Wilson,59.0,Non-binary,Marketing,Manchester,26881.0,33,2.7,PhD,Active,2012-04-08,9.7
+EMP0278,Charlie Taylor,59.0,Female,Sales,,58037.0,28,,PhD,Resigned,2012-04-11,7.2
+EMP0279,Charlie Smith,29.0,Non-binary,HR,Bristol,26630.0,32,1.4,Master,Active,2012-04-14,6.7
+EMP0280,James Smith,48.0,Male,HR,Leeds,45789.0,17,1.1,Master,Active,2012-04-17,21.5
+EMP0281,Isla Wilson,48.0,Male,IT,Manchester,71151.0,6,4.5,Master,Resigned,2012-04-20,1.7
+EMP0282,Eve Davis,55.0,Male,Marketing,Birmingham,73920.0,0,,PhD,Resigned,2012-04-23,16.9
+EMP0283,Diana Taylor,42.0,Female,HR,Leeds,92231.0,32,1.8,Master,Active,2012-04-26,4.3
+EMP0284,Grace Davis,51.0,Non-binary,Finance,Glasgow,28262.0,0,3.9,Bachelor,Active,2012-04-29,
+EMP0285,Diana Taylor,54.0,Male,Marketing,London,91981.0,23,2.3,High School,Resigned,2012-05-02,1.5
+EMP0286,Isla Smith,49.0,Non-binary,Finance,London,79722.0,3,3.0,PhD,Active,2012-05-05,6.7
+EMP0287,Charlie Smith,54.0,Non-binary,Finance,Birmingham,75818.0,3,1.7,,Active,2012-05-08,19.2
+EMP0288,Alice Jones,26.0,Male,HR,Manchester,54932.0,17,4.8,Bachelor,Active,2012-05-11,22.1
+EMP0289,Grace Jones,40.0,Male,Marketing,Leeds,31901.0,26,4.4,Master,Active,2012-05-14,5.5
+EMP0290,Diana Smith,25.0,Non-binary,Sales,Manchester,33597.0,31,,High School,Resigned,2012-05-17,11.6
+EMP0291,Henry Davis,56.0,Male,Operations,London,88909.0,32,2.6,Bachelor,Active,2012-05-20,11.8
+EMP0292,Bob Taylor,38.0,Male,HR,Manchester,,27,4.0,Bachelor,Active,2012-05-23,21.8
+EMP0293,Frank Taylor,49.0,Male,HR,London,,5,1.6,High School,Active,2012-05-26,19.1
+EMP0294,Diana Taylor,51.0,Female,Sales,Manchester,50805.0,15,1.0,PhD,Active,2012-05-29,12.8
+EMP0295,Frank Taylor,,Non-binary,Marketing,Birmingham,36874.0,33,1.1,High School,On Leave,2012-06-01,16.8
+EMP0296,Grace Brown,27.0,Non-binary,Marketing,,39079.0,22,3.3,PhD,Active,2012-06-04,21.2
+EMP0297,Bob Smith,56.0,Female,Finance,Birmingham,74850.0,23,2.8,Master,Resigned,2012-06-07,0.2
+EMP0298,Diana Davis,,Non-binary,Sales,Birmingham,34018.0,12,3.1,PhD,Active,2012-06-10,10.1
+EMP0299,Frank Smith,45.0,Male,Sales,Bristol,74500.0,17,1.0,Master,Active,2012-06-13,22.7
+EMP0300,Alice Taylor,50.0,Non-binary,Marketing,,37100.0,12,2.7,High School,Active,2012-06-16,18.5
+EMP0301,Charlie Smith,52.0,Male,Finance,Leeds,82021.0,16,3.9,Master,Active,2012-06-19,13.6
+EMP0302,James Taylor,56.0,Female,HR,Leeds,44800.0,14,2.8,Bachelor,Active,2012-06-22,13.2
+EMP0303,Diana Brown,54.0,Male,IT,Birmingham,88400.0,17,3.9,Master,Resigned,2012-06-25,8.7
+EMP0304,Henry Taylor,42.0,Non-binary,Operations,,54437.0,22,1.9,PhD,On Leave,2012-06-28,13.0
+EMP0305,Diana Wilson,53.0,Non-binary,HR,,71675.0,29,4.3,PhD,Active,2012-07-01,16.4
+EMP0306,Charlie Davis,44.0,Non-binary,Marketing,London,44942.0,33,3.4,PhD,On Leave,2012-07-04,10.5
+EMP0307,Henry Davis,54.0,Female,Operations,Leeds,45862.0,3,1.8,Master,Active,2012-07-07,17.9
+EMP0308,Alice Brown,24.0,Female,IT,Glasgow,36669.0,2,1.9,PhD,Resigned,2012-07-10,21.5
+EMP0309,Eve Taylor,39.0,Non-binary,IT,Glasgow,78772.0,6,3.5,PhD,Active,2012-07-13,3.9
+EMP0310,Eve Smith,46.0,Male,Finance,Leeds,,17,,Bachelor,Resigned,2012-07-16,11.3
+EMP0311,Frank Taylor,52.0,Female,Operations,London,35878.0,6,,Master,On Leave,2012-07-19,10.2
+EMP0312,Bob Brown,24.0,Non-binary,Finance,London,27985.0,5,2.0,Bachelor,Active,2012-07-22,17.2
+EMP0313,James Taylor,61.0,Non-binary,HR,Glasgow,66235.0,21,4.5,PhD,On Leave,2012-07-25,6.2
+EMP0314,James Brown,45.0,Female,Sales,Manchester,43931.0,0,3.7,PhD,Active,2012-07-28,16.0
+EMP0315,Bob Smith,53.0,Female,Sales,Manchester,25336.0,3,2.8,PhD,Resigned,2012-07-31,21.9
+EMP0316,Henry Jones,43.0,Female,Sales,London,67933.0,28,3.0,Master,On Leave,2012-08-03,10.5
+EMP0317,Grace Taylor,44.0,Male,Operations,Manchester,70536.0,20,1.8,High School,On Leave,2012-08-06,
+EMP0318,Eve Smith,23.0,Male,Sales,,94504.0,25,3.5,PhD,Active,2012-08-09,24.8
+EMP0319,Bob Wilson,48.0,Non-binary,HR,Leeds,76148.0,13,2.4,PhD,Active,2012-08-12,2.7
+EMP0320,Diana Taylor,23.0,Female,Finance,Leeds,41279.0,8,5.0,PhD,On Leave,2012-08-15,5.8
+EMP0321,Frank Taylor,47.0,Male,Operations,London,93665.0,11,2.9,PhD,Active,2012-08-18,23.8
+EMP0322,Eve Brown,38.0,Female,Finance,,91670.0,5,2.9,Master,Active,2012-08-21,24.0
+EMP0323,James Wilson,61.0,Non-binary,Operations,Glasgow,79028.0,19,3.3,High School,Active,2012-08-24,2.4
+EMP0324,Charlie Brown,54.0,Male,Finance,London,43108.0,23,4.7,High School,Resigned,2012-08-27,
+EMP0325,Grace Smith,30.0,Male,IT,Manchester,77495.0,26,4.2,High School,Active,2012-08-30,4.0
+EMP0326,Bob Wilson,60.0,Male,Finance,Glasgow,81830.0,7,,PhD,Active,2012-09-02,
+EMP0327,Eve Brown,50.0,Non-binary,Sales,Birmingham,,0,,PhD,Resigned,2012-09-05,4.5
+EMP0328,Bob Taylor,47.0,Female,IT,Manchester,91406.0,23,3.3,High School,Active,2012-09-08,12.6
+EMP0329,Charlie Taylor,56.0,Male,Finance,Bristol,64519.0,6,3.0,High School,Active,2012-09-11,21.2
+EMP0330,Grace Brown,46.0,Non-binary,Operations,Manchester,74649.0,18,1.8,PhD,Active,2012-09-14,0.5
+EMP0331,Isla Smith,45.0,Female,Operations,Bristol,59524.0,21,2.9,PhD,Active,2012-09-17,15.1
+EMP0332,Alice Smith,34.0,Non-binary,Operations,Glasgow,58885.0,34,2.0,Bachelor,Active,2012-09-20,6.9
+EMP0333,Eve Davis,28.0,Female,Marketing,Bristol,69369.0,29,4.7,Bachelor,Resigned,2012-09-23,21.6
+EMP0334,Diana Smith,57.0,Non-binary,HR,Glasgow,55676.0,28,2.3,Bachelor,Active,2012-09-26,7.1
+EMP0335,Henry Taylor,41.0,Female,Operations,Glasgow,,21,4.8,High School,Active,2012-09-29,
+EMP0336,Eve Brown,22.0,Male,IT,Glasgow,72764.0,10,3.1,Master,Active,2012-10-02,16.9
+EMP0337,Diana Jones,29.0,Female,Operations,Glasgow,,19,3.5,PhD,Active,2012-10-05,5.5
+EMP0338,Diana Smith,37.0,Non-binary,Marketing,Glasgow,56923.0,28,3.2,Bachelor,Active,2012-10-08,0.9
+EMP0339,Charlie Wilson,35.0,Non-binary,Sales,Manchester,72574.0,33,1.5,Master,Resigned,2012-10-11,10.2
+EMP0340,Bob Wilson,33.0,Female,IT,Glasgow,68391.0,0,2.5,PhD,Resigned,2012-10-14,7.2
+EMP0341,Henry Smith,,Male,Marketing,Manchester,78664.0,30,1.4,Master,Active,2012-10-17,20.2
+EMP0342,James Smith,36.0,Male,Sales,Glasgow,92384.0,29,3.5,High School,Active,2012-10-20,20.0
+EMP0343,Eve Taylor,49.0,Female,IT,Bristol,56027.0,17,2.8,High School,On Leave,2012-10-23,11.4
+EMP0344,Alice Smith,55.0,Female,Finance,Glasgow,60464.0,16,4.1,High School,Active,2012-10-26,15.2
+EMP0345,Grace Taylor,23.0,Non-binary,HR,Birmingham,59485.0,13,1.9,Bachelor,Active,2012-10-29,15.1
+EMP0346,Bob Davis,53.0,Male,HR,Glasgow,44456.0,22,1.7,PhD,Active,2012-11-01,20.7
+EMP0347,James Wilson,44.0,Female,Marketing,Glasgow,60554.0,24,,High School,On Leave,2012-11-04,10.6
+EMP0348,Bob Wilson,43.0,Male,Sales,Bristol,71922.0,14,4.7,Bachelor,On Leave,2012-11-07,6.9
+EMP0349,Isla Jones,46.0,Female,HR,Leeds,38409.0,21,3.8,Bachelor,Active,2012-11-10,6.6
+EMP0350,Frank Davis,43.0,Female,Sales,Bristol,94327.0,2,2.7,Bachelor,Resigned,2012-11-13,
+EMP0351,Diana Smith,43.0,Male,Sales,Birmingham,61639.0,18,3.1,Bachelor,Active,2012-11-16,11.2
+EMP0352,Alice Brown,27.0,Female,Marketing,Leeds,,33,,High School,Active,2012-11-19,11.0
+EMP0353,Eve Davis,36.0,Female,Marketing,London,44692.0,34,4.9,Bachelor,Active,2012-11-22,2.3
+EMP0354,Isla Taylor,58.0,Non-binary,Marketing,London,79200.0,0,3.7,High School,On Leave,2012-11-25,18.0
+EMP0355,James Davis,54.0,Female,HR,Birmingham,82415.0,20,2.1,High School,Resigned,2012-11-28,5.3
+EMP0356,Diana Jones,29.0,Female,Marketing,Bristol,,28,3.3,Bachelor,Active,2012-12-01,4.9
+EMP0357,Alice Jones,26.0,Female,HR,Manchester,40549.0,5,1.4,High School,Resigned,2012-12-04,10.3
+EMP0358,Eve Jones,,Non-binary,Marketing,Birmingham,54963.0,0,4.9,PhD,On Leave,2012-12-07,5.7
+EMP0359,Alice Smith,25.0,Male,Operations,Leeds,77265.0,0,1.7,PhD,Active,2012-12-10,14.6
+EMP0360,Grace Smith,27.0,Non-binary,Sales,Leeds,41061.0,26,3.6,Master,Active,2012-12-13,9.3
+EMP0361,Alice Davis,53.0,Non-binary,Marketing,Glasgow,83226.0,20,2.0,PhD,Resigned,2012-12-16,11.2
+EMP0362,James Smith,,Male,IT,,53810.0,15,3.9,High School,On Leave,2012-12-19,13.4
+EMP0363,Charlie Wilson,56.0,Non-binary,Sales,Leeds,85006.0,25,4.1,High School,Active,2012-12-22,5.1
+EMP0364,Charlie Smith,61.0,Male,Sales,Birmingham,47800.0,15,3.7,PhD,Active,2012-12-25,
+EMP0365,Diana Taylor,37.0,Non-binary,Marketing,Leeds,94460.0,27,3.5,Bachelor,Active,2012-12-28,22.0
+EMP0366,Frank Smith,34.0,Male,Finance,Birmingham,82767.0,0,4.6,Bachelor,On Leave,2012-12-31,10.8
+EMP0367,Grace Wilson,51.0,Female,Marketing,Manchester,53054.0,9,1.3,High School,Active,2013-01-03,10.3
+EMP0368,Diana Davis,40.0,Non-binary,Sales,Glasgow,70397.0,16,2.3,Bachelor,Active,2013-01-06,0.9
+EMP0369,Diana Jones,38.0,Non-binary,IT,London,38233.0,22,2.0,Master,Active,2013-01-09,12.4
+EMP0370,Alice Taylor,40.0,Non-binary,Sales,Leeds,,6,5.0,Master,Active,2013-01-12,13.9
+EMP0371,Bob Brown,,Non-binary,IT,Birmingham,90727.0,6,2.6,PhD,Active,2013-01-15,
+EMP0372,Diana Wilson,47.0,Female,HR,Bristol,,14,,PhD,Active,2013-01-18,17.7
+EMP0373,Alice Smith,58.0,Non-binary,Operations,London,38682.0,33,3.7,Bachelor,Active,2013-01-21,4.4
+EMP0374,James Wilson,47.0,Female,Sales,Manchester,48383.0,3,1.8,High School,On Leave,2013-01-24,6.3
+EMP0375,Diana Brown,44.0,Female,Marketing,Birmingham,83160.0,13,2.0,PhD,On Leave,2013-01-27,20.3
+EMP0376,Eve Jones,30.0,Female,HR,Glasgow,48666.0,13,2.1,Master,Active,2013-01-30,23.7
+EMP0377,Diana Davis,33.0,Female,Operations,Glasgow,83817.0,15,,PhD,Resigned,2013-02-02,
+EMP0378,Bob Taylor,22.0,Male,Marketing,Manchester,59642.0,6,1.9,PhD,Resigned,2013-02-05,12.4
+EMP0379,Bob Wilson,22.0,Male,Finance,Manchester,,31,1.1,Master,Active,2013-02-08,5.4
+EMP0380,Charlie Wilson,55.0,Non-binary,Marketing,Glasgow,35234.0,18,4.5,High School,Resigned,2013-02-11,1.5
+EMP0381,Diana Taylor,53.0,Male,IT,,82616.0,1,4.9,,Active,2013-02-14,8.1
+EMP0382,Henry Taylor,,Male,IT,Leeds,34221.0,9,2.4,PhD,Active,2013-02-17,3.6
+EMP0383,Eve Wilson,61.0,Non-binary,Finance,Birmingham,36410.0,16,2.4,PhD,Active,2013-02-20,
+EMP0384,Frank Wilson,22.0,Non-binary,HR,Bristol,86413.0,11,1.0,Bachelor,Active,2013-02-23,
+EMP0385,Alice Smith,37.0,Non-binary,Operations,Birmingham,26051.0,5,3.7,PhD,Active,2013-02-26,3.6
+EMP0386,Isla Smith,60.0,Male,Marketing,Bristol,81563.0,21,4.3,Master,Active,2013-03-01,
+EMP0387,Diana Taylor,26.0,Male,IT,,69757.0,31,1.6,,Active,2013-03-04,20.2
+EMP0388,Diana Taylor,43.0,Non-binary,HR,London,76257.0,19,1.6,High School,Active,2013-03-07,4.4
+EMP0389,Frank Smith,50.0,Female,Finance,Birmingham,25307.0,0,4.2,Master,Resigned,2013-03-10,15.2
+EMP0390,Diana Smith,,Non-binary,Sales,Birmingham,81889.0,5,3.5,Bachelor,Active,2013-03-13,8.4
+EMP0391,Eve Taylor,33.0,Female,IT,Bristol,93895.0,18,1.2,Master,Active,2013-03-16,14.6
+EMP0392,Alice Jones,47.0,Female,Finance,Manchester,60944.0,17,3.5,High School,Active,2013-03-19,7.9
+EMP0393,Henry Brown,37.0,Non-binary,Marketing,Manchester,63134.0,5,2.2,Master,Active,2013-03-22,2.2
+EMP0394,Grace Taylor,58.0,Non-binary,Operations,Bristol,52323.0,32,2.5,Bachelor,Active,2013-03-25,5.6
+EMP0395,Bob Davis,43.0,Non-binary,IT,Manchester,50954.0,22,,High School,Resigned,2013-03-28,4.7
+EMP0396,Eve Wilson,50.0,Male,IT,Glasgow,80021.0,22,4.2,Bachelor,Active,2013-03-31,
+EMP0397,Grace Jones,35.0,Female,Marketing,Leeds,29992.0,25,2.6,Master,On Leave,2013-04-03,16.5
+EMP0398,Bob Davis,49.0,Male,Sales,Glasgow,,12,4.8,PhD,On Leave,2013-04-06,6.6
+EMP0399,Isla Jones,26.0,Male,HR,London,37497.0,6,2.6,Master,Active,2013-04-09,0.3
+EMP0400,Diana Wilson,51.0,Non-binary,Operations,Birmingham,57551.0,14,4.1,Bachelor,Active,2013-04-12,13.0
+EMP0401,Alice Smith,26.0,Male,IT,London,80755.0,26,2.9,Master,Active,2013-04-15,15.1
+EMP0402,Isla Davis,33.0,Non-binary,Operations,Birmingham,38255.0,25,4.6,PhD,Active,2013-04-18,24.1
+EMP0403,Frank Jones,37.0,Female,IT,Leeds,29567.0,32,4.6,Bachelor,Resigned,2013-04-21,14.7
+EMP0404,Henry Smith,47.0,Non-binary,Operations,Manchester,73847.0,14,1.3,Master,On Leave,2013-04-24,
+EMP0405,Alice Smith,,Male,Finance,Glasgow,73003.0,26,4.7,Bachelor,Active,2013-04-27,
+EMP0406,Frank Brown,,Male,IT,Bristol,45389.0,4,4.3,Bachelor,On Leave,2013-04-30,23.2
+EMP0407,Alice Davis,60.0,Non-binary,Operations,Glasgow,69523.0,1,4.2,,On Leave,2013-05-03,20.7
+EMP0408,Alice Taylor,57.0,Non-binary,HR,Leeds,86576.0,32,1.8,High School,Active,2013-05-06,8.1
+EMP0409,Eve Jones,54.0,Male,Finance,,68919.0,15,4.2,Bachelor,Active,2013-05-09,5.9
+EMP0410,Frank Brown,51.0,Female,Finance,Bristol,28358.0,22,4.4,Master,Active,2013-05-12,6.6
+EMP0411,Alice Brown,58.0,Female,HR,Manchester,30698.0,15,2.2,Master,Active,2013-05-15,12.6
+EMP0412,Alice Wilson,44.0,Non-binary,Operations,Leeds,91809.0,13,4.8,Master,Active,2013-05-18,18.6
+EMP0413,Bob Brown,,Female,Marketing,Bristol,80805.0,28,1.2,PhD,Resigned,2013-05-21,12.6
+EMP0414,Eve Smith,26.0,Male,HR,Leeds,56349.0,25,1.6,Bachelor,Resigned,2013-05-24,1.7
+EMP0415,Bob Wilson,,Non-binary,Operations,Leeds,75248.0,34,3.2,,Active,2013-05-27,18.1
+EMP0416,Alice Jones,55.0,Male,HR,Manchester,69041.0,14,3.3,PhD,Resigned,2013-05-30,20.1
+EMP0417,Isla Brown,52.0,Male,HR,Birmingham,56954.0,2,3.6,,Resigned,2013-06-02,7.2
+EMP0418,Charlie Taylor,31.0,Female,IT,Bristol,,22,1.1,Bachelor,Active,2013-06-05,16.6
+EMP0419,Bob Wilson,40.0,Non-binary,Operations,Manchester,94783.0,28,4.8,PhD,On Leave,2013-06-08,10.7
+EMP0420,Isla Smith,53.0,Non-binary,Marketing,,44738.0,33,1.2,High School,Resigned,2013-06-11,22.2
+EMP0421,Charlie Taylor,22.0,Female,IT,Manchester,35703.0,32,1.6,Bachelor,Resigned,2013-06-14,21.1
+EMP0422,Diana Brown,26.0,Male,HR,Birmingham,74422.0,22,1.1,PhD,Active,2013-06-17,13.1
+EMP0423,Alice Wilson,25.0,Male,Sales,Glasgow,86899.0,6,3.3,Master,Active,2013-06-20,17.3
+EMP0424,Diana Taylor,,Male,HR,Bristol,37392.0,2,,High School,Active,2013-06-23,22.1
+EMP0425,Frank Brown,45.0,Male,HR,Birmingham,69724.0,31,3.7,Master,Active,2013-06-26,12.4
+EMP0426,Frank Jones,37.0,Non-binary,Operations,London,57299.0,30,4.3,Bachelor,On Leave,2013-06-29,7.8
+EMP0427,Eve Davis,23.0,Non-binary,Operations,Bristol,40641.0,17,1.1,High School,Active,2013-07-02,18.8
+EMP0428,Grace Davis,49.0,Female,IT,Birmingham,31305.0,6,3.2,PhD,Active,2013-07-05,5.5
+EMP0429,Alice Brown,53.0,Female,Marketing,Leeds,43782.0,0,2.8,Bachelor,Resigned,2013-07-08,9.7
+EMP0430,Frank Davis,48.0,Non-binary,IT,Bristol,,13,3.0,PhD,Resigned,2013-07-11,
+EMP0431,Grace Wilson,41.0,Non-binary,Finance,Bristol,92766.0,31,1.3,High School,Active,2013-07-14,18.1
+EMP0432,Grace Smith,45.0,Male,HR,Manchester,31511.0,5,3.7,Master,Resigned,2013-07-17,10.1
+EMP0433,Diana Wilson,33.0,Male,Sales,Leeds,51177.0,9,3.0,Bachelor,Active,2013-07-20,5.4
+EMP0434,Isla Brown,56.0,Female,HR,London,29765.0,6,4.1,Bachelor,Active,2013-07-23,8.9
+EMP0435,Charlie Davis,54.0,Non-binary,HR,Glasgow,45354.0,25,2.9,PhD,Resigned,2013-07-26,7.1
+EMP0436,Grace Jones,54.0,Female,IT,Birmingham,48929.0,33,1.6,High School,Resigned,2013-07-29,
+EMP0437,Frank Wilson,58.0,Non-binary,Sales,Manchester,53820.0,29,3.6,PhD,Active,2013-08-01,18.6
+EMP0438,Isla Taylor,33.0,Male,Sales,Birmingham,54523.0,20,1.7,High School,On Leave,2013-08-04,6.3
+EMP0439,Diana Wilson,,Female,Sales,London,91163.0,16,4.5,Bachelor,Active,2013-08-07,
+EMP0440,James Wilson,22.0,Female,IT,London,38780.0,32,3.5,High School,Active,2013-08-10,9.6
+EMP0441,Alice Wilson,54.0,Non-binary,HR,Bristol,31589.0,9,1.6,,Active,2013-08-13,
+EMP0442,James Brown,61.0,Male,IT,London,59812.0,11,4.8,,Active,2013-08-16,9.8
+EMP0443,Charlie Brown,31.0,Female,Operations,Birmingham,70939.0,15,3.1,Master,Active,2013-08-19,2.0
+EMP0444,Grace Davis,50.0,Male,Operations,Leeds,76493.0,31,1.3,High School,Active,2013-08-22,2.2
+EMP0445,Henry Taylor,34.0,Female,IT,Leeds,65953.0,14,3.5,Master,Active,2013-08-25,14.8
+EMP0446,Frank Jones,33.0,Male,Sales,Bristol,90785.0,26,2.0,High School,Resigned,2013-08-28,15.0
+EMP0447,Bob Taylor,,Non-binary,HR,Glasgow,44309.0,27,4.2,High School,Active,2013-08-31,10.5
+EMP0448,Bob Brown,,Female,IT,,79195.0,16,4.3,PhD,Active,2013-09-03,10.8
+EMP0449,Bob Smith,56.0,Female,IT,Birmingham,50901.0,1,4.9,PhD,Resigned,2013-09-06,1.3
+EMP0450,Diana Davis,44.0,Male,IT,London,,6,3.0,Bachelor,Active,2013-09-09,12.9
+EMP0451,Eve Jones,38.0,Male,Finance,Birmingham,56508.0,12,2.8,PhD,Resigned,2013-09-12,12.6
+EMP0452,James Jones,47.0,Female,Operations,Manchester,50464.0,14,4.0,High School,Active,2013-09-15,3.7
+EMP0453,Alice Jones,29.0,Non-binary,Sales,Glasgow,85281.0,24,1.5,PhD,Active,2013-09-18,2.6
+EMP0454,Eve Davis,50.0,Male,Marketing,London,41260.0,22,,High School,Active,2013-09-21,3.1
+EMP0455,Eve Brown,47.0,Male,Sales,Manchester,60440.0,21,3.2,Master,Active,2013-09-24,2.5
+EMP0456,Bob Davis,31.0,Male,Marketing,Bristol,,25,1.4,High School,On Leave,2013-09-27,15.2
+EMP0457,Isla Wilson,47.0,Female,Finance,Leeds,66430.0,32,2.7,Bachelor,Active,2013-09-30,4.9
+EMP0458,Isla Smith,55.0,Female,IT,Bristol,26987.0,10,4.4,Master,Resigned,2013-10-03,6.3
+EMP0459,Isla Wilson,28.0,Female,Finance,Leeds,50105.0,9,4.4,Bachelor,On Leave,2013-10-06,4.3
+EMP0460,Eve Jones,25.0,Female,Finance,Bristol,38026.0,24,1.4,Bachelor,On Leave,2013-10-09,23.9
+EMP0461,Diana Jones,32.0,Non-binary,HR,Birmingham,93309.0,23,1.4,Bachelor,Active,2013-10-12,21.4
+EMP0462,Charlie Davis,50.0,Non-binary,Operations,Manchester,70927.0,32,2.1,PhD,Active,2013-10-15,5.8
+EMP0463,Frank Taylor,57.0,Female,Marketing,Leeds,82535.0,16,4.5,Bachelor,Active,2013-10-18,8.2
+EMP0464,Diana Smith,46.0,Non-binary,IT,London,67946.0,23,1.5,Master,Resigned,2013-10-21,5.2
+EMP0465,Charlie Wilson,42.0,Male,Marketing,Manchester,81561.0,1,3.9,,On Leave,2013-10-24,
+EMP0466,Henry Wilson,57.0,Male,Sales,,35377.0,31,1.4,Bachelor,Active,2013-10-27,0.5
+EMP0467,Alice Brown,31.0,Male,Marketing,Manchester,78592.0,23,3.5,Master,Resigned,2013-10-30,16.8
+EMP0468,Isla Wilson,58.0,Female,Sales,Manchester,32347.0,8,2.4,,Active,2013-11-02,13.1
+EMP0469,Grace Wilson,30.0,Male,Operations,Bristol,58776.0,3,,High School,Active,2013-11-05,22.5
+EMP0470,Isla Jones,45.0,Non-binary,Sales,Leeds,28783.0,16,1.9,Master,On Leave,2013-11-08,4.1
+EMP0471,Frank Smith,56.0,Female,Marketing,Leeds,80798.0,16,3.6,Master,Resigned,2013-11-11,20.1
+EMP0472,Alice Wilson,56.0,Non-binary,Marketing,Manchester,,29,1.9,High School,Active,2013-11-14,19.8
+EMP0473,Henry Davis,57.0,Male,Sales,Birmingham,80161.0,10,3.9,Master,Resigned,2013-11-17,3.2
+EMP0474,Alice Brown,39.0,Male,Finance,Birmingham,85652.0,20,4.5,High School,Resigned,2013-11-20,10.0
+EMP0475,Henry Wilson,60.0,Male,Operations,London,59484.0,20,1.5,,Active,2013-11-23,4.3
+EMP0476,Henry Taylor,,Female,HR,London,45922.0,17,,Master,Active,2013-11-26,6.4
+EMP0477,Charlie Brown,45.0,Non-binary,IT,,59028.0,28,3.4,High School,Resigned,2013-11-29,
+EMP0478,Eve Wilson,44.0,Female,Marketing,Manchester,45316.0,23,1.5,High School,Active,2013-12-02,13.9
+EMP0479,Grace Wilson,,Female,IT,London,41968.0,9,2.7,Master,On Leave,2013-12-05,10.3
+EMP0480,Grace Wilson,58.0,Male,HR,London,55266.0,16,1.6,Master,On Leave,2013-12-08,23.7
+EMP0481,Frank Smith,33.0,Female,IT,Glasgow,49000.0,17,3.8,High School,Active,2013-12-11,3.2
+EMP0482,Alice Wilson,34.0,Female,HR,Manchester,39011.0,19,,PhD,Active,2013-12-14,24.3
+EMP0483,Diana Smith,44.0,Male,Sales,Bristol,27866.0,17,1.4,,On Leave,2013-12-17,5.8
+EMP0484,James Wilson,46.0,Female,Finance,London,30898.0,16,3.0,Master,Resigned,2013-12-20,19.3
+EMP0485,Grace Wilson,56.0,Male,Marketing,Bristol,,8,4.3,Master,Resigned,2013-12-23,8.5
+EMP0486,James Brown,51.0,Male,HR,Leeds,64019.0,13,4.7,Master,Active,2013-12-26,3.6
+EMP0487,James Jones,38.0,Male,IT,Bristol,29006.0,28,3.1,High School,Active,2013-12-29,21.4
+EMP0488,Grace Smith,41.0,Male,Marketing,Birmingham,59393.0,30,4.8,Master,Active,2014-01-01,7.7
+EMP0489,Alice Smith,46.0,Female,Finance,Birmingham,35956.0,3,3.1,PhD,On Leave,2014-01-04,16.5
+EMP0490,James Taylor,43.0,Male,Sales,Bristol,75042.0,17,2.6,Bachelor,Resigned,2014-01-07,14.2
+EMP0491,Bob Jones,34.0,Male,Marketing,,31078.0,19,4.4,PhD,On Leave,2014-01-10,11.8
+EMP0492,Isla Davis,40.0,Female,HR,Leeds,54631.0,8,3.0,High School,Active,2014-01-13,12.4
+EMP0493,Alice Taylor,57.0,Female,Finance,Manchester,87901.0,12,2.9,Master,On Leave,2014-01-16,18.3
+EMP0494,Charlie Brown,,Non-binary,IT,,94497.0,14,3.0,High School,Active,2014-01-19,2.2
+EMP0495,Grace Smith,40.0,Female,Finance,Birmingham,66574.0,26,4.4,Bachelor,Active,2014-01-22,16.7
+EMP0496,Charlie Brown,33.0,Female,Finance,Bristol,56417.0,14,4.3,High School,Active,2014-01-25,22.4
+EMP0497,Bob Wilson,30.0,Non-binary,Operations,Leeds,90006.0,27,2.6,Master,Active,2014-01-28,1.4
+EMP0498,Eve Davis,28.0,Female,Finance,Manchester,64454.0,18,2.3,Bachelor,On Leave,2014-01-31,3.5
+EMP0499,James Wilson,49.0,Female,Finance,Bristol,26587.0,25,3.0,Bachelor,On Leave,2014-02-03,17.9
+EMP0500,Eve Smith,35.0,Female,Marketing,Bristol,79710.0,25,3.3,Master,Active,2014-02-06,10.9
+EMP0501,Bob Brown,52.0,Female,IT,Glasgow,43816.0,24,2.0,Master,Active,2014-02-09,
+EMP0502,Henry Taylor,40.0,Non-binary,Marketing,Leeds,54432.0,25,4.2,Master,Active,2014-02-12,3.4
+EMP0503,Diana Taylor,37.0,Female,Marketing,Manchester,73617.0,25,2.9,High School,Active,2014-02-15,12.7
+EMP0504,Bob Brown,26.0,Female,HR,,59217.0,27,2.3,PhD,Active,2014-02-18,3.2
+EMP0505,Bob Smith,56.0,Non-binary,Marketing,Manchester,45884.0,17,1.4,High School,Active,2014-02-21,11.9
+EMP0506,James Jones,33.0,Male,Operations,Leeds,30454.0,31,2.0,High School,Active,2014-02-24,
+EMP0507,Alice Davis,46.0,Non-binary,Operations,Bristol,68618.0,2,4.8,PhD,Active,2014-02-27,
+EMP0508,Isla Davis,42.0,Male,HR,Bristol,87671.0,1,2.2,Master,Active,2014-03-02,12.0
+EMP0509,Isla Smith,57.0,Non-binary,Sales,London,72111.0,32,1.7,Master,On Leave,2014-03-05,
+EMP0510,Diana Brown,44.0,Non-binary,IT,,64613.0,18,2.8,,Active,2014-03-08,17.2
+EMP0511,Eve Smith,37.0,Female,IT,Glasgow,84993.0,16,,PhD,Active,2014-03-11,21.0
+EMP0512,Grace Brown,,Male,Marketing,Leeds,33848.0,32,,High School,Active,2014-03-14,10.4
+EMP0513,Diana Taylor,60.0,Female,Marketing,Glasgow,91125.0,11,2.3,Bachelor,On Leave,2014-03-17,
+EMP0514,Eve Wilson,35.0,Male,Sales,London,,2,3.2,PhD,On Leave,2014-03-20,1.0
+EMP0515,Grace Wilson,52.0,Non-binary,Marketing,Birmingham,67222.0,25,3.2,High School,Active,2014-03-23,3.1
+EMP0516,Isla Davis,26.0,Non-binary,IT,Leeds,74223.0,34,2.4,Bachelor,Active,2014-03-26,
+EMP0517,Isla Brown,56.0,Male,Finance,Manchester,90333.0,7,2.8,Master,Resigned,2014-03-29,10.0
+EMP0518,Isla Wilson,44.0,Female,Operations,Birmingham,77732.0,6,4.9,Master,Active,2014-04-01,21.1
+EMP0519,Isla Brown,50.0,Female,Finance,Bristol,,15,2.5,High School,Active,2014-04-04,8.7
+EMP0520,Charlie Davis,32.0,Female,Finance,London,27462.0,23,2.0,High School,Active,2014-04-07,16.4
+EMP0521,Henry Smith,,Female,IT,Birmingham,34460.0,0,2.0,PhD,Active,2014-04-10,17.7
+EMP0522,Grace Jones,,Non-binary,Finance,Birmingham,34275.0,24,2.8,Master,On Leave,2014-04-13,14.7
+EMP0523,Alice Taylor,30.0,Non-binary,Sales,Bristol,38269.0,9,4.0,High School,Resigned,2014-04-16,8.9
+EMP0524,Alice Davis,31.0,Non-binary,HR,,90942.0,15,1.8,,Active,2014-04-19,14.4
+EMP0525,Frank Davis,38.0,Non-binary,Marketing,,47553.0,15,3.8,Master,Active,2014-04-22,8.6
+EMP0526,Henry Wilson,59.0,Non-binary,HR,Bristol,,7,1.1,PhD,Active,2014-04-25,2.1
+EMP0527,Henry Wilson,,Female,Operations,Manchester,69036.0,28,2.7,,Active,2014-04-28,24.8
+EMP0528,Grace Jones,34.0,Female,Marketing,Leeds,42369.0,27,4.1,PhD,Active,2014-05-01,3.2
+EMP0529,James Brown,,Female,Finance,Birmingham,36795.0,5,2.4,High School,Active,2014-05-04,1.8
+EMP0530,Diana Taylor,30.0,Female,Operations,Manchester,93154.0,15,3.3,PhD,On Leave,2014-05-07,22.0
+EMP0531,Charlie Taylor,48.0,Non-binary,Marketing,London,55143.0,19,1.8,PhD,Resigned,2014-05-10,7.5
+EMP0532,Frank Jones,23.0,Non-binary,Sales,London,54425.0,15,4.0,Master,On Leave,2014-05-13,16.3
+EMP0533,Diana Taylor,26.0,Non-binary,Sales,,30368.0,6,1.2,PhD,Resigned,2014-05-16,8.2
+EMP0534,Diana Smith,50.0,Male,Sales,Leeds,29621.0,13,4.4,High School,Active,2014-05-19,9.8
+EMP0535,Grace Taylor,58.0,Female,Sales,Bristol,83829.0,25,1.8,Bachelor,Resigned,2014-05-22,6.6
+EMP0536,Isla Davis,,Female,Finance,Bristol,85294.0,25,4.5,PhD,Active,2014-05-25,8.6
+EMP0537,Eve Wilson,40.0,Non-binary,HR,Glasgow,39719.0,13,,PhD,Active,2014-05-28,10.3
+EMP0538,Frank Smith,29.0,Female,Marketing,Bristol,54227.0,6,3.9,Bachelor,On Leave,2014-05-31,18.0
+EMP0539,Frank Jones,22.0,Female,Finance,Glasgow,32566.0,32,2.3,High School,On Leave,2014-06-03,12.8
+EMP0540,Eve Jones,43.0,Non-binary,Sales,London,37306.0,25,4.6,High School,Active,2014-06-06,23.6
+EMP0541,Alice Brown,38.0,Male,HR,London,78822.0,19,1.5,PhD,Active,2014-06-09,1.0
+EMP0542,Frank Davis,28.0,Male,Operations,Bristol,49042.0,2,1.7,Master,Active,2014-06-12,12.6
+EMP0543,Alice Brown,46.0,Male,Operations,London,40086.0,3,3.0,PhD,Active,2014-06-15,14.6
+EMP0544,Frank Taylor,25.0,Non-binary,Operations,Leeds,42387.0,25,1.3,Bachelor,Resigned,2014-06-18,23.0
+EMP0545,Alice Taylor,57.0,Female,Sales,Glasgow,52042.0,10,1.8,Bachelor,Active,2014-06-21,1.2
+EMP0546,Isla Wilson,27.0,Non-binary,Operations,Glasgow,76618.0,1,4.8,Bachelor,Active,2014-06-24,14.3
+EMP0547,Eve Jones,52.0,Non-binary,IT,Bristol,43323.0,13,4.9,PhD,Active,2014-06-27,21.3
+EMP0548,Isla Davis,40.0,Female,Marketing,London,43019.0,29,2.5,PhD,Active,2014-06-30,
+EMP0549,Grace Jones,60.0,Male,Marketing,Manchester,65863.0,11,4.7,High School,Resigned,2014-07-03,21.9
+EMP0550,Grace Brown,48.0,Male,Sales,Glasgow,35283.0,25,3.2,Master,Resigned,2014-07-06,0.5
+EMP0551,Isla Davis,31.0,Non-binary,IT,Bristol,43279.0,32,,PhD,Active,2014-07-09,18.3
+EMP0552,Charlie Jones,47.0,Male,Finance,Bristol,71999.0,12,3.8,High School,Active,2014-07-12,23.3
+EMP0553,Henry Wilson,,Non-binary,Finance,Leeds,87780.0,13,3.6,PhD,Active,2014-07-15,16.4
+EMP0554,Henry Brown,60.0,Non-binary,Operations,Birmingham,47908.0,23,5.0,High School,Active,2014-07-18,11.0
+EMP0555,Isla Wilson,24.0,Female,HR,Birmingham,86584.0,33,2.1,High School,On Leave,2014-07-21,1.1
+EMP0556,Grace Brown,34.0,Female,Finance,Glasgow,75225.0,25,3.7,Master,Resigned,2014-07-24,23.0
+EMP0557,Diana Brown,49.0,Female,HR,Leeds,62952.0,20,1.2,PhD,Resigned,2014-07-27,11.8
+EMP0558,James Taylor,41.0,Non-binary,Marketing,,62663.0,27,,High School,Active,2014-07-30,0.7
+EMP0559,Grace Brown,49.0,Female,HR,Leeds,86381.0,1,1.0,Bachelor,Active,2014-08-02,17.2
+EMP0560,Frank Taylor,29.0,Male,Marketing,Glasgow,72929.0,8,5.0,Bachelor,Resigned,2014-08-05,12.0
+EMP0561,Eve Brown,60.0,Male,IT,Birmingham,34343.0,22,4.2,Bachelor,Active,2014-08-08,3.1
+EMP0562,Alice Jones,22.0,Non-binary,IT,Leeds,,14,4.1,Master,Active,2014-08-11,5.4
+EMP0563,Frank Smith,24.0,Non-binary,Sales,London,54134.0,12,3.0,High School,Active,2014-08-14,1.6
+EMP0564,Frank Brown,34.0,Female,Sales,Bristol,72101.0,22,2.2,Master,Active,2014-08-17,14.4
+EMP0565,Grace Smith,49.0,Non-binary,Operations,,94443.0,16,1.6,PhD,Active,2014-08-20,
+EMP0566,Alice Wilson,46.0,Non-binary,Finance,Manchester,82530.0,1,2.1,PhD,Active,2014-08-23,12.6
+EMP0567,Charlie Wilson,,Male,Operations,Manchester,71799.0,19,2.5,High School,On Leave,2014-08-26,20.4
+EMP0568,Charlie Wilson,59.0,Male,Marketing,Glasgow,29827.0,19,4.0,Bachelor,Active,2014-08-29,21.5
+EMP0569,Isla Smith,27.0,Female,Operations,Glasgow,87653.0,2,3.2,High School,Active,2014-09-01,15.4
+EMP0570,Diana Davis,53.0,Non-binary,HR,Bristol,38699.0,11,1.3,High School,Active,2014-09-04,
+EMP0571,Bob Smith,42.0,Non-binary,Marketing,London,30313.0,1,1.1,,Active,2014-09-07,17.4
+EMP0572,Grace Jones,37.0,Male,Sales,Birmingham,38598.0,13,1.4,Master,Active,2014-09-10,
+EMP0573,James Wilson,42.0,Non-binary,IT,Birmingham,53807.0,15,2.6,PhD,Active,2014-09-13,14.1
+EMP0574,Isla Taylor,32.0,Male,Sales,Glasgow,94390.0,18,4.7,High School,On Leave,2014-09-16,16.2
+EMP0575,Alice Jones,58.0,Female,Finance,London,70226.0,33,3.5,High School,Active,2014-09-19,
+EMP0576,Isla Jones,57.0,Male,Marketing,Glasgow,84550.0,5,4.2,High School,Resigned,2014-09-22,22.9
+EMP0577,Bob Brown,56.0,Non-binary,Marketing,,28558.0,12,2.9,Master,Resigned,2014-09-25,3.3
+EMP0578,Isla Brown,40.0,Female,HR,Glasgow,75113.0,21,2.4,Master,On Leave,2014-09-28,16.8
+EMP0579,Alice Smith,41.0,Male,Finance,Leeds,77999.0,17,1.4,Master,Active,2014-10-01,0.1
+EMP0580,Charlie Jones,39.0,Male,IT,Glasgow,80878.0,11,4.5,High School,Active,2014-10-04,23.1
+EMP0581,Diana Wilson,35.0,Female,Marketing,Bristol,61343.0,29,4.1,Bachelor,Resigned,2014-10-07,2.8
+EMP0582,Bob Jones,36.0,Female,Marketing,Glasgow,83219.0,6,1.7,,Active,2014-10-10,2.4
+EMP0583,Diana Davis,52.0,Male,HR,Bristol,60186.0,31,3.0,Bachelor,On Leave,2014-10-13,
+EMP0584,Isla Smith,,Non-binary,Operations,London,61966.0,18,2.9,PhD,Active,2014-10-16,9.3
+EMP0585,Grace Jones,24.0,Male,IT,Birmingham,58769.0,5,3.5,,Active,2014-10-19,
+EMP0586,Bob Brown,37.0,Female,Sales,Manchester,78218.0,19,4.8,Bachelor,Active,2014-10-22,14.6
+EMP0587,Alice Davis,44.0,Male,Finance,Manchester,44229.0,26,3.3,Bachelor,Resigned,2014-10-25,11.1
+EMP0588,Charlie Wilson,32.0,Female,Marketing,Birmingham,52877.0,6,3.2,Bachelor,Active,2014-10-28,0.9
+EMP0589,Isla Wilson,33.0,Female,Marketing,Manchester,,4,,High School,On Leave,2014-10-31,8.0
+EMP0590,Bob Jones,,Non-binary,Sales,Glasgow,63084.0,10,1.3,Bachelor,Active,2014-11-03,20.3
+EMP0591,Diana Brown,53.0,Female,IT,London,41806.0,14,1.7,Bachelor,Active,2014-11-06,17.2
+EMP0592,Alice Taylor,37.0,Female,Operations,London,62034.0,2,1.1,High School,Resigned,2014-11-09,18.1
+EMP0593,James Wilson,29.0,Non-binary,Marketing,Birmingham,65317.0,4,,,Resigned,2014-11-12,17.5
+EMP0594,Alice Jones,59.0,Female,IT,Manchester,80468.0,22,3.9,Master,On Leave,2014-11-15,7.8
+EMP0595,Charlie Jones,33.0,Non-binary,Sales,Glasgow,44094.0,8,1.5,Bachelor,Active,2014-11-18,2.5
+EMP0596,Isla Wilson,45.0,Non-binary,HR,London,82796.0,14,4.3,Master,On Leave,2014-11-21,6.8
+EMP0597,Grace Jones,49.0,Female,Operations,,35589.0,2,1.6,PhD,On Leave,2014-11-24,20.8
+EMP0598,Eve Brown,29.0,Female,Finance,Leeds,82221.0,28,2.2,PhD,Active,2014-11-27,24.5
+EMP0599,Alice Brown,49.0,Male,Marketing,Leeds,26657.0,5,2.0,Bachelor,Resigned,2014-11-30,12.3
+EMP0600,Bob Brown,57.0,Non-binary,IT,London,,16,,,Active,2014-12-03,0.2
+EMP0601,Grace Jones,47.0,Male,HR,Birmingham,,25,2.0,,Resigned,2014-12-06,3.5
+EMP0602,Bob Smith,29.0,Female,Finance,Bristol,28164.0,20,3.0,Master,Resigned,2014-12-09,8.1
+EMP0603,Grace Brown,49.0,Male,IT,Bristol,66247.0,7,2.6,Master,Active,2014-12-12,14.5
+EMP0604,Alice Brown,49.0,Non-binary,IT,Glasgow,44601.0,20,4.9,,Active,2014-12-15,1.9
+EMP0605,Grace Taylor,58.0,Male,Finance,London,75599.0,10,1.2,Master,Active,2014-12-18,23.6
+EMP0606,Henry Brown,57.0,Non-binary,HR,London,29552.0,7,1.6,PhD,Active,2014-12-21,9.1
+EMP0607,Isla Taylor,48.0,Female,Sales,London,34417.0,23,,Bachelor,Active,2014-12-24,
+EMP0608,Isla Jones,38.0,Female,HR,Birmingham,83579.0,34,3.5,,Active,2014-12-27,19.5
+EMP0609,Frank Jones,30.0,Non-binary,Operations,Leeds,93207.0,13,1.2,Master,On Leave,2014-12-30,
+EMP0610,Charlie Jones,54.0,Female,Marketing,London,,13,4.3,Bachelor,Active,2015-01-02,15.2
+EMP0611,Alice Davis,41.0,Female,Finance,London,,9,3.0,Master,Active,2015-01-05,15.7
+EMP0612,Alice Jones,34.0,Female,Sales,Manchester,46438.0,11,3.1,Master,Active,2015-01-08,16.0
+EMP0613,James Wilson,49.0,Female,Finance,Birmingham,83819.0,33,3.2,High School,Resigned,2015-01-11,15.7
+EMP0614,Charlie Smith,50.0,Non-binary,Finance,Glasgow,68856.0,9,1.7,,Active,2015-01-14,
+EMP0615,Bob Wilson,34.0,Male,HR,London,,16,1.8,,Active,2015-01-17,24.7
+EMP0616,James Brown,56.0,Male,Marketing,Manchester,66938.0,16,2.3,Master,Active,2015-01-20,18.3
+EMP0617,Isla Smith,,Female,Operations,Bristol,74028.0,2,3.4,PhD,Resigned,2015-01-23,19.4
+EMP0618,Henry Wilson,39.0,Male,IT,Glasgow,84807.0,30,1.8,Bachelor,On Leave,2015-01-26,21.8
+EMP0619,Diana Davis,26.0,Male,IT,London,74877.0,0,1.5,Master,Active,2015-01-29,5.4
+EMP0620,Frank Davis,46.0,Female,Finance,London,68461.0,11,4.9,High School,Resigned,2015-02-01,2.1
+EMP0621,Grace Jones,23.0,Female,Marketing,Manchester,65469.0,3,1.1,Bachelor,Resigned,2015-02-04,12.1
+EMP0622,Bob Brown,31.0,Male,Sales,Birmingham,45435.0,12,4.2,High School,On Leave,2015-02-07,12.9
+EMP0623,Isla Jones,51.0,Non-binary,HR,London,39191.0,33,4.2,High School,Active,2015-02-10,20.7
+EMP0624,Eve Davis,26.0,Female,Marketing,Bristol,52386.0,20,2.2,PhD,Resigned,2015-02-13,11.1
+EMP0625,James Jones,54.0,Non-binary,Marketing,London,56721.0,21,1.5,PhD,On Leave,2015-02-16,14.3
+EMP0626,Diana Smith,,Male,HR,Bristol,79786.0,3,,Master,Active,2015-02-19,13.2
+EMP0627,Grace Brown,39.0,Female,Finance,Glasgow,38704.0,17,3.8,PhD,Active,2015-02-22,1.0
+EMP0628,Alice Taylor,53.0,Non-binary,Marketing,Glasgow,81635.0,4,3.6,High School,Active,2015-02-25,15.4
+EMP0629,Grace Wilson,32.0,Female,IT,Leeds,,18,4.1,High School,On Leave,2015-02-28,20.7
+EMP0630,Grace Brown,,Male,HR,Leeds,87993.0,1,,Bachelor,Active,2015-03-03,3.9
+EMP0631,James Smith,47.0,Non-binary,Sales,Bristol,50416.0,11,3.8,High School,Active,2015-03-06,14.9
+EMP0632,Eve Smith,46.0,Male,Operations,Birmingham,26814.0,16,,Master,Resigned,2015-03-09,14.8
+EMP0633,Charlie Taylor,43.0,Male,Finance,London,75258.0,9,,Master,Resigned,2015-03-12,4.1
+EMP0634,Charlie Brown,48.0,Female,HR,London,41508.0,33,4.4,PhD,Active,2015-03-15,3.1
+EMP0635,Alice Brown,34.0,Non-binary,Operations,Leeds,,5,1.8,PhD,On Leave,2015-03-18,24.5
+EMP0636,James Brown,54.0,Male,Operations,Bristol,71335.0,7,1.3,PhD,On Leave,2015-03-21,9.8
+EMP0637,Frank Smith,55.0,Male,Sales,London,71806.0,10,3.8,Master,Active,2015-03-24,5.7
+EMP0638,Henry Wilson,56.0,Non-binary,Marketing,London,88768.0,11,,High School,Active,2015-03-27,4.3
+EMP0639,James Smith,22.0,Male,Sales,Birmingham,60739.0,8,4.7,PhD,Resigned,2015-03-30,
+EMP0640,Henry Brown,,Male,Marketing,Manchester,59785.0,1,3.6,,Resigned,2015-04-02,15.2
+EMP0641,Alice Davis,,Non-binary,Marketing,Leeds,56980.0,7,1.4,PhD,On Leave,2015-04-05,16.1
+EMP0642,Alice Smith,49.0,Non-binary,HR,Leeds,26609.0,10,4.8,Master,On Leave,2015-04-08,2.2
+EMP0643,Frank Smith,38.0,Non-binary,HR,Manchester,91253.0,9,2.0,PhD,Active,2015-04-11,22.3
+EMP0644,Grace Taylor,26.0,Non-binary,Finance,London,53141.0,20,2.3,High School,Active,2015-04-14,9.7
+EMP0645,Charlie Taylor,52.0,Female,Marketing,Birmingham,55009.0,19,2.6,PhD,Active,2015-04-17,7.8
+EMP0646,Diana Brown,,Non-binary,Operations,Birmingham,31782.0,7,,Master,Active,2015-04-20,11.6
+EMP0647,Charlie Wilson,59.0,Female,IT,Leeds,50933.0,28,3.0,Master,Active,2015-04-23,9.8
+EMP0648,Henry Brown,24.0,Female,Finance,Birmingham,33307.0,11,1.5,Bachelor,On Leave,2015-04-26,21.6
+EMP0649,Isla Wilson,44.0,Female,HR,Glasgow,63346.0,13,2.6,Master,On Leave,2015-04-29,23.2
+EMP0650,Isla Smith,58.0,Male,Sales,Manchester,75772.0,20,2.4,Bachelor,On Leave,2015-05-02,7.6
+EMP0651,Eve Brown,58.0,Female,Finance,London,65149.0,21,4.1,High School,Active,2015-05-05,21.6
+EMP0652,Diana Taylor,31.0,Female,Finance,Glasgow,52526.0,20,4.2,,Active,2015-05-08,19.5
+EMP0653,James Smith,31.0,Male,Finance,Manchester,93477.0,29,1.6,PhD,On Leave,2015-05-11,23.3
+EMP0654,Frank Brown,40.0,Male,Finance,Bristol,30695.0,19,2.5,High School,Resigned,2015-05-14,6.1
+EMP0655,Frank Davis,38.0,Male,IT,Leeds,64169.0,23,2.5,PhD,Active,2015-05-17,14.4
+EMP0656,Charlie Smith,42.0,Non-binary,Sales,,72947.0,22,1.6,PhD,Resigned,2015-05-20,6.9
+EMP0657,Charlie Smith,35.0,Male,Sales,Bristol,,6,4.2,PhD,Active,2015-05-23,20.6
+EMP0658,Frank Brown,30.0,Male,Sales,Birmingham,70865.0,8,3.8,High School,On Leave,2015-05-26,0.1
+EMP0659,Frank Smith,,Female,Marketing,Glasgow,50553.0,0,1.8,High School,Active,2015-05-29,14.1
+EMP0660,Frank Taylor,34.0,Male,Operations,London,85410.0,25,2.5,Master,On Leave,2015-06-01,8.5
+EMP0661,Bob Brown,25.0,Non-binary,Sales,London,49816.0,21,1.4,PhD,Active,2015-06-04,8.1
+EMP0662,Isla Davis,22.0,Male,Finance,London,80026.0,9,3.5,Bachelor,Active,2015-06-07,16.1
+EMP0663,James Smith,61.0,Non-binary,Finance,Birmingham,75705.0,5,1.5,Master,Active,2015-06-10,
+EMP0664,Frank Brown,53.0,Male,Sales,Bristol,86922.0,16,4.9,High School,Active,2015-06-13,15.2
+EMP0665,Charlie Davis,55.0,Male,Sales,London,26881.0,23,4.1,Bachelor,On Leave,2015-06-16,21.3
+EMP0666,Diana Jones,49.0,Male,Finance,,64567.0,9,2.6,High School,Resigned,2015-06-19,6.6
+EMP0667,James Davis,52.0,Male,Marketing,Birmingham,72365.0,7,3.3,Bachelor,On Leave,2015-06-22,13.0
+EMP0668,Henry Brown,29.0,Non-binary,HR,,50006.0,20,4.6,Master,Active,2015-06-25,11.3
+EMP0669,Diana Jones,60.0,Non-binary,HR,Bristol,66198.0,5,3.2,Bachelor,Active,2015-06-28,0.3
+EMP0670,James Smith,47.0,Female,Sales,Glasgow,47831.0,20,1.7,Master,Resigned,2015-07-01,13.9
+EMP0671,Eve Wilson,55.0,Non-binary,IT,Birmingham,41459.0,23,2.5,High School,Active,2015-07-04,16.5
+EMP0672,Charlie Smith,24.0,Male,Sales,Birmingham,57443.0,32,4.4,Bachelor,Resigned,2015-07-07,14.8
+EMP0673,Bob Taylor,33.0,Female,Sales,Leeds,67316.0,17,,PhD,Resigned,2015-07-10,18.4
+EMP0674,Henry Wilson,22.0,Female,HR,Birmingham,89486.0,27,3.6,PhD,On Leave,2015-07-13,14.3
+EMP0675,Diana Brown,26.0,Female,Finance,Birmingham,30877.0,31,4.5,High School,Active,2015-07-16,1.7
+EMP0676,James Taylor,51.0,Male,Sales,Manchester,64553.0,11,4.6,Bachelor,Active,2015-07-19,
+EMP0677,Isla Davis,51.0,Non-binary,Finance,London,29922.0,26,4.7,PhD,Active,2015-07-22,14.9
+EMP0678,Charlie Wilson,38.0,Male,Finance,Leeds,29686.0,9,1.4,Master,Resigned,2015-07-25,6.9
+EMP0679,Bob Jones,44.0,Female,IT,Leeds,57766.0,31,3.2,Bachelor,Resigned,2015-07-28,2.0
+EMP0680,Diana Smith,36.0,Male,Finance,Leeds,57006.0,25,4.0,,Active,2015-07-31,10.7
+EMP0681,Alice Brown,,Male,HR,Manchester,56422.0,24,4.0,PhD,Active,2015-08-03,13.9
+EMP0682,Frank Smith,42.0,Non-binary,Marketing,Glasgow,37205.0,10,,Master,Resigned,2015-08-06,8.2
+EMP0683,Eve Davis,35.0,Non-binary,Marketing,Birmingham,48527.0,22,1.7,Master,Active,2015-08-09,18.0
+EMP0684,James Smith,23.0,Female,Operations,London,43443.0,33,4.2,Master,Active,2015-08-12,16.1
+EMP0685,Alice Smith,32.0,Male,Sales,Bristol,41524.0,22,3.9,Bachelor,Active,2015-08-15,8.3
+EMP0686,James Jones,60.0,Male,HR,Glasgow,53202.0,28,1.3,High School,Active,2015-08-18,18.9
+EMP0687,Eve Wilson,59.0,Non-binary,Finance,,90552.0,30,2.9,Bachelor,Active,2015-08-21,16.2
+EMP0688,Isla Taylor,55.0,Male,Marketing,Manchester,71142.0,6,1.7,Bachelor,Active,2015-08-24,15.9
+EMP0689,Grace Jones,59.0,Male,HR,Birmingham,86692.0,32,2.3,PhD,Resigned,2015-08-27,13.8
+EMP0690,James Wilson,55.0,Male,Marketing,Birmingham,45855.0,20,1.1,High School,On Leave,2015-08-30,0.3
+EMP0691,Bob Jones,39.0,Non-binary,Finance,Manchester,85372.0,1,2.6,Master,Active,2015-09-02,17.4
+EMP0692,Alice Jones,51.0,Female,Marketing,Leeds,,17,3.2,PhD,Resigned,2015-09-05,9.4
+EMP0693,Bob Taylor,36.0,Female,Sales,Leeds,63724.0,32,3.5,Bachelor,Resigned,2015-09-08,23.6
+EMP0694,Charlie Jones,48.0,Male,Sales,London,74241.0,33,3.7,High School,Active,2015-09-11,20.4
+EMP0695,Diana Brown,55.0,Female,Operations,London,77003.0,19,4.3,Master,Active,2015-09-14,14.7
+EMP0696,Bob Davis,59.0,Non-binary,Operations,Leeds,,34,1.9,Master,Active,2015-09-17,6.3
+EMP0697,Grace Wilson,54.0,Non-binary,Marketing,Glasgow,40972.0,17,1.5,Bachelor,Resigned,2015-09-20,
+EMP0698,Eve Smith,,Female,HR,Bristol,47927.0,23,4.4,Master,Active,2015-09-23,8.5
+EMP0699,James Davis,36.0,Female,Sales,Birmingham,91630.0,7,1.6,Master,Active,2015-09-26,11.9
+EMP0700,Grace Smith,51.0,Male,HR,Bristol,77347.0,29,,High School,Active,2015-09-29,7.4
+EMP0701,Frank Davis,38.0,Female,HR,Birmingham,94518.0,9,,PhD,Resigned,2015-10-02,12.9
+EMP0702,Charlie Davis,26.0,Male,Marketing,Leeds,70283.0,22,3.0,High School,Resigned,2015-10-05,4.1
+EMP0703,Alice Wilson,50.0,Male,HR,London,37205.0,10,4.9,,Resigned,2015-10-08,
+EMP0704,Eve Davis,25.0,Non-binary,Sales,Glasgow,37748.0,1,1.4,PhD,Active,2015-10-11,2.7
+EMP0705,Charlie Jones,31.0,Non-binary,Finance,London,46097.0,25,2.2,PhD,Active,2015-10-14,23.3
+EMP0706,Frank Smith,38.0,Non-binary,Operations,Bristol,28092.0,32,3.6,Master,Active,2015-10-17,22.8
+EMP0707,Isla Davis,31.0,Non-binary,Finance,,78311.0,12,2.4,High School,Active,2015-10-20,13.1
+EMP0708,Isla Smith,38.0,Female,HR,Leeds,47692.0,24,4.7,Master,Active,2015-10-23,18.1
+EMP0709,Diana Smith,41.0,Non-binary,Finance,Glasgow,48862.0,3,1.3,Bachelor,On Leave,2015-10-26,10.9
+EMP0710,Alice Jones,45.0,Female,Sales,Bristol,29926.0,18,3.2,High School,Active,2015-10-29,15.8
+EMP0711,Henry Wilson,26.0,Non-binary,Sales,Glasgow,28969.0,17,3.4,PhD,Resigned,2015-11-01,
+EMP0712,Henry Davis,55.0,Female,HR,Birmingham,60733.0,29,3.6,Master,Active,2015-11-04,7.5
+EMP0713,Isla Wilson,27.0,Male,Marketing,London,94855.0,18,2.0,Master,Active,2015-11-07,14.5
+EMP0714,Eve Smith,,Female,Finance,Glasgow,66743.0,22,2.5,High School,Active,2015-11-10,12.5
+EMP0715,Bob Brown,34.0,Female,Marketing,Manchester,64876.0,15,4.4,High School,Active,2015-11-13,14.5
+EMP0716,Eve Taylor,32.0,Non-binary,Marketing,London,45323.0,0,1.8,,Active,2015-11-16,7.2
+EMP0717,Frank Davis,44.0,Female,IT,,41428.0,11,,PhD,Resigned,2015-11-19,9.2
+EMP0718,Charlie Smith,37.0,Male,HR,Glasgow,,23,3.3,Bachelor,Active,2015-11-22,2.1
+EMP0719,Grace Brown,52.0,Male,Operations,Bristol,89140.0,33,4.0,PhD,Active,2015-11-25,1.3
+EMP0720,Charlie Brown,32.0,Non-binary,Sales,Birmingham,31364.0,7,3.9,Master,Resigned,2015-11-28,6.3
+EMP0721,Charlie Jones,37.0,Male,Sales,Manchester,60349.0,17,1.8,Bachelor,Active,2015-12-01,1.9
+EMP0722,Isla Smith,29.0,Female,HR,Glasgow,25691.0,4,3.3,Bachelor,On Leave,2015-12-04,2.6
+EMP0723,James Jones,25.0,Male,Operations,Leeds,91467.0,25,4.5,Bachelor,Resigned,2015-12-07,20.3
+EMP0724,Bob Jones,61.0,Non-binary,Sales,London,70896.0,29,2.7,High School,Active,2015-12-10,1.0
+EMP0725,Frank Brown,25.0,Female,HR,Bristol,82062.0,12,4.9,PhD,Active,2015-12-13,16.5
+EMP0726,Diana Taylor,46.0,Non-binary,Sales,Leeds,38861.0,18,2.8,Bachelor,Active,2015-12-16,6.8
+EMP0727,Eve Smith,24.0,Female,Marketing,Glasgow,88928.0,28,1.6,High School,Active,2015-12-19,21.8
+EMP0728,Grace Smith,53.0,Male,Finance,Glasgow,66347.0,2,2.6,High School,Active,2015-12-22,12.1
+EMP0729,Eve Smith,24.0,Non-binary,Finance,Birmingham,28121.0,25,4.8,Bachelor,Active,2015-12-25,7.6
+EMP0730,Henry Brown,,Non-binary,Sales,Glasgow,53164.0,11,2.3,Bachelor,Active,2015-12-28,
+EMP0731,James Taylor,50.0,Female,IT,Bristol,50491.0,1,4.5,Master,Active,2015-12-31,9.5
+EMP0732,Eve Brown,53.0,Non-binary,Operations,Leeds,84222.0,10,4.5,Bachelor,Resigned,2016-01-03,14.1
+EMP0733,Diana Jones,40.0,Female,Operations,,48165.0,27,2.4,Master,Active,2016-01-06,2.9
+EMP0734,Bob Davis,42.0,Female,Operations,,,17,1.3,Bachelor,Active,2016-01-09,24.9
+EMP0735,Charlie Smith,26.0,Female,Marketing,Manchester,51553.0,12,3.9,Bachelor,Active,2016-01-12,10.6
+EMP0736,Alice Davis,39.0,Female,Operations,London,85380.0,21,2.2,PhD,On Leave,2016-01-15,8.7
+EMP0737,Diana Davis,49.0,Male,Finance,London,69331.0,11,,Bachelor,Active,2016-01-18,
+EMP0738,Eve Wilson,43.0,Female,Marketing,Manchester,64560.0,1,,,Active,2016-01-21,9.1
+EMP0739,Diana Smith,42.0,Non-binary,HR,Glasgow,78865.0,6,2.9,Master,Active,2016-01-24,20.8
+EMP0740,Frank Jones,27.0,Male,Operations,Bristol,71686.0,25,4.1,Master,Active,2016-01-27,11.4
+EMP0741,Grace Wilson,22.0,Non-binary,Operations,Manchester,29675.0,25,2.5,PhD,Active,2016-01-30,18.0
+EMP0742,Alice Taylor,26.0,Male,HR,London,91706.0,23,2.8,Bachelor,Active,2016-02-02,2.7
+EMP0743,Eve Davis,33.0,Female,Operations,Manchester,35068.0,11,2.5,Bachelor,Active,2016-02-05,21.2
+EMP0744,Charlie Davis,47.0,Male,HR,Glasgow,79460.0,15,2.5,Master,Active,2016-02-08,18.4
+EMP0745,Bob Smith,55.0,Male,Marketing,Manchester,71418.0,22,3.1,High School,On Leave,2016-02-11,5.3
+EMP0746,Eve Wilson,35.0,Non-binary,Finance,Bristol,51206.0,8,4.2,High School,Resigned,2016-02-14,3.6
+EMP0747,Charlie Brown,47.0,Non-binary,HR,Leeds,25287.0,31,2.4,,Active,2016-02-17,7.9
+EMP0748,Eve Jones,48.0,Female,IT,Glasgow,47337.0,14,3.1,Master,On Leave,2016-02-20,24.4
+EMP0749,Grace Smith,30.0,Male,HR,London,45666.0,12,3.7,Master,Active,2016-02-23,6.4
+EMP0750,Charlie Smith,47.0,Male,Operations,Bristol,26161.0,4,2.1,High School,Resigned,2016-02-26,11.4
+EMP0751,Charlie Davis,43.0,Male,Marketing,Manchester,63751.0,10,2.1,High School,On Leave,2016-02-29,0.8
+EMP0752,Henry Jones,51.0,Female,Sales,Manchester,39758.0,9,4.7,Bachelor,Resigned,2016-03-03,9.9
+EMP0753,Alice Jones,38.0,Female,Marketing,Leeds,90780.0,12,3.9,Master,On Leave,2016-03-06,14.3
+EMP0754,Bob Wilson,47.0,Female,Sales,London,,14,3.3,Master,Active,2016-03-09,23.8
+EMP0755,Diana Davis,,Female,HR,London,56831.0,6,3.6,High School,Resigned,2016-03-12,
+EMP0756,Bob Brown,22.0,Female,Finance,Birmingham,27176.0,27,1.1,High School,On Leave,2016-03-15,20.5
+EMP0757,Frank Taylor,29.0,Non-binary,IT,London,58654.0,31,3.5,PhD,Active,2016-03-18,13.7
+EMP0758,Charlie Jones,,Male,Marketing,Leeds,,34,3.0,Master,Active,2016-03-21,1.0
+EMP0759,Henry Jones,36.0,Male,Operations,Birmingham,77550.0,14,3.2,PhD,Active,2016-03-24,7.9
+EMP0760,Bob Smith,43.0,Male,Sales,Birmingham,69910.0,20,2.4,Bachelor,Active,2016-03-27,
+EMP0761,Charlie Brown,,Male,Operations,Manchester,83251.0,5,1.3,PhD,Active,2016-03-30,23.8
+EMP0762,Diana Wilson,47.0,Male,Finance,,60422.0,0,1.8,High School,Active,2016-04-02,21.5
+EMP0763,Alice Wilson,49.0,Male,Sales,London,36984.0,3,,Master,Active,2016-04-05,5.7
+EMP0764,Grace Wilson,44.0,Male,Marketing,Birmingham,86386.0,10,2.6,Master,Active,2016-04-08,
+EMP0765,Charlie Wilson,35.0,Male,HR,Manchester,32135.0,25,2.9,PhD,Active,2016-04-11,5.0
+EMP0766,Alice Wilson,45.0,Non-binary,Operations,Leeds,25320.0,22,1.2,,On Leave,2016-04-14,23.1
+EMP0767,Frank Davis,23.0,Male,Finance,Manchester,46684.0,28,1.2,Bachelor,Resigned,2016-04-17,21.3
+EMP0768,Grace Brown,47.0,Non-binary,Marketing,Glasgow,80913.0,20,3.9,Bachelor,On Leave,2016-04-20,19.4
+EMP0769,Charlie Brown,35.0,Female,Marketing,Glasgow,46889.0,26,3.2,High School,Active,2016-04-23,9.8
+EMP0770,Bob Taylor,28.0,Male,Marketing,Manchester,73899.0,12,3.0,High School,Resigned,2016-04-26,12.6
+EMP0771,Diana Taylor,,Female,Marketing,Birmingham,,22,2.0,High School,Resigned,2016-04-29,11.6
+EMP0772,Charlie Brown,44.0,Female,Sales,Birmingham,64321.0,15,4.0,,Active,2016-05-02,6.3
+EMP0773,Alice Wilson,39.0,Female,Marketing,Bristol,66777.0,29,1.7,PhD,Resigned,2016-05-05,12.6
+EMP0774,Frank Jones,59.0,Non-binary,Operations,Glasgow,71250.0,3,1.8,Master,Resigned,2016-05-08,0.8
+EMP0775,Bob Davis,56.0,Female,Finance,Leeds,65130.0,15,2.8,High School,On Leave,2016-05-11,3.3
+EMP0776,Diana Brown,36.0,Female,Sales,Birmingham,,30,,PhD,Resigned,2016-05-14,22.2
+EMP0777,Eve Brown,46.0,Female,Marketing,London,27537.0,24,2.0,Master,Active,2016-05-17,18.8
+EMP0778,Charlie Davis,58.0,Male,IT,Glasgow,40216.0,11,3.6,High School,Active,2016-05-20,10.6
+EMP0779,Eve Davis,49.0,Male,IT,Leeds,28009.0,25,,,Active,2016-05-23,12.9
+EMP0780,Alice Brown,31.0,Non-binary,Finance,Leeds,54327.0,32,4.3,Bachelor,Active,2016-05-26,9.2
+EMP0781,Alice Jones,60.0,Non-binary,HR,,39209.0,27,2.7,PhD,Active,2016-05-29,18.5
+EMP0782,Isla Wilson,38.0,Male,HR,Leeds,73443.0,8,1.3,,Active,2016-06-01,19.6
+EMP0783,Charlie Wilson,60.0,Non-binary,Sales,Birmingham,40029.0,11,2.1,Bachelor,On Leave,2016-06-04,19.1
+EMP0784,Diana Smith,43.0,Male,Sales,Manchester,92613.0,4,4.9,,Active,2016-06-07,18.1
+EMP0785,Charlie Taylor,47.0,Female,Sales,Glasgow,81997.0,27,3.4,Master,Active,2016-06-10,5.1
+EMP0786,Charlie Brown,46.0,Female,HR,Bristol,87559.0,34,3.8,Bachelor,Active,2016-06-13,8.4
+EMP0787,Alice Wilson,38.0,Non-binary,IT,Manchester,89892.0,4,1.0,Master,Resigned,2016-06-16,11.7
+EMP0788,Eve Wilson,34.0,Male,HR,Glasgow,33635.0,33,3.1,Bachelor,Resigned,2016-06-19,8.3
+EMP0789,Eve Taylor,41.0,Male,Operations,Birmingham,58065.0,33,1.2,PhD,Resigned,2016-06-22,18.9
+EMP0790,Charlie Brown,46.0,Non-binary,Marketing,Glasgow,58783.0,12,3.3,High School,Active,2016-06-25,8.2
+EMP0791,Bob Davis,25.0,Male,Sales,Birmingham,59152.0,13,4.7,High School,On Leave,2016-06-28,3.5
+EMP0792,Henry Taylor,31.0,Female,IT,Manchester,83741.0,10,4.9,PhD,Active,2016-07-01,10.0
+EMP0793,James Davis,24.0,Non-binary,Finance,,76502.0,3,3.2,Bachelor,Active,2016-07-04,24.5
+EMP0794,Charlie Jones,39.0,Non-binary,Finance,London,54092.0,32,2.8,Bachelor,Resigned,2016-07-07,
+EMP0795,Bob Davis,57.0,Male,Marketing,Glasgow,42653.0,6,4.8,Bachelor,Active,2016-07-10,
+EMP0796,Henry Smith,43.0,Non-binary,IT,London,65469.0,7,3.7,Bachelor,Active,2016-07-13,10.8
+EMP0797,James Davis,,Male,HR,Birmingham,84754.0,9,1.3,PhD,Active,2016-07-16,1.8
+EMP0798,Isla Jones,29.0,Male,HR,Leeds,54978.0,14,2.9,High School,Active,2016-07-19,12.2
+EMP0799,Charlie Wilson,61.0,Male,Operations,Birmingham,68169.0,14,2.0,Master,Active,2016-07-22,17.6
+EMP0800,Bob Smith,40.0,Male,Operations,Leeds,73287.0,4,2.9,Master,Resigned,2016-07-25,12.8
+EMP0801,Isla Brown,58.0,Male,HR,Manchester,79745.0,28,2.8,High School,On Leave,2016-07-28,21.8
+EMP0802,Frank Taylor,27.0,Non-binary,Finance,Bristol,,18,3.3,PhD,On Leave,2016-07-31,7.2
+EMP0803,Isla Jones,47.0,Female,Sales,Leeds,81392.0,9,2.4,Master,Active,2016-08-03,2.2
+EMP0804,Diana Wilson,,Female,Finance,London,46067.0,11,1.7,High School,On Leave,2016-08-06,23.4
+EMP0805,Henry Wilson,27.0,Non-binary,Operations,Birmingham,76033.0,3,3.0,,On Leave,2016-08-09,9.5
+EMP0806,Alice Davis,58.0,Non-binary,Marketing,Manchester,70256.0,30,4.3,Master,Resigned,2016-08-12,14.4
+EMP0807,Bob Brown,54.0,Female,HR,London,94345.0,17,3.7,,Resigned,2016-08-15,19.8
+EMP0808,Frank Wilson,43.0,Female,Operations,Manchester,47191.0,15,2.4,Bachelor,Active,2016-08-18,8.1
+EMP0809,Henry Jones,42.0,Female,Operations,Bristol,53992.0,24,4.7,PhD,Active,2016-08-21,17.9
+EMP0810,Grace Davis,27.0,Female,Sales,Birmingham,73803.0,22,4.6,Bachelor,On Leave,2016-08-24,3.4
+EMP0811,Alice Jones,27.0,Female,HR,Glasgow,88477.0,11,1.8,PhD,Active,2016-08-27,7.3
+EMP0812,Bob Smith,25.0,Male,Sales,Birmingham,38210.0,33,1.2,,Active,2016-08-30,3.6
+EMP0813,Charlie Brown,51.0,Non-binary,HR,,51270.0,2,4.0,High School,On Leave,2016-09-02,20.3
+EMP0814,Grace Taylor,32.0,Male,Sales,Birmingham,87008.0,8,4.3,Master,On Leave,2016-09-05,5.6
+EMP0815,Bob Jones,51.0,Female,Finance,Glasgow,30197.0,17,4.9,PhD,Resigned,2016-09-08,17.9
+EMP0816,Henry Brown,52.0,Female,Marketing,Leeds,,34,4.6,Master,Active,2016-09-11,23.6
+EMP0817,James Taylor,45.0,Female,Marketing,Manchester,66486.0,33,3.4,Master,Active,2016-09-14,13.2
+EMP0818,Alice Brown,30.0,Male,HR,Glasgow,39859.0,13,3.1,High School,On Leave,2016-09-17,
+EMP0819,Grace Davis,,Male,IT,London,52236.0,3,1.1,,Active,2016-09-20,11.5
+EMP0820,Isla Wilson,52.0,Female,Operations,Bristol,56899.0,28,2.0,Bachelor,Active,2016-09-23,8.1
+EMP0821,Charlie Wilson,61.0,Male,Operations,Leeds,57083.0,14,2.8,Master,Active,2016-09-26,11.9
+EMP0822,Diana Davis,58.0,Male,HR,London,92708.0,27,,PhD,Active,2016-09-29,15.1
+EMP0823,Frank Taylor,57.0,Female,Sales,London,41663.0,15,3.2,Bachelor,On Leave,2016-10-02,24.6
+EMP0824,Diana Jones,45.0,Male,IT,Bristol,44053.0,11,4.0,,Resigned,2016-10-05,23.4
+EMP0825,Frank Taylor,52.0,Non-binary,Finance,Leeds,36085.0,4,,PhD,On Leave,2016-10-08,21.6
+EMP0826,Isla Taylor,27.0,Non-binary,Sales,London,55564.0,33,3.3,Bachelor,Active,2016-10-11,22.2
+EMP0827,Bob Jones,23.0,Non-binary,Sales,,,0,1.4,,Active,2016-10-14,11.7
+EMP0828,Isla Jones,41.0,Non-binary,HR,Leeds,94517.0,31,2.7,Bachelor,Active,2016-10-17,16.4
+EMP0829,Henry Brown,,Female,HR,Birmingham,,25,4.0,PhD,Active,2016-10-20,22.4
+EMP0830,Alice Jones,32.0,Female,Operations,London,30247.0,16,3.8,PhD,Active,2016-10-23,9.8
+EMP0831,Charlie Smith,25.0,Female,HR,Manchester,35553.0,26,5.0,Bachelor,Resigned,2016-10-26,24.0
+EMP0832,Bob Taylor,36.0,Non-binary,HR,,45811.0,23,2.1,High School,Active,2016-10-29,10.4
+EMP0833,Eve Brown,27.0,Non-binary,HR,,31135.0,34,3.0,High School,On Leave,2016-11-01,
+EMP0834,Alice Wilson,51.0,Male,Operations,Bristol,30573.0,25,2.3,PhD,On Leave,2016-11-04,17.7
+EMP0835,Diana Jones,59.0,Male,Finance,Glasgow,32189.0,22,2.8,PhD,Active,2016-11-07,23.8
+EMP0836,Bob Wilson,23.0,Non-binary,Finance,Manchester,68646.0,21,4.4,High School,Active,2016-11-10,6.1
+EMP0837,Grace Brown,36.0,Non-binary,HR,Glasgow,78687.0,3,3.7,High School,On Leave,2016-11-13,18.7
+EMP0838,James Davis,32.0,Non-binary,Operations,,93312.0,8,4.5,Master,On Leave,2016-11-16,13.0
+EMP0839,Bob Smith,29.0,Non-binary,Finance,London,52564.0,3,1.8,,Resigned,2016-11-19,6.7
+EMP0840,Bob Smith,47.0,Male,Sales,Manchester,53835.0,6,4.5,PhD,Active,2016-11-22,19.4
+EMP0841,James Taylor,26.0,Non-binary,Finance,Manchester,86587.0,22,1.2,Bachelor,On Leave,2016-11-25,13.8
+EMP0842,Grace Wilson,27.0,Male,Finance,Birmingham,32697.0,1,4.6,,Active,2016-11-28,16.5
+EMP0843,Frank Taylor,47.0,Non-binary,Operations,Glasgow,42046.0,23,2.3,Master,Active,2016-12-01,8.1
+EMP0844,Isla Wilson,25.0,Non-binary,Sales,Manchester,82823.0,30,2.3,Master,Active,2016-12-04,12.0
+EMP0845,Diana Taylor,40.0,Non-binary,Operations,Birmingham,78370.0,30,3.0,Master,Resigned,2016-12-07,15.4
+EMP0846,Henry Smith,41.0,Male,HR,Leeds,34615.0,33,4.8,Bachelor,On Leave,2016-12-10,
+EMP0847,Eve Davis,54.0,Male,Marketing,Birmingham,30060.0,23,1.2,High School,Active,2016-12-13,5.0
+EMP0848,Frank Smith,41.0,Female,Finance,Bristol,85519.0,25,2.4,High School,Active,2016-12-16,24.0
+EMP0849,James Taylor,33.0,Non-binary,Marketing,London,86158.0,15,4.4,High School,Active,2016-12-19,12.8
+EMP0850,James Smith,22.0,Female,Operations,Leeds,59782.0,12,2.6,Bachelor,Active,2016-12-22,18.3
+EMP0851,Grace Davis,47.0,Female,Operations,Leeds,83255.0,14,1.8,Bachelor,Resigned,2016-12-25,10.3
+EMP0852,Henry Brown,35.0,Male,Operations,,81918.0,26,2.7,PhD,Active,2016-12-28,8.9
+EMP0853,Bob Jones,59.0,Male,Marketing,Birmingham,50256.0,3,2.5,Master,On Leave,2016-12-31,
+EMP0854,Bob Taylor,58.0,Female,Operations,London,55005.0,15,4.7,Master,Resigned,2017-01-03,10.2
+EMP0855,Isla Davis,32.0,Non-binary,HR,Birmingham,31638.0,29,4.0,High School,On Leave,2017-01-06,13.6
+EMP0856,Diana Brown,57.0,Male,Operations,Manchester,62419.0,29,,Bachelor,Active,2017-01-09,13.6
+EMP0857,James Taylor,34.0,Non-binary,IT,Birmingham,58377.0,2,5.0,Bachelor,Active,2017-01-12,12.4
+EMP0858,Frank Brown,24.0,Non-binary,Marketing,Leeds,68116.0,21,2.9,High School,Active,2017-01-15,
+EMP0859,Alice Taylor,54.0,Female,IT,London,61634.0,21,,High School,Active,2017-01-18,12.4
+EMP0860,Charlie Davis,27.0,Female,Operations,Birmingham,48382.0,11,2.0,PhD,Resigned,2017-01-21,4.2
+EMP0861,Frank Brown,,Female,HR,London,81063.0,20,2.7,Master,On Leave,2017-01-24,3.2
+EMP0862,Frank Smith,26.0,Female,Finance,,47394.0,3,1.6,Master,On Leave,2017-01-27,
+EMP0863,Frank Brown,44.0,Male,Sales,Manchester,92789.0,30,4.8,Master,Resigned,2017-01-30,15.1
+EMP0864,Alice Smith,31.0,Male,Sales,Manchester,25864.0,30,4.1,PhD,Active,2017-02-02,16.5
+EMP0865,Charlie Smith,23.0,Female,Operations,Leeds,65222.0,22,2.1,High School,Active,2017-02-05,10.0
+EMP0866,Charlie Smith,34.0,Male,HR,Bristol,38666.0,19,3.4,High School,Active,2017-02-08,22.7
+EMP0867,Alice Davis,61.0,Female,Marketing,London,45955.0,14,3.9,Master,On Leave,2017-02-11,15.9
+EMP0868,Diana Taylor,23.0,Non-binary,IT,Bristol,94590.0,22,4.8,Master,On Leave,2017-02-14,19.2
+EMP0869,James Brown,41.0,Non-binary,IT,,91471.0,27,4.5,PhD,On Leave,2017-02-17,9.2
+EMP0870,Eve Wilson,,Non-binary,IT,London,68298.0,15,3.1,Bachelor,Resigned,2017-02-20,
+EMP0871,Alice Smith,58.0,Female,Marketing,London,88108.0,20,4.1,Bachelor,Active,2017-02-23,20.5
+EMP0872,Henry Wilson,30.0,Non-binary,Sales,Glasgow,,14,3.2,,Active,2017-02-26,21.3
+EMP0873,Isla Davis,38.0,Male,HR,Bristol,41709.0,16,3.2,PhD,Active,2017-03-01,4.3
+EMP0874,Isla Wilson,30.0,Non-binary,Marketing,Birmingham,34726.0,12,1.5,Master,Resigned,2017-03-04,6.8
+EMP0875,Alice Jones,32.0,Non-binary,IT,Manchester,85824.0,18,1.5,Bachelor,Active,2017-03-07,
+EMP0876,Frank Jones,36.0,Non-binary,Operations,Birmingham,65542.0,29,3.1,Master,Active,2017-03-10,6.8
+EMP0877,Charlie Wilson,45.0,Male,Finance,Bristol,45245.0,17,2.1,Bachelor,Resigned,2017-03-13,21.4
+EMP0878,Charlie Taylor,59.0,Female,Marketing,Manchester,59753.0,13,1.1,Bachelor,Active,2017-03-16,0.8
+EMP0879,Frank Davis,56.0,Male,Marketing,Birmingham,46316.0,19,3.9,Bachelor,Resigned,2017-03-19,1.9
+EMP0880,Isla Taylor,51.0,Female,HR,Glasgow,40960.0,18,1.1,High School,Active,2017-03-22,6.8
+EMP0881,Grace Jones,52.0,Female,HR,Manchester,55791.0,6,3.4,High School,Active,2017-03-25,5.0
+EMP0882,Diana Davis,26.0,Non-binary,Marketing,London,50216.0,3,3.2,Master,Active,2017-03-28,5.8
+EMP0883,Grace Taylor,35.0,Female,IT,Birmingham,57467.0,33,4.9,Bachelor,Active,2017-03-31,19.9
+EMP0884,Alice Taylor,32.0,Male,Finance,,89427.0,1,2.9,High School,Active,2017-04-03,14.1
+EMP0885,Grace Davis,30.0,Male,HR,Glasgow,87047.0,4,1.3,,Active,2017-04-06,0.1
+EMP0886,Grace Wilson,55.0,Female,IT,Manchester,72014.0,9,3.2,Master,Resigned,2017-04-09,
+EMP0887,Alice Brown,33.0,Non-binary,Operations,Manchester,29078.0,31,4.4,Master,Active,2017-04-12,10.2
+EMP0888,Diana Smith,56.0,Non-binary,HR,Glasgow,75519.0,12,5.0,Master,Active,2017-04-15,2.8
+EMP0889,Diana Wilson,56.0,Male,IT,Birmingham,29042.0,4,2.7,Master,Active,2017-04-18,16.9
+EMP0890,Charlie Brown,22.0,Non-binary,IT,Leeds,74052.0,9,2.3,,Active,2017-04-21,17.6
+EMP0891,Charlie Brown,61.0,Female,Finance,Birmingham,39389.0,9,4.6,Bachelor,Active,2017-04-24,18.0
+EMP0892,Bob Taylor,43.0,Female,Finance,,93111.0,26,,Master,Active,2017-04-27,
+EMP0893,Grace Brown,50.0,Male,Operations,Glasgow,,20,3.5,PhD,Active,2017-04-30,0.0
+EMP0894,Grace Davis,29.0,Female,IT,Birmingham,59754.0,7,2.6,Bachelor,Resigned,2017-05-03,23.8
+EMP0895,Alice Jones,32.0,Male,Sales,Manchester,43624.0,0,1.2,High School,Active,2017-05-06,
+EMP0896,James Brown,58.0,Female,IT,,51681.0,27,2.4,Master,Active,2017-05-09,22.6
+EMP0897,Charlie Smith,35.0,Male,Finance,London,49704.0,13,2.1,,Active,2017-05-12,0.4
+EMP0898,Henry Jones,51.0,Non-binary,Sales,Birmingham,32493.0,20,3.7,High School,On Leave,2017-05-15,23.3
+EMP0899,James Jones,56.0,Female,HR,Glasgow,94639.0,29,4.8,PhD,Resigned,2017-05-18,20.2
+EMP0900,Diana Jones,,Female,HR,Birmingham,79383.0,20,2.1,Bachelor,Active,2017-05-21,20.9
+EMP0901,James Taylor,58.0,Male,Marketing,Glasgow,27994.0,8,4.2,Bachelor,Active,2017-05-24,2.3
+EMP0902,Bob Wilson,26.0,Male,Finance,Manchester,94280.0,16,1.2,High School,Active,2017-05-27,18.5
+EMP0903,Alice Jones,40.0,Female,Marketing,London,72234.0,4,3.2,PhD,On Leave,2017-05-30,24.0
+EMP0904,Bob Smith,35.0,Male,Sales,London,72291.0,30,1.3,Master,On Leave,2017-06-02,
+EMP0905,Henry Taylor,47.0,Female,Finance,Bristol,30594.0,18,4.7,Master,Resigned,2017-06-05,14.3
+EMP0906,Charlie Taylor,25.0,Non-binary,Operations,,32371.0,32,4.1,High School,On Leave,2017-06-08,23.6
+EMP0907,Charlie Wilson,46.0,Male,IT,Birmingham,72315.0,12,,High School,Active,2017-06-11,11.1
+EMP0908,Charlie Taylor,46.0,Female,Operations,London,41626.0,13,4.3,High School,On Leave,2017-06-14,15.0
+EMP0909,Frank Smith,39.0,Non-binary,Sales,London,32130.0,32,,PhD,On Leave,2017-06-17,11.9
+EMP0910,Charlie Wilson,61.0,Non-binary,Finance,Leeds,31828.0,28,4.9,Master,Active,2017-06-20,23.3
+EMP0911,Bob Brown,29.0,Female,Sales,Leeds,82514.0,9,3.9,Master,Active,2017-06-23,1.9
+EMP0912,Diana Jones,60.0,Male,IT,London,77664.0,30,4.7,Master,On Leave,2017-06-26,12.5
+EMP0913,Diana Davis,61.0,Female,HR,Glasgow,42883.0,5,3.1,High School,On Leave,2017-06-29,17.2
+EMP0914,Alice Taylor,35.0,Non-binary,HR,Bristol,,0,1.5,Master,Active,2017-07-02,19.8
+EMP0915,Frank Wilson,53.0,Female,Sales,London,67932.0,6,3.1,Bachelor,On Leave,2017-07-05,14.6
+EMP0916,Henry Brown,59.0,Male,Marketing,Manchester,86269.0,26,1.5,High School,On Leave,2017-07-08,22.7
+EMP0917,Henry Taylor,54.0,Non-binary,Finance,Birmingham,27035.0,20,3.4,Master,Active,2017-07-11,23.5
+EMP0918,Henry Smith,44.0,Female,Finance,Bristol,65745.0,27,2.9,PhD,Active,2017-07-14,1.6
+EMP0919,Bob Taylor,36.0,Male,HR,Manchester,42241.0,15,,,Resigned,2017-07-17,10.1
+EMP0920,Alice Taylor,54.0,Non-binary,Operations,Bristol,,22,,Bachelor,Active,2017-07-20,0.6
+EMP0921,Eve Davis,46.0,Male,IT,Manchester,48154.0,19,1.8,Bachelor,Active,2017-07-23,8.2
+EMP0922,Eve Davis,38.0,Non-binary,Operations,Birmingham,50625.0,24,3.0,PhD,Active,2017-07-26,13.4
+EMP0923,Charlie Wilson,54.0,Female,Operations,,,27,4.8,PhD,On Leave,2017-07-29,22.8
+EMP0924,Frank Davis,23.0,Male,Sales,Leeds,81396.0,4,2.5,High School,Active,2017-08-01,21.2
+EMP0925,Henry Wilson,35.0,Non-binary,HR,Glasgow,38331.0,20,2.7,High School,Active,2017-08-04,3.2
+EMP0926,Eve Taylor,61.0,Male,HR,Manchester,88927.0,17,3.9,Bachelor,Active,2017-08-07,2.3
+EMP0927,Grace Jones,61.0,Male,HR,Leeds,88014.0,5,3.4,PhD,Resigned,2017-08-10,14.7
+EMP0928,Bob Taylor,60.0,Female,Sales,Manchester,,28,2.2,High School,Active,2017-08-13,13.3
+EMP0929,Bob Jones,27.0,Male,Marketing,Leeds,,18,2.6,Bachelor,On Leave,2017-08-16,6.7
+EMP0930,Bob Jones,27.0,Non-binary,Operations,Birmingham,37254.0,32,1.9,,Active,2017-08-19,22.5
+EMP0931,Bob Smith,24.0,Non-binary,Sales,Bristol,,0,4.9,,Active,2017-08-22,23.2
+EMP0932,Charlie Taylor,28.0,Non-binary,Finance,Leeds,53621.0,2,1.5,Master,Active,2017-08-25,10.1
+EMP0933,Henry Brown,29.0,Non-binary,IT,,71121.0,20,,PhD,Active,2017-08-28,22.3
+EMP0934,Isla Taylor,36.0,Female,Marketing,,85197.0,34,1.1,High School,On Leave,2017-08-31,9.6
+EMP0935,Grace Jones,50.0,Male,Finance,Glasgow,67431.0,2,1.9,High School,Resigned,2017-09-03,18.4
+EMP0936,Alice Davis,54.0,Female,Operations,Birmingham,29837.0,24,4.1,Master,Active,2017-09-06,11.9
+EMP0937,Henry Wilson,51.0,Male,HR,Manchester,73994.0,19,1.8,PhD,Resigned,2017-09-09,3.1
+EMP0938,James Brown,60.0,Male,Operations,London,37615.0,33,1.3,Bachelor,Active,2017-09-12,23.2
+EMP0939,Diana Brown,48.0,Male,Sales,Bristol,26466.0,20,2.9,High School,On Leave,2017-09-15,11.4
+EMP0940,Isla Wilson,57.0,Female,IT,Leeds,55771.0,22,1.0,Master,Active,2017-09-18,18.4
+EMP0941,Charlie Taylor,50.0,Male,Sales,Glasgow,90911.0,5,1.3,Master,Active,2017-09-21,9.2
+EMP0942,James Davis,59.0,Female,Marketing,Bristol,45746.0,12,4.2,PhD,Active,2017-09-24,0.5
+EMP0943,Charlie Jones,54.0,Non-binary,Marketing,Birmingham,85739.0,22,4.1,PhD,Active,2017-09-27,2.5
+EMP0944,Bob Smith,58.0,Non-binary,IT,Glasgow,26893.0,8,4.7,High School,Resigned,2017-09-30,12.4
+EMP0945,Isla Davis,48.0,Male,Finance,Leeds,55573.0,16,4.4,,On Leave,2017-10-03,17.2
+EMP0946,Bob Jones,54.0,Female,Finance,,65874.0,1,3.7,Bachelor,On Leave,2017-10-06,8.4
+EMP0947,James Brown,25.0,Non-binary,Marketing,London,58367.0,18,1.2,Master,Active,2017-10-09,17.4
+EMP0948,Charlie Davis,43.0,Female,Marketing,Birmingham,46199.0,18,4.1,Bachelor,Active,2017-10-12,17.5
+EMP0949,Grace Taylor,23.0,Female,HR,,82724.0,6,4.4,Bachelor,Resigned,2017-10-15,17.6
+EMP0950,Charlie Jones,31.0,Male,Finance,Glasgow,61405.0,19,4.2,High School,Active,2017-10-18,12.3
+EMP0951,Grace Brown,26.0,Non-binary,IT,Manchester,40989.0,8,3.0,Master,Active,2017-10-21,22.9
+EMP0952,Eve Brown,31.0,Male,Finance,,53931.0,16,1.9,Bachelor,On Leave,2017-10-24,12.2
+EMP0953,Frank Wilson,54.0,Male,HR,London,34290.0,26,4.4,PhD,Resigned,2017-10-27,11.3
+EMP0954,Frank Davis,59.0,Non-binary,Sales,Glasgow,,1,3.9,Bachelor,Active,2017-10-30,5.0
+EMP0955,Grace Davis,34.0,Non-binary,Marketing,,55133.0,18,4.9,PhD,On Leave,2017-11-02,7.7
+EMP0956,Henry Wilson,52.0,Female,Marketing,Bristol,52052.0,16,1.6,,Active,2017-11-05,1.1
+EMP0957,Alice Taylor,57.0,Non-binary,HR,Bristol,65475.0,4,1.9,Master,On Leave,2017-11-08,15.8
+EMP0958,Grace Davis,45.0,Female,IT,Bristol,,17,1.8,PhD,On Leave,2017-11-11,
+EMP0959,Frank Brown,36.0,Female,Marketing,London,29633.0,6,4.2,Bachelor,Active,2017-11-14,7.6
+EMP0960,Alice Brown,50.0,Female,Operations,Manchester,42304.0,16,1.7,PhD,On Leave,2017-11-17,
+EMP0961,Frank Davis,29.0,Non-binary,Marketing,Leeds,71546.0,3,1.3,Master,On Leave,2017-11-20,8.2
+EMP0962,Grace Davis,26.0,Male,Operations,Bristol,32008.0,24,5.0,High School,Resigned,2017-11-23,6.1
+EMP0963,James Brown,50.0,Female,HR,Manchester,73291.0,4,1.1,Bachelor,On Leave,2017-11-26,4.2
+EMP0964,Diana Davis,,Male,HR,Birmingham,52405.0,29,4.3,Bachelor,Active,2017-11-29,19.4
+EMP0965,James Smith,33.0,Male,Marketing,Bristol,61386.0,11,2.5,Master,Active,2017-12-02,3.2
+EMP0966,Diana Smith,23.0,Non-binary,Finance,Leeds,45827.0,3,4.4,Master,Resigned,2017-12-05,
+EMP0967,Bob Wilson,48.0,Male,Operations,Birmingham,58040.0,23,3.2,Master,On Leave,2017-12-08,12.7
+EMP0968,Diana Taylor,52.0,Male,IT,Birmingham,85354.0,28,4.6,Master,Active,2017-12-11,17.2
+EMP0969,Henry Smith,57.0,Non-binary,Marketing,Leeds,43157.0,8,4.7,Bachelor,Active,2017-12-14,15.8
+EMP0970,Isla Wilson,57.0,Female,IT,Bristol,60315.0,3,1.0,High School,Resigned,2017-12-17,20.3
+EMP0971,Eve Taylor,47.0,Male,Marketing,London,60932.0,23,1.3,PhD,Active,2017-12-20,
+EMP0972,James Taylor,48.0,Non-binary,Finance,Leeds,46164.0,13,2.0,PhD,On Leave,2017-12-23,7.4
+EMP0973,Diana Taylor,26.0,Male,Finance,Leeds,39414.0,4,3.7,High School,Active,2017-12-26,7.0
+EMP0974,Henry Taylor,41.0,Male,Finance,Leeds,39327.0,17,4.6,High School,Active,2017-12-29,3.7
+EMP0975,Bob Jones,32.0,Female,Sales,Birmingham,,18,2.8,,Resigned,2018-01-01,7.2
+EMP0976,Eve Taylor,31.0,Male,Finance,Manchester,39693.0,11,3.4,,Active,2018-01-04,7.7
+EMP0977,James Wilson,61.0,Non-binary,HR,London,52241.0,17,1.8,Bachelor,Active,2018-01-07,13.0
+EMP0978,Grace Brown,59.0,Male,HR,Bristol,40540.0,16,4.2,Bachelor,Active,2018-01-10,16.6
+EMP0979,Henry Taylor,27.0,Female,Sales,Bristol,89757.0,29,,Bachelor,Active,2018-01-13,9.5
+EMP0980,Henry Smith,29.0,Female,Operations,Manchester,,23,2.1,Master,Resigned,2018-01-16,18.0
+EMP0981,Grace Wilson,44.0,Non-binary,IT,Leeds,50081.0,10,3.0,Bachelor,On Leave,2018-01-19,8.4
+EMP0982,Isla Smith,47.0,Female,Marketing,London,86861.0,34,1.3,Master,Active,2018-01-22,7.3
+EMP0983,Henry Jones,,Male,Marketing,Bristol,36350.0,22,3.2,Bachelor,Active,2018-01-25,13.5
+EMP0984,James Brown,47.0,Female,Sales,Glasgow,80512.0,16,3.0,High School,Active,2018-01-28,0.6
+EMP0985,Isla Davis,34.0,Non-binary,HR,Bristol,81809.0,0,1.6,PhD,Resigned,2018-01-31,2.0
+EMP0986,Charlie Davis,61.0,Female,Marketing,Leeds,67832.0,14,2.8,PhD,On Leave,2018-02-03,10.4
+EMP0987,Grace Taylor,39.0,Female,HR,Glasgow,53369.0,31,2.3,Master,Active,2018-02-06,23.6
+EMP0988,Charlie Wilson,46.0,Female,Operations,Manchester,56728.0,8,3.1,Bachelor,Active,2018-02-09,
+EMP0989,Henry Taylor,54.0,Non-binary,IT,London,42576.0,14,3.3,PhD,On Leave,2018-02-12,2.2
+EMP0990,Isla Davis,,Female,Operations,Manchester,54001.0,27,1.0,High School,Active,2018-02-15,21.2
+EMP0991,Isla Davis,33.0,Female,Sales,Manchester,25390.0,23,4.0,High School,Active,2018-02-18,18.3
+EMP0992,Grace Jones,,Male,Finance,London,,34,3.9,High School,Active,2018-02-21,15.3
+EMP0993,Alice Wilson,25.0,Non-binary,Finance,London,36569.0,21,2.5,Master,Active,2018-02-24,20.5
+EMP0994,Diana Jones,26.0,Female,Finance,,38029.0,26,1.2,Master,Resigned,2018-02-27,10.1
+EMP0995,Bob Brown,58.0,Non-binary,Operations,Bristol,47490.0,18,4.0,Bachelor,Active,2018-03-02,5.5
+EMP0996,Charlie Davis,29.0,Female,Marketing,London,70875.0,11,4.8,High School,Active,2018-03-05,
+EMP0997,Alice Wilson,,Female,IT,Glasgow,30867.0,19,2.0,Bachelor,Active,2018-03-08,13.7
+EMP0998,Bob Taylor,52.0,Female,Finance,Birmingham,34121.0,0,2.3,Bachelor,Active,2018-03-11,13.5
+EMP0999,Isla Smith,30.0,Male,Sales,Bristol,26539.0,20,1.7,High School,Resigned,2018-03-14,14.1
+EMP1000,Henry Taylor,50.0,Male,Sales,Birmingham,42027.0,0,3.3,Bachelor,On Leave,2018-03-17,23.7
+EMP1001,Diana Brown,35.0,Male,Finance,Glasgow,33921.0,9,1.6,PhD,On Leave,2018-03-20,22.6
+EMP1002,Bob Smith,61.0,Non-binary,Finance,London,75435.0,31,2.4,Master,Active,2018-03-23,21.9
+EMP1003,Frank Smith,43.0,Non-binary,IT,Glasgow,35310.0,21,3.8,Bachelor,On Leave,2018-03-26,20.0
+EMP1004,Isla Jones,32.0,Male,Finance,Bristol,88965.0,17,3.2,High School,Active,2018-03-29,23.6
+EMP1005,Bob Brown,,Non-binary,IT,Manchester,94922.0,31,,Master,Resigned,2018-04-01,2.5
+EMP1006,Frank Taylor,,Female,Sales,London,37242.0,26,2.7,Master,On Leave,2018-04-04,6.6
+EMP1007,Isla Davis,,Female,Finance,Leeds,33947.0,27,3.2,Bachelor,Active,2018-04-07,12.4
+EMP1008,Isla Smith,42.0,Female,Operations,Birmingham,86816.0,17,,PhD,Active,2018-04-10,21.2
+EMP1009,Eve Taylor,47.0,Male,Operations,Glasgow,73785.0,28,1.3,Bachelor,On Leave,2018-04-13,12.6
+EMP1010,James Taylor,57.0,Non-binary,Sales,London,25507.0,17,4.5,PhD,Resigned,2018-04-16,18.7
+EMP1011,Grace Brown,44.0,Male,IT,Glasgow,91972.0,7,1.3,,Resigned,2018-04-19,3.5
+EMP1012,Alice Wilson,22.0,Non-binary,Operations,London,52151.0,30,3.8,Bachelor,Active,2018-04-22,6.3
+EMP1013,Isla Smith,61.0,Female,IT,Bristol,36618.0,33,4.7,High School,Resigned,2018-04-25,18.3
+EMP1014,Grace Davis,36.0,Male,Operations,Bristol,41122.0,6,2.1,Bachelor,Resigned,2018-04-28,4.1
+EMP1015,Bob Smith,42.0,Non-binary,Operations,Bristol,32354.0,17,2.5,,On Leave,2018-05-01,8.8
+EMP1016,Grace Jones,30.0,Non-binary,IT,Glasgow,55979.0,8,3.3,PhD,Active,2018-05-04,6.6
+EMP1017,James Smith,30.0,Female,Marketing,Leeds,77774.0,8,4.5,Bachelor,Active,2018-05-07,8.7
+EMP1018,Isla Wilson,31.0,Male,Operations,Bristol,30037.0,7,4.8,PhD,Resigned,2018-05-10,17.7
+EMP1019,Diana Davis,47.0,Male,Finance,London,53633.0,34,4.0,,Resigned,2018-05-13,9.2
+EMP1020,Isla Jones,56.0,Male,Sales,Bristol,49495.0,17,1.3,Bachelor,Active,2018-05-16,13.9
+EMP1021,Charlie Jones,46.0,Female,Marketing,Manchester,89550.0,4,3.7,PhD,Resigned,2018-05-19,2.5
+EMP1022,Bob Wilson,47.0,Male,IT,Bristol,,13,2.6,,On Leave,2018-05-22,20.1
+EMP1023,Eve Jones,32.0,Female,Marketing,,59069.0,27,2.9,Bachelor,On Leave,2018-05-25,9.2
+EMP1024,Diana Davis,59.0,Female,HR,Leeds,32370.0,29,,High School,Active,2018-05-28,16.2
+EMP1025,Frank Wilson,23.0,Female,HR,,64133.0,3,1.8,Bachelor,Resigned,2018-05-31,18.1
+EMP1026,Diana Davis,28.0,Non-binary,Operations,Glasgow,25692.0,19,4.2,High School,Resigned,2018-06-03,5.2
+EMP1027,Charlie Brown,39.0,Male,Operations,Glasgow,53926.0,24,2.8,PhD,Active,2018-06-06,22.1
+EMP1028,Diana Jones,48.0,Male,Finance,Glasgow,68390.0,27,2.2,,Resigned,2018-06-09,15.4
+EMP1029,Diana Jones,55.0,Female,Sales,London,74593.0,11,2.5,High School,On Leave,2018-06-12,10.7
+EMP1030,Charlie Brown,48.0,Female,Marketing,Glasgow,30209.0,1,4.4,High School,Active,2018-06-15,4.6
+EMP1031,Henry Taylor,38.0,Male,HR,London,31533.0,13,4.0,Master,Active,2018-06-18,23.6
+EMP1032,Frank Smith,45.0,Female,Operations,Glasgow,32211.0,21,2.1,High School,Active,2018-06-21,18.9
+EMP1033,Frank Taylor,,Male,Sales,Birmingham,34927.0,30,1.5,Bachelor,Active,2018-06-24,5.2
+EMP1034,Eve Brown,28.0,Non-binary,Marketing,Manchester,49594.0,22,2.0,High School,Resigned,2018-06-27,8.4
+EMP1035,Isla Wilson,,Female,Operations,Birmingham,32933.0,19,4.7,Bachelor,Resigned,2018-06-30,20.2
+EMP1036,Isla Wilson,45.0,Male,Operations,,65696.0,3,3.3,,Active,2018-07-03,17.4
+EMP1037,Isla Davis,54.0,Female,HR,Manchester,90449.0,14,3.1,Master,Resigned,2018-07-06,19.1
+EMP1038,Isla Jones,50.0,Male,HR,Manchester,92616.0,23,3.4,PhD,Active,2018-07-09,11.0
+EMP1039,Frank Davis,,Male,Operations,Leeds,31089.0,24,2.5,High School,Active,2018-07-12,17.9
+EMP1040,Isla Jones,47.0,Female,IT,Birmingham,81548.0,0,4.2,High School,Active,2018-07-15,9.7
+EMP1041,Diana Davis,49.0,Non-binary,Operations,Leeds,51123.0,6,3.1,Master,On Leave,2018-07-18,5.3
+EMP1042,Frank Taylor,42.0,Male,Sales,Manchester,32797.0,30,1.5,,On Leave,2018-07-21,15.8
+EMP1043,Charlie Davis,28.0,Male,Operations,,75013.0,11,,Bachelor,Resigned,2018-07-24,24.4
+EMP1044,Eve Davis,38.0,Male,Finance,Manchester,33346.0,4,3.1,High School,Active,2018-07-27,7.8
+EMP1045,Grace Smith,41.0,Non-binary,Finance,Leeds,58672.0,11,4.7,,Active,2018-07-30,11.5
+EMP1046,Eve Davis,41.0,Non-binary,Finance,Birmingham,42653.0,17,2.2,PhD,Active,2018-08-02,
+EMP1047,Grace Wilson,43.0,Female,IT,Glasgow,74556.0,1,4.5,PhD,Active,2018-08-05,13.5
+EMP1048,Henry Brown,49.0,Non-binary,IT,Glasgow,51140.0,9,,High School,Resigned,2018-08-08,21.1
+EMP1049,Diana Brown,61.0,Female,Operations,Birmingham,26184.0,14,2.0,,Resigned,2018-08-11,19.0
+EMP1050,Eve Brown,28.0,Female,Finance,Glasgow,59493.0,29,1.1,PhD,Active,2018-08-14,1.5
+EMP1051,Diana Brown,22.0,Non-binary,IT,Glasgow,69148.0,16,1.4,High School,Active,2018-08-17,25.0
+EMP1052,Grace Wilson,53.0,Female,HR,Leeds,,3,3.9,PhD,Active,2018-08-20,18.8
+EMP1053,Eve Taylor,34.0,Non-binary,Operations,Birmingham,,6,1.8,High School,Resigned,2018-08-23,
+EMP1054,Henry Smith,51.0,Female,Sales,Bristol,30606.0,30,2.5,PhD,Resigned,2018-08-26,16.3
+EMP1055,James Taylor,44.0,Non-binary,Marketing,London,28956.0,33,3.0,PhD,Active,2018-08-29,21.4
+EMP1056,Frank Jones,40.0,Non-binary,Operations,London,41555.0,5,3.9,,Active,2018-09-01,2.8
+EMP1057,Diana Taylor,53.0,Female,Marketing,Glasgow,43690.0,33,1.5,High School,On Leave,2018-09-04,8.7
+EMP1058,Alice Wilson,51.0,Male,Finance,London,83502.0,14,2.6,High School,Active,2018-09-07,21.9
+EMP1059,Frank Brown,50.0,Female,Marketing,Birmingham,73849.0,13,2.9,High School,Active,2018-09-10,5.0
+EMP1060,Grace Wilson,50.0,Non-binary,Finance,Birmingham,51347.0,5,3.2,High School,Active,2018-09-13,2.0
+EMP1061,Isla Jones,51.0,Male,HR,Manchester,74056.0,31,4.3,PhD,Active,2018-09-16,19.7
+EMP1062,Charlie Jones,37.0,Female,Marketing,Manchester,88851.0,2,1.7,Bachelor,Active,2018-09-19,20.9
+EMP1063,Bob Smith,61.0,Female,Operations,London,66850.0,2,4.2,Bachelor,On Leave,2018-09-22,4.1
+EMP1064,Alice Jones,40.0,Female,Finance,Bristol,52843.0,21,3.8,Master,Active,2018-09-25,21.4
+EMP1065,Henry Smith,39.0,Male,Operations,,87320.0,21,3.2,High School,On Leave,2018-09-28,17.2
+EMP1066,Charlie Wilson,22.0,Non-binary,IT,Manchester,54793.0,9,,Master,Active,2018-10-01,
+EMP1067,Grace Wilson,35.0,Female,Finance,Birmingham,64516.0,2,,,Active,2018-10-04,20.8
+EMP1068,James Davis,23.0,Female,Marketing,Bristol,42857.0,11,1.6,Master,On Leave,2018-10-07,10.5
+EMP1069,Alice Davis,49.0,Female,Finance,,44627.0,28,3.7,High School,Active,2018-10-10,4.8
+EMP1070,Bob Brown,,Female,Operations,London,86822.0,16,,Bachelor,On Leave,2018-10-13,7.1
+EMP1071,Alice Davis,59.0,Female,HR,Manchester,77248.0,6,3.6,,On Leave,2018-10-16,12.6
+EMP1072,Eve Jones,25.0,Non-binary,Finance,Bristol,80798.0,12,2.4,High School,Active,2018-10-19,13.3
+EMP1073,James Taylor,22.0,Non-binary,Marketing,Bristol,,1,4.6,PhD,Active,2018-10-22,20.1
+EMP1074,Charlie Smith,29.0,Female,IT,London,,3,3.3,,Active,2018-10-25,19.8
+EMP1075,Frank Taylor,50.0,Male,Sales,Bristol,,9,1.3,PhD,Resigned,2018-10-28,14.5
+EMP1076,Frank Jones,60.0,Non-binary,HR,Bristol,,23,2.8,Bachelor,Resigned,2018-10-31,19.5
+EMP1077,Frank Smith,24.0,Male,IT,,82608.0,16,4.0,PhD,Resigned,2018-11-03,4.8
+EMP1078,Frank Jones,53.0,Non-binary,Finance,Manchester,60892.0,5,4.2,High School,Active,2018-11-06,1.3
+EMP1079,Henry Smith,31.0,Female,Operations,London,25924.0,18,3.0,High School,On Leave,2018-11-09,21.8
+EMP1080,Alice Jones,31.0,Non-binary,Operations,Bristol,76322.0,4,4.6,,Active,2018-11-12,1.9
+EMP1081,Henry Taylor,40.0,Female,Marketing,Bristol,51478.0,31,2.1,PhD,Active,2018-11-15,6.2
+EMP1082,Isla Jones,55.0,Non-binary,Operations,Manchester,71418.0,9,,PhD,On Leave,2018-11-18,17.4
+EMP1083,Charlie Wilson,54.0,Female,HR,London,87217.0,8,,PhD,Active,2018-11-21,10.2
+EMP1084,Diana Jones,44.0,Female,Operations,,36781.0,26,4.6,Bachelor,On Leave,2018-11-24,
+EMP1085,Diana Brown,49.0,Female,Marketing,Manchester,30515.0,12,3.7,Master,Active,2018-11-27,7.4
+EMP1086,Grace Brown,53.0,Female,Sales,London,61133.0,18,4.4,Master,Active,2018-11-30,0.3
+EMP1087,Grace Taylor,28.0,Male,Finance,Bristol,34095.0,20,1.4,High School,Active,2018-12-03,7.5
+EMP1088,Eve Jones,50.0,Female,Finance,London,45470.0,23,4.5,,On Leave,2018-12-06,14.5
+EMP1089,Isla Jones,29.0,Male,Operations,London,68129.0,3,2.3,PhD,On Leave,2018-12-09,9.4
+EMP1090,Grace Taylor,22.0,Male,IT,Glasgow,33531.0,23,1.7,High School,Active,2018-12-12,13.4
+EMP1091,Charlie Davis,24.0,Female,Finance,London,62038.0,34,2.0,Bachelor,Active,2018-12-15,21.9
+EMP1092,Isla Jones,,Male,Sales,Birmingham,67674.0,2,2.7,High School,Active,2018-12-18,22.8
+EMP1093,Frank Brown,44.0,Non-binary,Operations,London,54831.0,3,,Bachelor,Active,2018-12-21,6.6
+EMP1094,Isla Wilson,29.0,Female,Marketing,Birmingham,82174.0,34,2.3,Bachelor,Active,2018-12-24,
+EMP1095,James Brown,58.0,Male,Sales,Bristol,36279.0,30,,Master,Active,2018-12-27,13.7
+EMP1096,Bob Wilson,24.0,Female,Operations,Birmingham,63220.0,24,2.2,High School,Active,2018-12-30,23.7
+EMP1097,James Brown,54.0,Female,Sales,,,12,3.3,PhD,On Leave,2019-01-02,25.0
+EMP1098,James Brown,49.0,Female,Finance,Bristol,77719.0,3,,Master,Resigned,2019-01-05,5.9
+EMP1099,Frank Brown,29.0,Male,Marketing,Birmingham,78051.0,13,2.4,Master,On Leave,2019-01-08,18.2
+EMP1100,Isla Taylor,55.0,Non-binary,Operations,Manchester,81652.0,12,4.0,PhD,Active,2019-01-11,9.5
+EMP1101,Grace Jones,56.0,Non-binary,HR,,90524.0,26,4.6,Bachelor,Active,2019-01-14,
+EMP1102,Diana Smith,53.0,Male,Marketing,London,31470.0,5,4.0,PhD,On Leave,2019-01-17,0.2
+EMP1103,Eve Wilson,45.0,Female,HR,Glasgow,92598.0,16,2.3,High School,Active,2019-01-20,11.5
+EMP1104,Eve Smith,35.0,Male,Sales,Leeds,66798.0,34,4.0,PhD,On Leave,2019-01-23,12.2
+EMP1105,Charlie Jones,53.0,Male,IT,London,78473.0,16,,Bachelor,Active,2019-01-26,0.6
+EMP1106,Diana Brown,37.0,Male,Marketing,London,44880.0,1,1.5,PhD,On Leave,2019-01-29,17.2
+EMP1107,Alice Taylor,25.0,Female,Sales,Bristol,69439.0,12,,Bachelor,Active,2019-02-01,7.4
+EMP1108,Diana Wilson,58.0,Male,HR,London,39308.0,1,4.2,Bachelor,Resigned,2019-02-04,14.0
+EMP1109,Alice Smith,42.0,Female,Finance,Glasgow,60081.0,27,2.0,High School,Active,2019-02-07,7.5
+EMP1110,Isla Davis,35.0,Male,Finance,London,75383.0,25,,PhD,On Leave,2019-02-10,4.2
+EMP1111,Diana Taylor,52.0,Non-binary,IT,Birmingham,34837.0,21,1.5,PhD,Resigned,2019-02-13,10.2
+EMP1112,Henry Taylor,39.0,Male,Marketing,Leeds,77151.0,2,4.4,High School,Active,2019-02-16,5.8
+EMP1113,Frank Davis,28.0,Male,Marketing,Birmingham,,34,3.5,Bachelor,On Leave,2019-02-19,13.4
+EMP1114,Diana Davis,31.0,Non-binary,Marketing,Glasgow,,11,2.0,PhD,Resigned,2019-02-22,5.0
+EMP1115,Grace Brown,28.0,Female,Sales,,51299.0,23,3.2,High School,Resigned,2019-02-25,12.7
+EMP1116,James Brown,54.0,Female,IT,,83861.0,4,3.1,Bachelor,Resigned,2019-02-28,3.9
+EMP1117,Frank Wilson,44.0,Male,Marketing,Bristol,55063.0,19,3.6,High School,Active,2019-03-03,16.8
+EMP1118,Bob Smith,42.0,Non-binary,Sales,Birmingham,94453.0,12,1.9,PhD,Active,2019-03-06,18.8
+EMP1119,Diana Taylor,40.0,Female,Finance,Birmingham,93472.0,11,4.5,High School,Active,2019-03-09,
+EMP1120,Henry Brown,40.0,Male,HR,Manchester,39506.0,12,2.2,Master,Active,2019-03-12,11.7
+EMP1121,Henry Taylor,57.0,Non-binary,Sales,London,51026.0,9,3.8,Bachelor,Active,2019-03-15,1.8
+EMP1122,Charlie Brown,50.0,Female,Finance,Bristol,52672.0,32,1.1,Master,Active,2019-03-18,15.0
+EMP1123,Frank Smith,39.0,Female,Finance,Birmingham,63417.0,15,2.5,Master,Resigned,2019-03-21,6.6
+EMP1124,Alice Davis,23.0,Non-binary,HR,Birmingham,77413.0,34,2.4,Bachelor,Active,2019-03-24,
+EMP1125,Henry Davis,22.0,Non-binary,Finance,Bristol,90066.0,2,3.2,Bachelor,Active,2019-03-27,12.9
+EMP1126,Grace Davis,26.0,Non-binary,IT,Glasgow,84213.0,4,1.3,High School,On Leave,2019-03-30,23.1
+EMP1127,Alice Jones,41.0,Non-binary,HR,Glasgow,75971.0,25,4.2,Bachelor,Resigned,2019-04-02,13.7
+EMP1128,Bob Brown,32.0,Male,Finance,London,52281.0,10,1.9,Master,Active,2019-04-05,14.6
+EMP1129,Alice Taylor,23.0,Non-binary,Operations,Manchester,53091.0,6,3.7,Master,On Leave,2019-04-08,10.0
+EMP1130,Charlie Taylor,24.0,Female,Sales,Birmingham,75494.0,9,4.2,PhD,On Leave,2019-04-11,23.7
+EMP1131,Frank Jones,44.0,Female,Finance,Manchester,43610.0,33,,Bachelor,On Leave,2019-04-14,19.4
+EMP1132,Grace Davis,33.0,Male,IT,Glasgow,26079.0,2,,Master,Active,2019-04-17,7.1
+EMP1133,Eve Taylor,41.0,Female,Marketing,,71751.0,7,3.6,,Active,2019-04-20,21.1
+EMP1134,Diana Jones,26.0,Female,Finance,,80432.0,30,2.4,PhD,Resigned,2019-04-23,10.8
+EMP1135,Diana Brown,58.0,Non-binary,Marketing,London,,10,4.2,High School,Active,2019-04-26,20.7
+EMP1136,Grace Jones,59.0,Female,Operations,Leeds,84872.0,6,2.2,Master,Active,2019-04-29,20.6
+EMP1137,Henry Taylor,51.0,Male,Finance,Leeds,32235.0,1,3.3,High School,Active,2019-05-02,4.7
+EMP1138,James Davis,30.0,Non-binary,HR,Leeds,87712.0,5,4.0,Master,Resigned,2019-05-05,17.5
+EMP1139,Bob Brown,55.0,Non-binary,Marketing,London,46473.0,31,2.5,High School,Resigned,2019-05-08,7.3
+EMP1140,Diana Wilson,56.0,Male,Operations,London,92567.0,19,,High School,Active,2019-05-11,7.4
+EMP1141,Henry Brown,43.0,Non-binary,HR,Bristol,57230.0,33,2.8,,Active,2019-05-14,7.4
+EMP1142,Grace Jones,45.0,Non-binary,HR,Manchester,93876.0,15,4.3,High School,Active,2019-05-17,18.1
+EMP1143,Henry Davis,38.0,Male,HR,Manchester,65644.0,24,4.7,,Active,2019-05-20,
+EMP1144,Alice Wilson,31.0,Non-binary,HR,Bristol,73664.0,11,3.2,PhD,On Leave,2019-05-23,0.0
+EMP1145,Isla Brown,51.0,Male,Finance,Bristol,70203.0,6,3.6,,On Leave,2019-05-26,17.9
+EMP1146,Charlie Davis,44.0,Male,Sales,Glasgow,,16,4.6,PhD,Active,2019-05-29,4.3
+EMP1147,Diana Brown,53.0,Female,Finance,Leeds,50425.0,10,1.4,Master,Active,2019-06-01,2.6
+EMP1148,Eve Brown,38.0,Female,Finance,Bristol,94806.0,5,1.9,PhD,Active,2019-06-04,5.9
+EMP1149,Eve Davis,38.0,Non-binary,Operations,Birmingham,67814.0,22,3.8,Master,On Leave,2019-06-07,9.5
+EMP1150,Henry Jones,35.0,Non-binary,Operations,Manchester,74646.0,26,4.3,High School,Active,2019-06-10,11.9
+EMP1151,Grace Taylor,,Male,Sales,Bristol,,5,4.4,Master,Active,2019-06-13,1.1
+EMP1152,James Wilson,61.0,Non-binary,Operations,,94322.0,1,2.7,Master,Active,2019-06-16,24.3
+EMP1153,Diana Smith,23.0,Male,IT,Birmingham,46650.0,21,1.4,PhD,Resigned,2019-06-19,17.9
+EMP1154,Diana Wilson,46.0,Male,Sales,Birmingham,34190.0,19,2.8,PhD,On Leave,2019-06-22,8.1
+EMP1155,Henry Brown,60.0,Non-binary,Operations,Glasgow,63196.0,24,1.9,PhD,Active,2019-06-25,8.0
+EMP1156,Diana Davis,30.0,Male,Sales,Glasgow,64449.0,14,2.2,Bachelor,Active,2019-06-28,
+EMP1157,Eve Brown,43.0,Female,Finance,Birmingham,64661.0,28,4.1,Bachelor,Resigned,2019-07-01,
+EMP1158,Bob Wilson,25.0,Non-binary,Finance,Glasgow,54709.0,7,1.3,Master,On Leave,2019-07-04,3.7
+EMP1159,Grace Brown,47.0,Female,Sales,Leeds,34943.0,32,4.3,Master,Active,2019-07-07,4.7
+EMP1160,James Smith,50.0,Non-binary,IT,Birmingham,68240.0,21,,High School,Active,2019-07-10,21.5
+EMP1161,Henry Wilson,55.0,Male,IT,Leeds,70760.0,4,3.4,High School,Active,2019-07-13,6.4
+EMP1162,Charlie Taylor,44.0,Non-binary,Sales,Leeds,46042.0,17,1.4,Master,Active,2019-07-16,9.5
+EMP1163,Frank Jones,58.0,Female,Operations,Birmingham,68894.0,29,,,Active,2019-07-19,
+EMP1164,Charlie Davis,32.0,Male,Marketing,Manchester,31869.0,30,1.4,Master,On Leave,2019-07-22,16.6
+EMP1165,James Brown,27.0,Non-binary,IT,Birmingham,86078.0,9,4.8,High School,Resigned,2019-07-25,
+EMP1166,Henry Brown,39.0,Non-binary,HR,Birmingham,81759.0,14,4.2,Bachelor,Active,2019-07-28,17.1
+EMP1167,Charlie Wilson,,Non-binary,Finance,Glasgow,,17,2.8,Bachelor,On Leave,2019-07-31,0.5
+EMP1168,Isla Wilson,57.0,Female,Sales,Birmingham,80371.0,22,1.9,High School,Active,2019-08-03,18.4
+EMP1169,Alice Jones,59.0,Female,HR,Manchester,45918.0,32,4.7,Master,Active,2019-08-06,12.2
+EMP1170,James Brown,55.0,Non-binary,Sales,Glasgow,53379.0,15,2.4,PhD,Active,2019-08-09,20.3
+EMP1171,James Wilson,38.0,Male,Finance,London,27962.0,34,1.6,Master,On Leave,2019-08-12,23.9
+EMP1172,Bob Davis,,Male,Finance,London,38851.0,33,3.3,Master,Resigned,2019-08-15,23.1
+EMP1173,Charlie Davis,46.0,Female,IT,,,27,4.8,High School,Active,2019-08-18,22.7
+EMP1174,Grace Jones,59.0,Male,IT,Leeds,77349.0,1,1.0,Bachelor,Active,2019-08-21,12.8
+EMP1175,Eve Smith,33.0,Female,HR,Manchester,81356.0,29,2.0,High School,Active,2019-08-24,9.0
+EMP1176,Henry Smith,44.0,Non-binary,Sales,Bristol,39745.0,12,4.8,,Active,2019-08-27,11.6
+EMP1177,Bob Smith,43.0,Female,Finance,London,30730.0,15,1.7,PhD,On Leave,2019-08-30,17.2
+EMP1178,Henry Wilson,42.0,Female,HR,Leeds,38921.0,4,1.5,PhD,Active,2019-09-02,22.1
+EMP1179,Frank Smith,48.0,Non-binary,Marketing,London,44023.0,27,3.3,,Active,2019-09-05,5.2
+EMP1180,Alice Smith,,Male,HR,Manchester,70349.0,19,4.4,High School,Resigned,2019-09-08,23.0
+EMP1181,Diana Smith,27.0,Female,Operations,Manchester,66979.0,23,2.9,Bachelor,On Leave,2019-09-11,20.4
+EMP1182,Frank Smith,48.0,Female,HR,Bristol,47837.0,26,5.0,High School,Resigned,2019-09-14,24.5
+EMP1183,Eve Wilson,61.0,Non-binary,Operations,Bristol,39997.0,29,3.7,PhD,Resigned,2019-09-17,22.0
+EMP1184,Alice Brown,55.0,Male,Operations,Glasgow,70039.0,26,1.3,Master,Active,2019-09-20,
+EMP1185,Alice Wilson,33.0,Female,Operations,Manchester,45923.0,25,5.0,Bachelor,Active,2019-09-23,2.6
+EMP1186,Diana Taylor,28.0,Non-binary,Marketing,Leeds,33876.0,6,2.6,High School,Active,2019-09-26,2.8
+EMP1187,Grace Brown,31.0,Female,HR,London,85973.0,4,2.1,High School,On Leave,2019-09-29,7.3
+EMP1188,Henry Davis,38.0,Non-binary,HR,Birmingham,27887.0,22,3.2,Bachelor,On Leave,2019-10-02,15.4
+EMP1189,Diana Wilson,47.0,Male,Marketing,Bristol,,27,2.2,Bachelor,Active,2019-10-05,20.1
+EMP1190,Eve Davis,42.0,Male,Finance,Birmingham,67422.0,33,1.3,Master,Active,2019-10-08,22.5
+EMP1191,Diana Wilson,49.0,Male,IT,Leeds,76413.0,14,,Bachelor,Active,2019-10-11,15.6
+EMP1192,Charlie Smith,23.0,Male,HR,,27841.0,31,2.8,Master,On Leave,2019-10-14,0.1
+EMP1193,Henry Jones,,Female,IT,Birmingham,53756.0,25,4.3,,Active,2019-10-17,4.7
+EMP1194,Charlie Brown,57.0,Female,Sales,Leeds,35304.0,30,3.3,PhD,On Leave,2019-10-20,2.5
+EMP1195,Grace Davis,47.0,Male,Sales,London,55341.0,18,5.0,High School,Active,2019-10-23,9.1
+EMP1196,Alice Taylor,50.0,Male,Marketing,Leeds,29758.0,8,2.1,PhD,Active,2019-10-26,12.5
+EMP1197,Grace Davis,,Male,Sales,,,28,2.1,PhD,Active,2019-10-29,1.1
+EMP1198,Alice Brown,32.0,Female,Sales,Bristol,85758.0,3,1.6,Master,Active,2019-11-01,8.7
+EMP1199,Bob Smith,61.0,Male,Finance,,56658.0,2,1.7,High School,Active,2019-11-04,4.5
+EMP1200,Diana Brown,32.0,Male,Finance,London,74002.0,28,2.1,Bachelor,Active,2019-11-07,16.2
+EMP0637,Frank Smith,55.0,Male,Sales,London,71806.0,10,3.8,Master,Active,2015-03-24,5.7
+EMP0684,James Smith,23.0,Female,Operations,London,43443.0,33,4.2,Master,Active,2015-08-12,16.1
+EMP1034,Eve Brown,28.0,Non-binary,Marketing,Manchester,49594.0,22,2.0,High School,Resigned,2018-06-27,8.4
+EMP0191,Eve Smith,59.0,Male,IT,London,50338.0,34,4.6,PhD,On Leave,2011-07-25,19.1
+EMP1084,Diana Jones,44.0,Female,Operations,,36781.0,26,4.6,Bachelor,On Leave,2018-11-24,
+EMP0284,Grace Davis,51.0,Non-binary,Finance,Glasgow,28262.0,0,3.9,Bachelor,Active,2012-04-29,
+EMP0818,Alice Brown,30.0,Male,HR,Glasgow,39859.0,13,3.1,High School,On Leave,2016-09-17,
+EMP0315,Bob Smith,53.0,Female,Sales,Manchester,25336.0,3,2.8,PhD,Resigned,2012-07-31,21.9
+EMP0538,Frank Smith,29.0,Female,Marketing,Bristol,54227.0,6,3.9,Bachelor,On Leave,2014-05-31,18.0
+EMP0665,Charlie Davis,55.0,Male,Sales,London,26881.0,23,4.1,Bachelor,On Leave,2015-06-16,21.3
+EMP0240,Eve Davis,24.0,Male,Sales,Manchester,76934.0,30,4.3,Bachelor,On Leave,2011-12-19,13.5
+EMP0136,Alice Davis,34.0,Non-binary,IT,,34941.0,18,2.2,Master,Resigned,2011-02-10,5.0
+EMP0336,Eve Brown,22.0,Male,IT,Glasgow,72764.0,10,3.1,Master,Active,2012-10-02,16.9
+EMP0190,Frank Taylor,38.0,Female,Finance,Bristol,60179.0,3,,,On Leave,2011-07-22,18.0
+EMP0839,Bob Smith,29.0,Non-binary,Finance,London,52564.0,3,1.8,,Resigned,2016-11-19,6.7
+EMP0322,Eve Brown,38.0,Female,Finance,,91670.0,5,2.9,Master,Active,2012-08-21,24.0
+EMP1147,Diana Brown,53.0,Female,Finance,Leeds,50425.0,10,1.4,Master,Active,2019-06-01,2.6
+EMP0229,Diana Brown,47.0,Female,Marketing,London,,29,4.9,PhD,Active,2011-11-16,
+EMP0481,Frank Smith,33.0,Female,IT,Glasgow,49000.0,17,3.8,High School,Active,2013-12-11,3.2
+EMP1044,Eve Davis,38.0,Male,Finance,Manchester,33346.0,4,3.1,High School,Active,2018-07-27,7.8
+EMP1007,Isla Davis,,Female,Finance,Leeds,33947.0,27,3.2,Bachelor,Active,2018-04-07,12.4
+EMP0307,Henry Davis,54.0,Female,Operations,Leeds,45862.0,3,1.8,Master,Active,2012-07-07,17.9
+EMP1093,Frank Brown,44.0,Non-binary,Operations,London,54831.0,3,,Bachelor,Active,2018-12-21,6.6
+EMP0569,Isla Smith,27.0,Female,Operations,Glasgow,87653.0,2,3.2,High School,Active,2014-09-01,15.4
+EMP0221,Grace Davis,49.0,Female,Finance,Leeds,,7,,PhD,Active,2011-10-23,6.3
+EMP0832,Bob Taylor,36.0,Non-binary,HR,,45811.0,23,2.1,High School,Active,2016-10-29,10.4
+EMP0582,Bob Jones,36.0,Female,Marketing,Glasgow,83219.0,6,1.7,,Active,2014-10-10,2.4
+EMP0199,Frank Wilson,54.0,Male,Finance,,90149.0,22,4.8,,Active,2011-08-18,23.5
+EMP0917,Henry Taylor,54.0,Non-binary,Finance,Birmingham,27035.0,20,3.4,Master,Active,2017-07-11,23.5
+EMP0456,Bob Davis,31.0,Male,Marketing,Bristol,,25,1.4,High School,On Leave,2013-09-27,15.2
